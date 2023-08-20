@@ -1,0 +1,677 @@
+<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><div id="bitforms_5_1505_1" class="Cz5 EL5 _frm-bg-b5">
+      
+          <form novalidate="" id="form-bitforms_5_1505_1" class="Cx5 Cy5 _frm-b5" method="post">
+              <input type="text" class="d-none" name="csrf" value="wJo+oTJiJyE4hvI5td0gyes3DsiJ2QG95dzofLpMG04=">
+              <input type="text" class="d-none" name="t_identity" value="Va5FwmhREv+SRDJsoZ8wcoc5lyQNlGRrTLP0kca/7Pw=">
+              
+              <input type="text" class="d-none" name="bitforms_id" value="bitforms_5">
+                  <div class="btcd-fld-itm b5-7 ">
+        <div class="J5 L5 M5 N5 b5-7-fld-wrp ">
+            <div class="v5 y5 z5 b5-7-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-7-lbl " for="b5-7-1">
+        
+        
+        Match Title
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-7-inp-wrp "> 
+            <div class="N5 b5-7-inp-fld-wrp ">
+      <input id="b5-7-1" class="B5 F5 G5 Z5 a5 b5 c5 d5 e5 f5 g5 h5 i5 j5 k5 l5 m5 n5 o5 p5 q5 r5 s5 t5 u5 DR5 DS5 DT5 DU5 DV5 DW5 DX5 DY5 DZ5 Da5 b5-7-fld " type="text" name="text-5-7">
+      
+      
+    </div>
+    
+        
+            <div class="K5 b5-7-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-7-err-msg  J5 b5-7-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-13 ">
+        <div class="J5 L5 M5 N5 b5-13-fld-wrp ">
+            <div class="v5 y5 z5 b5-13-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-13-lbl " for="b5-13-1">
+        
+        
+        Umpire Name 
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-13-inp-wrp "> 
+            <div class="N5 b5-13-inp-fld-wrp ">
+      <input id="b5-13-1" class="B5 F5 G5 Z5 a5 b5 c5 d5 e5 f5 g5 h5 i5 j5 k5 l5 m5 n5 o5 p5 q5 r5 s5 t5 u5 DR5 DS5 DT5 DU5 DV5 DW5 DX5 DY5 DZ5 Da5 b5-13-fld " type="text" name="text-5-13">
+      
+      
+    </div>
+    
+        
+            <div class="K5 b5-13-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-13-err-msg  J5 b5-13-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-8 ">
+        <div class="J5 L5 M5 N5 b5-8-fld-wrp ">
+            <div class="v5 y5 z5 b5-8-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-8-lbl " for="b5-8-1">
+        
+        
+        League
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-8-inp-wrp "> 
+            <div class="N5 g5 y5 AL5 b5-8-dpd-fld-container ">
+      <div class="B5 E5 G5 a5 b5 c5 d5 y5 AM5 AN5 AO5 AP5 AQ5 AR5 AS5 AT5 AU5 AV5 AW5 AX5 AY5 AZ5 DO5 DP5 DQ5 DS5 DT5 Dd5 De5 Df5 Dg5 Dh5 Di5 Dj5 Dk5 ET5 EU5 b5-8-dpd-fld-wrp   ">
+        <input name="select-5-8" type="text" title="Dropdown Hidden Input" class="b5-8-dpd-hidden-input d-none">
+        <div class="A5 D5 E5 I5 N5 AO5 Aa5 Ab5 Ac5 Ad5 Ae5 Af5 b5-8-dpd-wrp " role="combobox" aria-controls="" aria-live="assertive" aria-expanded="false" tabindex="0" aria-label="Dropdown">
+          <div class="A5 E5 Ay5 Cw5 b5-8-selected-opt-wrp ">
+          
+                <span aria-label="Selected Option Label" class="CV5 CW5 CX5 CY5 CZ5 Ca5 Cb5 Cc5 Cd5 Ce5 Cf5 Cg5 Ch5 Ci5 Cj5 Ck5 Cl5 Cm5 Cn5 Co5 Cp5 Cq5 Cr5 Cs5 Ct5 Cu5 Cv5 EF5 EG5 EH5 EI5 EJ5 EK5 b5-8-selected-opt-lbl multi-chip ">
+                  Select the league 
+                </span>
+          </div>
+          <div class="A5 E5 b5-8-dpd-btn-wrp ">
+            <button type="button" aria-label="Clear selected option value" class="D5 d5 AC5 AE5 AF5 AH5 CC5 CD5 CE5 CF5 CH5 CL5 CM5 CN5 CO5 CP5 DT5 ED5 EE5 b5-8-selected-opt-clear-btn ">
+              <svg width="15" height="15" role="img" title="Cross icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+            <div class="O5 AH5 AJ5 AK5 b5-8-dpd-down-btn ">
+              <svg width="15" height="15" viewBox="0 0 24 24" title="Down icon" role="img" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="E5 y5 AN5 AO5 By5 Bz5 CA5 b5-8-option-wrp ">
+          <div class="E5 AN5 AO5 b5-8-option-inner-wrp ">
+            <div class="N5 Bx5 b5-8-option-search-wrp ">
+              <input type="search" class="F5 I5 d5 y5 Aj5 Ak5 Al5 Am5 An5 Ao5 Ap5 Aq5 Ar5 As5 At5 Au5 Av5 Aw5 Ax5 DT5 Dl5 Dm5 Dn5 Do5 Dp5 b5-8-opt-search-input " placeholder="Search options.." aria-label="Search Options" aria-hidden="true" tabindex="-1">
+              <svg class="AP5 Ag5 Ah5 b5-8-icn Ai5 b5-8-opt-search-icn " aria-hidden="true" width="22" height="22" role="img" title="Search icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <button type="button" aria-label="Clear search" class="AP5 Ag5 Ah5 b5-8-icn C5 D5 AC5 AE5 AF5 AH5 CB5 CC5 CD5 CE5 CF5 CG5 CH5 CI5 CJ5 CK5 Dz5 EA5 EB5 EC5 b5-8-search-clear-btn " tabindex="-1" style="display: none !important;">
+                <svg width="13" height="13" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+              </button>
+            </div>
+                        <ul class="Ay5 Az5 BA5 BB5 BC5 BD5 BE5 BF5 BG5 BH5 BI5 BJ5 BK5 BL5 BM5 BN5 BO5 BP5 BQ5 BR5 BS5 BT5 BU5 BV5 BW5 BX5 BY5 BZ5 Ba5 Bb5 Bc5 Bd5 Be5 Bf5 Bg5 Bh5 Bi5 Bj5 Bk5 Bl5 Bm5 Bn5 Bo5 Bp5 Bq5 Br5 Bs5 Bt5 Bu5 Bv5 Bw5 Dq5 Dr5 Ds5 Dt5 Du5 Dv5 Dw5 Dx5 Dy5 b5-8-option-list " aria-hidden="true" aria-label="Option List" data-list="List-1" data-list-index="0" tabindex="-1" role="listbox">            <li data-index="0" data-value="A1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  A1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="A2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  A2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="B1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  B1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="B2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  B2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="C1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  C1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="C2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  C2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="D1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  D1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="D2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  D2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="E1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  E1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="E2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  E2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li></ul>        <ul class="Ay5 Az5 BA5 BB5 BC5 BD5 BE5 BF5 BG5 BH5 BI5 BJ5 BK5 BL5 BM5 BN5 BO5 BP5 BQ5 BR5 BS5 BT5 BU5 BV5 BW5 BX5 BY5 BZ5 Ba5 Bb5 Bc5 Bd5 Be5 Bf5 Bg5 Bh5 Bi5 Bj5 Bk5 Bl5 Bm5 Bn5 Bo5 Bp5 Bq5 Br5 Bs5 Bt5 Bu5 Bv5 Bw5 Dq5 Dr5 Ds5 Dt5 Du5 Dv5 Dw5 Dx5 Dy5 b5-8-option-list  active-list" aria-hidden="true" aria-label="Option List" tabindex="-1" role="listbox">            <li data-index="0" data-value="A1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  A1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="A2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  A2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="B1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  B1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="B2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  B2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="C1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  C1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="C2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  C2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="D1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  D1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="D2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  D2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="E1" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  E1
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="E2" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  E2
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+        
+            <div class="K5 b5-8-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-8-err-msg  J5 b5-8-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-6 ">
+        <div class="J5 L5 M5 N5 b5-6-fld-wrp ">
+            <div class="v5 y5 z5 b5-6-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-6-lbl " for="b5-6-1">
+        
+        
+        Match Status
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-6-inp-wrp "> 
+            <div class="N5 g5 y5 AL5 b5-6-dpd-fld-container ">
+      <div class="B5 E5 G5 a5 b5 c5 d5 y5 AM5 AN5 AO5 AP5 AQ5 AR5 AS5 AT5 AU5 AV5 AW5 AX5 AY5 AZ5 DL5 DM5 DN5 DS5 DT5 Dd5 De5 Df5 Dg5 Dh5 Di5 Dj5 Dk5 ER5 ES5 b5-6-dpd-fld-wrp   ">
+        <input name="select-5-6" type="text" title="Dropdown Hidden Input" class="b5-6-dpd-hidden-input d-none">
+        <div class="A5 D5 E5 I5 N5 AO5 Aa5 Ab5 Ac5 Ad5 Ae5 Af5 b5-6-dpd-wrp " role="combobox" aria-controls="" aria-live="assertive" aria-expanded="false" tabindex="0" aria-label="Dropdown">
+          <div class="A5 E5 Ay5 Cw5 b5-6-selected-opt-wrp ">
+          
+                <span aria-label="Selected Option Label" class="CV5 CW5 CX5 CY5 CZ5 Ca5 Cb5 Cc5 Cd5 Ce5 Cf5 Cg5 Ch5 Ci5 Cj5 Ck5 Cl5 Cm5 Cn5 Co5 Cp5 Cq5 Cr5 Cs5 Ct5 Cu5 Cv5 EF5 EG5 EH5 EI5 EJ5 EK5 b5-6-selected-opt-lbl multi-chip ">
+                  Select a Option
+                </span>
+          </div>
+          <div class="A5 E5 b5-6-dpd-btn-wrp ">
+            <button type="button" aria-label="Clear selected option value" class="D5 d5 AC5 AE5 AF5 AH5 CC5 CD5 CE5 CF5 CH5 CL5 CM5 CN5 CO5 CP5 DT5 ED5 EE5 b5-6-selected-opt-clear-btn ">
+              <svg width="15" height="15" role="img" title="Cross icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+            <div class="O5 AH5 AJ5 AK5 b5-6-dpd-down-btn ">
+              <svg width="15" height="15" viewBox="0 0 24 24" title="Down icon" role="img" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="E5 y5 AN5 AO5 By5 Bz5 CA5 b5-6-option-wrp ">
+          <div class="E5 AN5 AO5 b5-6-option-inner-wrp ">
+            <div class="N5 Bx5 b5-6-option-search-wrp ">
+              <input type="search" class="F5 I5 d5 y5 Aj5 Ak5 Al5 Am5 An5 Ao5 Ap5 Aq5 Ar5 As5 At5 Au5 Av5 Aw5 Ax5 DT5 Dl5 Dm5 Dn5 Do5 Dp5 b5-6-opt-search-input " placeholder="Search options.." aria-label="Search Options" aria-hidden="true" tabindex="-1">
+              <svg class="AP5 Ag5 Ah5 b5-6-icn Ai5 b5-6-opt-search-icn " aria-hidden="true" width="22" height="22" role="img" title="Search icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <button type="button" aria-label="Clear search" class="AP5 Ag5 Ah5 b5-6-icn C5 D5 AC5 AE5 AF5 AH5 CB5 CC5 CD5 CE5 CF5 CG5 CH5 CI5 CJ5 CK5 Dz5 EA5 EB5 EC5 b5-6-search-clear-btn " tabindex="-1" style="display: none !important;">
+                <svg width="13" height="13" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+              </button>
+            </div>
+                        <ul class="Ay5 Az5 BA5 BB5 BC5 BD5 BE5 BF5 BG5 BH5 BI5 BJ5 BK5 BL5 BM5 BN5 BO5 BP5 BQ5 BR5 BS5 BT5 BU5 BV5 BW5 BX5 BY5 BZ5 Ba5 Bb5 Bc5 Bd5 Be5 Bf5 Bg5 Bh5 Bi5 Bj5 Bk5 Bl5 Bm5 Bn5 Bo5 Bp5 Bq5 Br5 Bs5 Bt5 Bu5 Bv5 Bw5 Dq5 Dr5 Ds5 Dt5 Du5 Dv5 Dw5 Dx5 Dy5 b5-6-option-list " aria-hidden="true" aria-label="Option List" data-list="List-1" data-list-index="0" tabindex="-1" role="listbox">            <li data-index="0" data-value="Scheduled" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Scheduled
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="In progress" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  In progress
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="Completed" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Completed
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li></ul>        <ul class="Ay5 Az5 BA5 BB5 BC5 BD5 BE5 BF5 BG5 BH5 BI5 BJ5 BK5 BL5 BM5 BN5 BO5 BP5 BQ5 BR5 BS5 BT5 BU5 BV5 BW5 BX5 BY5 BZ5 Ba5 Bb5 Bc5 Bd5 Be5 Bf5 Bg5 Bh5 Bi5 Bj5 Bk5 Bl5 Bm5 Bn5 Bo5 Bp5 Bq5 Br5 Bs5 Bt5 Bu5 Bv5 Bw5 Dq5 Dr5 Ds5 Dt5 Du5 Dv5 Dw5 Dx5 Dy5 b5-6-option-list  active-list" aria-hidden="true" aria-label="Option List" tabindex="-1" role="listbox">            <li data-index="0" data-value="Scheduled" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Scheduled
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="In progress" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  In progress
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="Completed" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Completed
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+        
+            <div class="K5 b5-6-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-6-err-msg  J5 b5-6-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-5 ">
+        <div class="J5 L5 M5 N5 b5-5-fld-wrp ">
+            <div class="v5 y5 z5 b5-5-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-5-lbl " for="b5-5-1">
+        
+        
+        Match Type
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-5-inp-wrp "> 
+            <div class="N5 g5 y5 AL5 b5-5-dpd-fld-container ">
+      <div class="B5 E5 G5 a5 b5 c5 d5 y5 AM5 AN5 AO5 AP5 AQ5 AR5 AS5 AT5 AU5 AV5 AW5 AX5 AY5 AZ5 DI5 DJ5 DK5 DS5 DT5 Dd5 De5 Df5 Dg5 Dh5 Di5 Dj5 Dk5 EP5 EQ5 b5-5-dpd-fld-wrp   ">
+        <input name="select-5-5" type="text" title="Dropdown Hidden Input" class="b5-5-dpd-hidden-input d-none">
+        <div class="A5 D5 E5 I5 N5 AO5 Aa5 Ab5 Ac5 Ad5 Ae5 Af5 b5-5-dpd-wrp " role="combobox" aria-controls="" aria-live="assertive" aria-expanded="false" tabindex="0" aria-label="Dropdown">
+          <div class="A5 E5 Ay5 Cw5 b5-5-selected-opt-wrp ">
+          
+                <span aria-label="Selected Option Label" class="CV5 CW5 CX5 CY5 CZ5 Ca5 Cb5 Cc5 Cd5 Ce5 Cf5 Cg5 Ch5 Ci5 Cj5 Ck5 Cl5 Cm5 Cn5 Co5 Cp5 Cq5 Cr5 Cs5 Ct5 Cu5 Cv5 EF5 EG5 EH5 EI5 EJ5 EK5 b5-5-selected-opt-lbl multi-chip ">
+                  Select a Option
+                </span>
+          </div>
+          <div class="A5 E5 b5-5-dpd-btn-wrp ">
+            <button type="button" aria-label="Clear selected option value" class="D5 d5 AC5 AE5 AF5 AH5 CC5 CD5 CE5 CF5 CH5 CL5 CM5 CN5 CO5 CP5 DT5 ED5 EE5 b5-5-selected-opt-clear-btn ">
+              <svg width="15" height="15" role="img" title="Cross icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+            <div class="O5 AH5 AJ5 AK5 b5-5-dpd-down-btn ">
+              <svg width="15" height="15" viewBox="0 0 24 24" title="Down icon" role="img" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="E5 y5 AN5 AO5 By5 Bz5 CA5 b5-5-option-wrp ">
+          <div class="E5 AN5 AO5 b5-5-option-inner-wrp ">
+            <div class="N5 Bx5 b5-5-option-search-wrp ">
+              <input type="search" class="F5 I5 d5 y5 Aj5 Ak5 Al5 Am5 An5 Ao5 Ap5 Aq5 Ar5 As5 At5 Au5 Av5 Aw5 Ax5 DT5 Dl5 Dm5 Dn5 Do5 Dp5 b5-5-opt-search-input " placeholder="Search options.." aria-label="Search Options" aria-hidden="true" tabindex="-1">
+              <svg class="AP5 Ag5 Ah5 b5-5-icn Ai5 b5-5-opt-search-icn " aria-hidden="true" width="22" height="22" role="img" title="Search icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <button type="button" aria-label="Clear search" class="AP5 Ag5 Ah5 b5-5-icn C5 D5 AC5 AE5 AF5 AH5 CB5 CC5 CD5 CE5 CF5 CG5 CH5 CI5 CJ5 CK5 Dz5 EA5 EB5 EC5 b5-5-search-clear-btn " tabindex="-1" style="display: none !important;">
+                <svg width="13" height="13" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+              </button>
+            </div>
+                        <ul class="Ay5 Az5 BA5 BB5 BC5 BD5 BE5 BF5 BG5 BH5 BI5 BJ5 BK5 BL5 BM5 BN5 BO5 BP5 BQ5 BR5 BS5 BT5 BU5 BV5 BW5 BX5 BY5 BZ5 Ba5 Bb5 Bc5 Bd5 Be5 Bf5 Bg5 Bh5 Bi5 Bj5 Bk5 Bl5 Bm5 Bn5 Bo5 Bp5 Bq5 Br5 Bs5 Bt5 Bu5 Bv5 Bw5 Dq5 Dr5 Ds5 Dt5 Du5 Dv5 Dw5 Dx5 Dy5 b5-5-option-list " aria-hidden="true" aria-label="Option List" data-list="List-1" data-list-index="0" tabindex="-1" role="listbox">            <li data-index="0" data-value="Friendly  Match" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Friendly  Match
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="Test Match" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Test Match
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="Tournament Match" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Tournament Match
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li></ul>        <ul class="Ay5 Az5 BA5 BB5 BC5 BD5 BE5 BF5 BG5 BH5 BI5 BJ5 BK5 BL5 BM5 BN5 BO5 BP5 BQ5 BR5 BS5 BT5 BU5 BV5 BW5 BX5 BY5 BZ5 Ba5 Bb5 Bc5 Bd5 Be5 Bf5 Bg5 Bh5 Bi5 Bj5 Bk5 Bl5 Bm5 Bn5 Bo5 Bp5 Bq5 Br5 Bs5 Bt5 Bu5 Bv5 Bw5 Dq5 Dr5 Ds5 Dt5 Du5 Dv5 Dw5 Dx5 Dy5 b5-5-option-list  active-list" aria-hidden="true" aria-label="Option List" tabindex="-1" role="listbox">            <li data-index="0" data-value="Friendly  Match" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Friendly  Match
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="Test Match" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Test Match
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li>            <li data-index="0" data-value="Tournament Match" class="option  " role="option" aria-selected="false" tabindex="-1">
+              <span class="opt-lbl-wrp ">
+                
+                <span class="opt-lbl ">
+                  Tournament Match
+                </span>
+              </span>
+              <span class="opt-prefix">
+            </span></li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+        
+            <div class="K5 b5-5-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-5-err-msg  J5 b5-5-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-3 ">
+        <div class="J5 L5 M5 N5 b5-3-fld-wrp ">
+            <div class="v5 y5 z5 b5-3-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-3-lbl " for="b5-3-1">
+        
+        
+        Match Date and Time
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-3-inp-wrp "> 
+            <div class="N5 b5-3-inp-fld-wrp ">
+      <input id="b5-3-1" class="B5 F5 G5 Z5 a5 b5 c5 d5 e5 f5 g5 h5 i5 j5 k5 l5 m5 n5 o5 p5 q5 r5 s5 t5 u5 DR5 DS5 DT5 DU5 DV5 DW5 DX5 DY5 DZ5 Da5 b5-3-fld " type="datetime-local" name="datetime-local-5-3">
+      
+      
+    </div>
+    
+        
+            <div class="K5 b5-3-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-3-err-msg  J5 b5-3-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-14 ">
+        <div class="J5 L5 M5 N5 b5-14-fld-wrp ">
+            <div class="v5 y5 z5 b5-14-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-14-lbl " for="b5-14-1">
+        
+        
+        Team A
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-14-inp-wrp "> 
+            <div class="N5 b5-14-inp-fld-wrp ">
+      <input id="b5-14-1" class="B5 F5 G5 Z5 a5 b5 c5 d5 e5 f5 g5 h5 i5 j5 k5 l5 m5 n5 o5 p5 q5 r5 s5 t5 u5 DR5 DS5 DT5 DU5 DV5 DW5 DX5 DY5 DZ5 Da5 b5-14-fld " type="text" name="text-5-14">
+      
+      
+    </div>
+    
+        
+            <div class="K5 b5-14-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-14-err-msg  J5 b5-14-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-15 ">
+        <div class="J5 L5 M5 N5 b5-15-fld-wrp ">
+            <div class="v5 y5 z5 b5-15-lbl-wrp ">
+              <label class="A5 E5 H5 v5 w5 x5 y5 Db5 b5-15-lbl " for="b5-15-1">
+        
+        
+        Team B
+        
+        
+      </label>
+        
+      </div>
+      <div class="b5-15-inp-wrp "> 
+            <div class="N5 b5-15-inp-fld-wrp ">
+      <input id="b5-15-1" class="B5 F5 G5 Z5 a5 b5 c5 d5 e5 f5 g5 h5 i5 j5 k5 l5 m5 n5 o5 p5 q5 r5 s5 t5 u5 DR5 DS5 DT5 DU5 DV5 DW5 DX5 DY5 DZ5 Da5 b5-15-fld " type="text" name="text-5-15">
+      
+      
+    </div>
+    
+        
+            <div class="K5 b5-15-err-wrp" style="opacity: 0 !important; height: 0px !important;">
+      
+        
+        <div class="A5 E5 P5 Q5 R5 S5 T5 U5 V5 W5 X5 Y5 b5-15-err-msg  J5 b5-15-err-txt " style="display: none !important;"></div>
+        
+      
+    </div>
+      </div>
+    </div>
+</div><div class="btcd-fld-itm b5-1 ">
+        <div class="J5 L5 M5 N5 b5-1-fld-wrp ">
+      
+      <div class="b5-1-inp-wrp "> 
+              <div class="E5 DG5 b5-1-inp-fld-wrp ">
+        <button class="A5 B5 C5 D5 E5 F5 G5 H5 I5 DA5 DB5 DC5 DD5 DE5 DF5 EM5 EN5 EO5 b5-1-btn  " type="submit" name="button-b5-1">
+          
+          Next 
+          
+          <span class="O5 DH5 b5-1-spanner d-none"></span>
+        </button>
+      </div>
+        
+        
+      </div>
+    </div>
+</div>
+          </form>
+          
+          <div id="bf-form-msg-wrp-bitforms_5_1505_1"></div>
+          
+      </div><script>document.addEventListener("DOMContentLoaded", function() {
+    const matchTitleInput = document.getElementById('b5-7-1');
+
+    // Function to generate the match title
+    function generateMatchTitle() {
+        // Get the current date in YYYYMMDD format
+        const currentDate = new Date();
+        const formattedDate = currentDate.getFullYear() + 
+                              String(currentDate.getMonth() + 1).padStart(2, '0') + 
+                              String(currentDate.getDate()).padStart(2, '0');
+
+        // Set the match title input value
+        matchTitleInput.value = formattedDate;
+    }
+
+    // Call the function to generate the match title
+    generateMatchTitle();
+});
+</script></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
