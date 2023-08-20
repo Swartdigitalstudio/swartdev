@@ -1,0 +1,636 @@
+# Translation of Plugins - Image Optimization by Optimole &#8211; Lazy Load, CDN, Convert to WebP &amp; AVIF - Development (trunk) in English (South Africa)
+# This file is distributed under the same license as the Plugins - Image Optimization by Optimole &#8211; Lazy Load, CDN, Convert to WebP &amp; AVIF - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-13 10:39:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_ZA\n"
+"Project-Id-Version: Plugins - Image Optimization by Optimole &#8211; Lazy Load, CDN, Convert to WebP &amp; AVIF - Development (trunk)\n"
+
+#: inc/admin.php:1046
+msgid "Clear cached images"
+msgstr "Clear cached images"
+
+#: inc/rest.php:250
+msgid "Can not get new token from Optimole service"
+msgstr "Cannot get new token from Optimole service."
+
+#: inc/api.php:121
+msgid "You can clear cache only once per 5 minutes."
+msgstr "You can clear your cache only once every 5 minutes."
+
+#: inc/admin.php:1013
+msgid "Extend visits limit"
+msgstr "Verleng besoeke limiet"
+
+#: inc/admin.php:1015
+msgid "Site audit"
+msgstr "Site audit"
+
+#: inc/admin.php:1012
+msgid "Priority & Live Chat support"
+msgstr "Priority & Live Chat support"
+
+#: inc/cli/cli_setting.php:122
+msgid "No setting to update"
+msgstr "No settings to update"
+
+#: inc/conflicts/divi.php:26
+msgid "It seems your are using %1$sDivi%2$s right now. %3$s In order for Optimole to replace the images in your Divi pages, you will need to go to %4$sDivi -> Theme Options -> Builder -> Advanced -> Static CSS File Generations%5$s and click on Clear for the images to be processed. "
+msgstr "It seems your are using %1$sDivi%2$s right now. %3$s In order for Optimole to replace the images in your Divi pages, you will need to go to %4$sDivi -> Theme Options -> Builder -> Advanced -> Static CSS File Generations%5$s and click on Clear for the images to be processed. "
+
+#: inc/admin.php:1097
+msgid "Image class"
+msgstr "Image class"
+
+#: inc/admin.php:1123
+msgid "Lower image quality might not always be perceived by users and would result in a boost of your loading speed by lowering the page size. Try experimenting with the setting, then click the View sample image link to see what option works best for you."
+msgstr "Lower image quality might not always be perceived by users and would result in a boost of your loading speed by lowering the page size. Try experimenting with the setting, then click the View sample image link to see what option works best for you."
+
+#: inc/admin.php:1105
+msgid "Automatically convert GIF images to Video files(MP4 and WebM)"
+msgstr "Automatically convert GIF images to Video files (MP4 and WebM)"
+
+#: inc/admin.php:1061
+msgid "Enable Gif to Video conversion"
+msgstr "Enable Gif to Video conversion"
+
+#: inc/admin.php:1149
+msgid "You can add each CSS selector on a new line or separated by comma(,)."
+msgstr "You can add each CSS selector on a new line, or separated by a comma (,)."
+
+#: inc/admin.php:1150
+msgid "Lazyload background images for selectors:"
+msgstr "Lazy Load background images for selectors:"
+
+#: inc/admin.php:1055
+msgid "Lazyload images used as CSS backgrounds."
+msgstr "Lazy Load images used as CSS backgrounds."
+
+#: inc/admin.php:1056
+msgid "Enable lazyload for background images"
+msgstr "Enable Lazy Load for background images"
+
+#: inc/admin.php:1075
+msgid "Deliver retina ready images to your visitors"
+msgstr "Deliver Rretina Ready images to your visitors"
+
+#: inc/admin.php:1076
+msgid "Enable Retina images"
+msgstr "Enable Retina Images"
+
+#: inc/admin.php:1069
+msgid "Enabling this might affect the user experience in some cases, however it will reduce the number of total requests and page weight. Try it out and see how works best for you!"
+msgstr "Enabling this might affect the user experience in some cases, however it will reduce the number of total requests and page weight. Try it out and see what works best for you!"
+
+#: inc/admin.php:1072
+msgid "Enable network based optimizations"
+msgstr "Enable network based optimisations"
+
+#: inc/admin.php:1051
+msgid "All done, Optimole is currently optimizing your site."
+msgstr "All done, Optimole is currently optimising your site."
+
+#: inc/admin.php:995
+msgid "Resize"
+msgstr "Herskaleer"
+
+#: inc/admin.php:998
+msgid "General"
+msgstr "Algemeen"
+
+#: inc/admin.php:1102
+msgid "is"
+msgstr "is"
+
+#: inc/admin.php:1001
+msgid "Watermark"
+msgstr "Watermark"
+
+#: inc/admin.php:1048
+msgid "Connecting your site to the Optimole service."
+msgstr "Connecting your site to the Optimole service."
+
+#: inc/admin.php:1100
+msgid "contains"
+msgstr "contains"
+
+#: inc/admin.php:1049
+msgid "Checking for possible conflicts."
+msgstr "Checking for possible conflicts."
+
+#: inc/admin.php:1088
+msgid "Don't optimize images if"
+msgstr "Don't optimise images if"
+
+#: inc/admin.php:1050
+msgid "Inspecting the images from your site."
+msgstr "Inspecting the images from your site."
+
+#: inc/admin.php:1148
+msgid "View sample image"
+msgstr "View sample image"
+
+#: inc/admin.php:1254
+msgid "We are currently optimizing your images. Meanwhile you can visit your %1$shomepage%2$s and check how our plugin performs. "
+msgstr "We are currently optimising your images. Meanwhile you can visit your %1$shomepage%2$s and check how our plugin is performing. "
+
+#: inc/admin.php:994
+msgid "Exclusions"
+msgstr "Exclusions"
+
+#: inc/admin.php:996
+msgid "Compression"
+msgstr "Compression"
+
+#: inc/admin.php:1071
+msgid "Optimole provides an option to automatically downgrade the image quality when it detects a slower network."
+msgstr "Optimole provides an option to automatically downgrade the image quality when it detects a slower network."
+
+#: inc/admin.php:1124
+msgid "Selected value"
+msgstr "Selected value"
+
+#: inc/admin.php:1038
+msgid "Add filter"
+msgstr "Add filter"
+
+#: inc/admin.php:1087
+msgid "Don't lazyload images if"
+msgstr "Don't Lazy Load images if"
+
+#: inc/admin.php:1098
+msgid "Image extension"
+msgstr "Image extension"
+
+#: inc/admin.php:1103
+msgid "Page URL"
+msgstr "Page URL"
+
+#: inc/admin.php:1099
+msgid "Image filename"
+msgstr "Image filename"
+
+#: inc/admin.php:1070
+msgid "Enable generic lazyload placeholder"
+msgstr "Enable generic Lazy Load placeholder"
+
+#: inc/admin.php:1074
+msgid "Enable Smart Cropping"
+msgstr "Enable Smart Cropping"
+
+#: inc/admin.php:1143
+msgid "Scale images & Lazy load"
+msgstr "Scale images & Lazy Load"
+
+#: inc/admin.php:1014
+msgid "Custom domain"
+msgstr "Custom domain"
+
+#: inc/admin.php:999
+msgid "Lazyload"
+msgstr "Lazy Load"
+
+#: inc/admin.php:997
+msgid "Advanced"
+msgstr "Advanced"
+
+#: inc/admin.php:1073
+msgid "Detects the most interesting section of the image and considers it as the center of the resulting image."
+msgstr "Detects the most interesting section of the image and considers it as the centre of the resulting image."
+
+#: inc/admin.php:1007
+msgid "No conflicts found. We are all peachy now. 🍑"
+msgstr "No conflicts found. Everything is lekker now."
+
+#: inc/conflicts/jetpack_lazyload.php:25
+msgid "It seems your are using %1$sJetpack%2$s with Lazy loading option ON. %3$s Optimole already provides a lazy loading mechanism by it's own which might conflict with this. If you would like to further use Optimole lazy loading feature, you can turn that off from %4$sJetpack -> Perfomance%5$s page. "
+msgstr "It seems your are using %1$sJetpack%2$s with Lazy loading option ON. %3$s Optimole already provides a lazy loading mechanism by it's own which might conflict with this. If you would like to continue using the Optimole lazy loading feature, you can turn it off from %4$sJetpack -> Perfomance%5$s page. "
+
+#: inc/conflicts/wprocket.php:25
+msgid "It seems your are using %1$sWP Rocket%2$s with Lazy loading for images option active. %3$s Optimole already provides a lazy loading mechanism by it's own which might conflict with this. If you would like to further use Optimole lazy loading feature, you can turn that off from %4$sSettings -> WP Rocket -> Media%5$s page. "
+msgstr "It seems you are using %1$sWP Rocket%2$s with Lazy Loading for Images option active. %3$s Optimole already provides a lazy loading mechanism by its own which might conflict with this. If you would like to further use Optimole Lazy Loading feature, you can turn that off from %4$sSettings -> WP Rocket -> Media%5$s page. "
+
+#: inc/admin.php:1006
+msgid "I've done this."
+msgstr "I've done this."
+
+#: inc/admin.php:1005
+msgid "Details"
+msgstr "Details"
+
+#: inc/admin.php:1004
+msgid "We might have some possible conflicts with the plugins that you use. In order to benefit from Optimole's full potential you will need to address this issues."
+msgstr "We might have some possible conflicts with the plugins that you use. In order to benefit from Optimole's full potential, you will need to address these issues."
+
+#: inc/conflicts/jetpack_photon.php:26
+msgid "It seems your are using %1$sJetpack%2$s with site accelerator option enabled for images. %3$s To avoid any possible conflicts with Optimole replacement mechanism, you can go to %4$sJetpack -> Perfomance%5$s and turn off the site accelerator option for %6$simages%7$s "
+msgstr "It seems you are using %1$sJetpack%2$s with Site Accelerator option enabled for images. %3$s To avoid any possible conflicts with our Optimole replacement mechanism, you can go to %4$sJetpack -> Perfomance%5$s and turn off the Site Accelerator option for %6$simages%7$s "
+
+#: inc/cli/cli_setting.php:40 inc/rest.php:248 inc/rest.php:285
+#: inc/rest.php:322
+msgid ". ERROR details: %s"
+msgstr ". ERROR details: %s"
+
+#: inc/admin.php:1016
+msgid "View plans"
+msgstr "View plans"
+
+#: inc/admin.php:415
+msgid "Check upgrade plans"
+msgstr "Check upgrade plans"
+
+#: inc/admin.php:1236
+msgid "North-East"
+msgstr "North-East"
+
+#: inc/admin.php:1224
+msgid "Action"
+msgstr "Action"
+
+#: optimole-wp.php:58
+msgid "%1$s You're using a PHP version lower than 5.4! %2$sOptimole%3$s requires at least %4$sPHP 5.4%5$s to function properly. Plugin has been deactivated. %6$sLearn more here%5$s. %7$s"
+msgstr "%1$s You're using a PHP version lower than 5.4! %2$sOptimole%3$s requires at least %4$sPHP 5.4%5$s to function properly. Plugin has been deactivated. %6$sLearn more here%5$s. %7$s"
+
+#: inc/rest.php:635
+msgid "Watermark image uploaded succesfully ! "
+msgstr "Watermark image uploaded successfully! "
+
+#: inc/rest.php:632
+msgid "Error uploading image. Please try again."
+msgstr "Error uploading image. Please try again."
+
+#: inc/rest.php:365
+msgid "Error creating account."
+msgstr "Error creating account."
+
+#: inc/admin.php:1249
+msgid "A value between 0 and 300 for the scale of the watermark (100 is the original size and 300 is 3x the size) relative to the resulting image size. If set to 0 it will default to the original size."
+msgstr "A value between 0 and 300 for the scale of the watermark (100 is the original size and 300 is 3x the size) relative to the resulting image size. If set to 0 it will default to the original size."
+
+#: inc/admin.php:1248
+msgid "Watermark scale"
+msgstr "Watermark scale"
+
+#: inc/admin.php:1247
+msgid "Scale"
+msgstr "Scale"
+
+#: inc/admin.php:1246
+msgid "Offset the watermark from set position on X and Y axis. Values can be positive or negative."
+msgstr "Offset the watermark from set position on X and Y axis. Values can be positive or negative."
+
+#: inc/admin.php:1229
+msgid "Opacity"
+msgstr "Opacity"
+
+#: inc/admin.php:1228
+msgid "The active watermark to use from the list of uploaded watermarks."
+msgstr "The active watermark to use from the list of uploaded watermarks."
+
+#: inc/admin.php:1227
+msgid "Active watermark"
+msgstr "Active watermark"
+
+#: inc/admin.php:1226
+msgid "Add new watermark"
+msgstr "Add new watermark"
+
+#: inc/admin.php:1225
+msgid "Upload"
+msgstr "Upload"
+
+#: inc/admin.php:1223
+msgid "Type"
+msgstr "Type"
+
+#: inc/admin.php:1222
+msgid "Name"
+msgstr "Name"
+
+#: inc/admin.php:1221
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin.php:1220
+msgid "No images available for watermark. Please upload one."
+msgstr "No images available for watermark. Please upload one."
+
+#: inc/admin.php:1219
+msgid "Watermarks position settings"
+msgstr "Watermarks position settings"
+
+#: inc/admin.php:1218
+msgid "Possible watermarks"
+msgstr "Possible watermarks"
+
+#: inc/admin.php:1217
+msgid "You are allowed to save maximum 5 images."
+msgstr "You are allowed to save maximum 5 images."
+
+#: inc/admin.php:1216
+msgid "Removing watermark resource ..."
+msgstr "Removing watermark resource..."
+
+#: inc/admin.php:1245
+msgid "Watermark offset"
+msgstr "Watermark offset"
+
+#: inc/admin.php:1244
+msgid "Offset Y"
+msgstr "Offset Y"
+
+#: inc/admin.php:1243
+msgid "Offset X"
+msgstr "Offset X"
+
+#: inc/admin.php:1242
+msgid "South-East"
+msgstr "South-East"
+
+#: inc/admin.php:1241
+msgid "South"
+msgstr "South"
+
+#: inc/admin.php:1240
+msgid "South-West"
+msgstr "South-West"
+
+#: inc/admin.php:1239
+msgid "East"
+msgstr "East"
+
+#: inc/admin.php:1238
+msgid "Center"
+msgstr "Centre"
+
+#: inc/admin.php:1237
+msgid "West"
+msgstr "West"
+
+#: inc/admin.php:1235
+msgid "North"
+msgstr "North"
+
+#: inc/admin.php:1234
+msgid "North-West"
+msgstr "North-West"
+
+#: inc/admin.php:1233
+msgid "The place relative to the image where the watermark should be placed."
+msgstr "The place relative to the image where the watermark should be placed."
+
+#: inc/admin.php:1232
+msgid "Watermark position"
+msgstr "Watermark position"
+
+#: inc/admin.php:1231
+msgid "A value between 0 and 100 for the opacity level. If set to 0 it will disable the watermark."
+msgstr "A value between 0 and 100 for the opacity level. If set to 0 it will disable the watermark."
+
+#: inc/admin.php:1230
+msgid "Watermark opacity"
+msgstr "Watermark opacity"
+
+#: inc/admin.php:985
+msgid ""
+"It seems there is an issue with your WordPress configuration and the core REST API functionality is not available. This is crucial as Optimole relies on this functionality in order to work.<br/>\n"
+"The root cause might be either a security plugin which blocks this feature or some faulty server configuration which constrain this WordPress feature.You can try to disable any of the security plugins that you use in order to see if the issue persists or ask the hosting company to further investigate."
+msgstr ""
+"It seems there is an issue with your WordPress configuration and the core REST API functionality is not available. This is crucial as Optimole relies on this functionality in order to work.<br/>\n"
+"The root cause might be either a security plugin which blocks this feature or some faulty server configuration which constrain this WordPress feature.You can try to disable any of the security plugins that you use in order to see if the issue persists or ask the hosting company to further investigate."
+
+#: inc/admin.php:1114
+msgid "We will generate images size based on your visitor's screen using javascript and render them without blocking the page execution via lazyload ."
+msgstr "We will generate images size based on your visitor's screen using JavaScript and render them without blocking the page execution via lazy-load."
+
+#: inc/admin.php:568
+msgid "I will do it later"
+msgstr "I will do it later"
+
+#: inc/admin.php:565
+msgid "Connect to OptiMole"
+msgstr "Connect to OptiMole"
+
+#: inc/admin.php:562
+msgid "Welcome to %1$sOptiMole%2$s, the easiest way to optimize your website images. Your users will enjoy a %3$sfaster%4$s website after you connect it with our service."
+msgstr "Welcome to %1$sOptiMole%2$s, the easiest way to optimise your website images. Your users will enjoy a %3$sfaster%4$s website after you connect it with our service."
+
+#: inc/admin.php:1131 inc/admin.php:1250
+msgid "Save changes"
+msgstr "Save changes"
+
+#: inc/admin.php:1106
+msgid "Height"
+msgstr "Height"
+
+#: inc/admin.php:1151
+msgid "Width"
+msgstr "Width"
+
+#: inc/admin.php:1112
+msgid "Original"
+msgstr "Original"
+
+#: inc/admin.php:942
+msgid "Error registering account. You can try again %1$shere%2$s "
+msgstr "Error registering account. You can try again %1$shere%2$s "
+
+#: inc/admin.php:1125
+msgid "See one sample image which will help you choose the right quality of the compression."
+msgstr " See one sample image which will help you choose the right quality of the compression."
+
+#: inc/admin.php:1119
+msgid "You dont have any images in your Media Library. Add one and check how the Optimole will perform."
+msgstr "You don't have any images in your Media Library. Add one and check how the Optimole will perform."
+
+#: inc/admin.php:1130
+msgid "Loading a sample image. "
+msgstr " Loading a sample image. "
+
+#: inc/admin.php:1113
+msgid "Optimized"
+msgstr "Optimised"
+
+#: inc/admin.php:1121
+msgid "Option saved."
+msgstr "Option saved."
+
+#: inc/admin.php:1041
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/admin.php:1117
+msgid "Low"
+msgstr "Low"
+
+#: inc/admin.php:1118
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/admin.php:1111
+msgid "High"
+msgstr "High"
+
+#: inc/admin.php:360 inc/admin.php:992
+msgid "Settings"
+msgstr "Settings"
+
+#: inc/admin.php:991
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: inc/admin.php:954
+msgid "In order to get access to free image optimization service you will need an API key from %s."
+msgstr "In order to get access to free image optimisation service you will need an API key from %s."
+
+#: inc/admin.php:1040
+msgid "Show in the WordPress admin bar the available quota from Optimole service."
+msgstr "Show in the WordPress Admin Bar the available quota from Optimole service."
+
+#: inc/admin.php:1129
+msgid "Replace all the image urls from your website with the ones optimized by Optimole."
+msgstr "Replace all the image URLs from your website with the ones optimised by Optimole."
+
+#: inc/admin.php:940
+msgid "Register account"
+msgstr "Register account"
+
+#: inc/admin.php:939
+msgid "I already have an API key."
+msgstr "I already have an API key."
+
+#: inc/admin.php:936
+msgid "Enter your API key."
+msgstr "Enter your API key."
+
+#: inc/admin.php:933
+msgid "Your email address"
+msgstr "Your email address"
+
+#: inc/admin.php:924
+msgid "Sign-up for API key"
+msgstr "Sign up for API key"
+
+#: inc/admin.php:913
+msgid "Image optimization service"
+msgstr "Image optimisation service"
+
+#: inc/admin.php:912
+msgid "Test Optimole"
+msgstr "Test Optimole"
+
+#: inc/admin.php:911
+msgid "Privacy"
+msgstr "Privacy"
+
+#: inc/admin.php:910
+msgid "Terms"
+msgstr "Terms"
+
+#: inc/admin.php:1256
+msgid "Loading your optimized images..."
+msgstr "Loading your optimised images..."
+
+#. Plugin Name of the plugin
+msgid "Image optimization service by Optimole"
+msgstr "Image optimisation service by Optimole"
+
+#: inc/admin.php:1264
+msgid "❤️❤️❤️ Our moles just nailed it, this one is <strong>{ratio}</strong> smaller.  "
+msgstr "❤️❤️❤️ Our moles just nailed it, this one is <strong>{ratio}</strong> smaller.  "
+
+#: inc/admin.php:1262
+msgid "😬 Not that much, just <strong>{ratio}</strong> smaller."
+msgstr "😬 Not that much, just <strong>{ratio}</strong> smaller."
+
+#. Author URI of the plugin
+msgid "https://optimole.com"
+msgstr "https://optimole.com"
+
+#. Description of the plugin
+msgid "Complete handling of your website images."
+msgstr "Complete handling of your website images."
+
+#: inc/cli/cli_setting.php:43 inc/rest.php:287 inc/rest.php:324
+msgid "Can not connect to Optimole service"
+msgstr "Can not connect to Optimole service"
+
+#: inc/api.php:483 inc/api.php:495 inc/lazyload_replacer.php:539
+#: inc/lazyload_replacer.php:552 inc/main.php:233 inc/main.php:243
+#: inc/manager.php:696 inc/manager.php:709 inc/tag_replacer.php:523
+#: inc/tag_replacer.php:536 inc/url_replacer.php:299 inc/url_replacer.php:312
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: inc/admin.php:1263
+msgid "🤓 We are on the right track, <strong>{ratio}</strong> squeezed."
+msgstr "🤓 We are on the right track, <strong>{ratio}</strong> squeezed."
+
+#: inc/admin.php:1261
+msgid "🙉 We couldn't do better, this image is already optimized at maximum. "
+msgstr "🙉 We couldn't do better, this image is already optimised at maximum. "
+
+#: inc/admin.php:1260
+msgid "optimized images"
+msgstr "optimised images"
+
+#: inc/admin.php:1257
+msgid "Last"
+msgstr "Last"
+
+#: inc/admin.php:1255
+msgid "Optimization"
+msgstr "Optimisation"
+
+#: inc/admin.php:1215 inc/admin.php:1253
+msgid "Image"
+msgstr "Image"
+
+#: inc/admin.php:1052
+msgid "Disabled"
+msgstr "Disabled"
+
+#: inc/admin.php:1083
+msgid "Enabled"
+msgstr "Enabled"
+
+#: inc/admin.php:1110
+msgid "Hide"
+msgstr "Hide"
+
+#: inc/admin.php:1132
+msgid "Show"
+msgstr "Show"
+
+#: inc/admin.php:1068
+msgid "Enable image replacement"
+msgstr "Enable image replacement"
+
+#: inc/admin.php:1142
+msgid "Admin bar status"
+msgstr "Admin Bar status"
+
+#: inc/admin.php:946
+msgid "Monthly Usage"
+msgstr "Monthly Usage"
+
+#: inc/admin.php:925
+msgid "Invalid API Key"
+msgstr "Invalid API Key"
+
+#: inc/admin.php:923
+msgid "API Key"
+msgstr "API Key"
+
+#: inc/admin.php:915
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#. Author of the plugin
+msgid "Optimole"
+msgstr "Optimole"

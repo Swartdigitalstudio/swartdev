@@ -1,0 +1,1 @@
+"use strict";!function(e,t){"object"===typeof exports&&"object"===typeof module?module.exports=t():"function"===typeof define&&define.amd?define([],t):"object"===typeof exports?exports._bitforms=t():e._bitforms=t()}(self,(function(){return(self.webpackChunk_bitforms=self.webpackChunk_bitforms||[]).push([[2543],{36567:(e,t,o)=>{o.r(t)}},e=>{var t;return t=36567,e(e.s=t)}])}));

@@ -1,0 +1,1176 @@
+# Copyright (C) 2023 Contact Form Builder Plugin - Bit Form
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bit Form 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bitform\n"
+"Last-Translator: developer@bitcode.pro\n"
+"Language-Team: support@bitcode.pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-16T07:28:32+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: bit-form\n"
+
+#. Plugin Name of the plugin
+msgid "Bit Form"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.bitapps.pro/bit-form"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easiest Contact Form Plugin with the fastest Drag & Drop form builder in WordPress to create modern & responsive contact, payment & registration forms with 100+ integrations"
+msgstr ""
+
+#. Author of the plugin
+msgid "Contact Form Builder Plugin - Bit Form"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.bitapps.pro"
+msgstr ""
+
+#: bitforms.php:60
+msgid "bitforms requires PHP version 5.6."
+msgstr ""
+
+#: bitforms.php:61
+msgid "Error Activating"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:111
+#: v1/includes/Admin/AdminAjax.php:84
+msgid "No Integration Found"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:117
+#: includes/Admin/AdminAjax.php:138
+#: includes/Admin/AdminAjax.php:163
+#: includes/Admin/AdminAjax.php:186
+#: includes/Admin/AdminAjax.php:207
+#: includes/Admin/AdminAjax.php:226
+#: includes/Admin/AdminAjax.php:245
+#: includes/Admin/AdminAjax.php:312
+#: includes/Admin/AdminAjax.php:343
+#: includes/Admin/AdminAjax.php:383
+#: includes/Admin/AdminAjax.php:401
+#: includes/Admin/AdminAjax.php:418
+#: includes/Admin/AdminAjax.php:443
+#: includes/Admin/AdminAjax.php:466
+#: includes/Admin/AdminAjax.php:488
+#: includes/Admin/AdminAjax.php:505
+#: includes/Admin/AdminAjax.php:533
+#: includes/Admin/AdminAjax.php:574
+#: includes/Admin/AdminAjax.php:601
+#: includes/Admin/AdminAjax.php:636
+#: includes/Admin/AdminAjax.php:659
+#: includes/Admin/AdminAjax.php:682
+#: includes/Admin/AdminAjax.php:705
+#: includes/Admin/AdminAjax.php:729
+#: includes/Admin/AdminAjax.php:753
+#: includes/Admin/AdminAjax.php:793
+#: includes/Admin/AdminAjax.php:816
+#: includes/Admin/AdminAjax.php:839
+#: includes/Admin/AdminAjax.php:862
+#: includes/Admin/AdminAjax.php:885
+#: includes/Admin/AdminAjax.php:908
+#: includes/Admin/AdminAjax.php:931
+#: includes/Admin/AdminAjax.php:955
+#: includes/Admin/AdminAjax.php:978
+#: includes/Admin/AdminAjax.php:1001
+#: includes/Admin/AdminAjax.php:1024
+#: includes/Admin/AdminAjax.php:1047
+#: includes/Admin/AdminAjax.php:1070
+#: includes/Admin/AdminAjax.php:1093
+#: includes/Admin/AdminAjax.php:1116
+#: includes/Admin/AdminAjax.php:1139
+#: includes/Admin/AdminAjax.php:1166
+#: includes/Admin/AdminAjax.php:1199
+#: includes/Admin/AdminAjax.php:1236
+#: includes/Admin/AdminAjax.php:1261
+#: includes/Admin/AdminAjax.php:1284
+#: includes/Admin/AdminAjax.php:1306
+#: includes/Admin/AdminAjax.php:1377
+#: includes/Admin/AdminAjax.php:1412
+#: includes/Admin/AdminAjax.php:1438
+#: includes/Admin/AdminAjax.php:1530
+#: includes/Admin/AdminAjax.php:1595
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:84
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:138
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:192
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:252
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:32
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:68
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:103
+#: includes/Core/Integration/Autonami/AutonamiHandler.php:58
+#: includes/Core/Integration/Autonami/AutonamiHandler.php:89
+#: includes/Core/Integration/Autonami/AutonamiHandler.php:125
+#: includes/Core/Integration/Dropbox/DropboxHandler.php:44
+#: includes/Core/Integration/Dropbox/DropboxHandler.php:79
+#: includes/Core/Integration/Encharge/EnchargeHandler.php:76
+#: includes/Core/Integration/Encharge/EnchargeHandler.php:129
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:89
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:150
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:178
+#: includes/Core/Integration/Gclid/GclidHandler.php:97
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:89
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:156
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:216
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:292
+#: includes/Core/Integration/Groundhogg/GroundhoggHandler.php:34
+#: includes/Core/Integration/Groundhogg/GroundhoggHandler.php:75
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:101
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:165
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:221
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:271
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:58
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:101
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:140
+#: includes/Core/Integration/OneDrive/OneDriveHandler.php:32
+#: includes/Core/Integration/OneDrive/OneDriveHandler.php:63
+#: includes/Core/Integration/OneDrive/OneDriveHandler.php:111
+#: includes/Core/Integration/SendFox/SendFoxHandler.php:32
+#: includes/Core/Integration/SendFox/SendFoxHandler.php:66
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:78
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:137
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:192
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:241
+#: includes/Core/Integration/Telegram/TelegramHandler.php:87
+#: includes/Core/Integration/Telegram/TelegramHandler.php:147
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:78
+#: includes/Core/Integration/WooCommerce/WooCommerceHandler.php:60
+#: includes/Core/Integration/WooCommerce/WooCommerceHandler.php:452
+#: includes/Core/Integration/WooCommerce/WooCommerceHandler.php:484
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:94
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:159
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:219
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:287
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:354
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:95
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:162
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:235
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:333
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:399
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:466
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:91
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:161
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:233
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:90
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:159
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:234
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:359
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:93
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:170
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:287
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:90
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:155
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:227
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:321
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:390
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:461
+#: includes/Core/Integration/ZohoMail/ZohoMailHandler.php:97
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:87
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:157
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:231
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:95
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:160
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:228
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:295
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:367
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:441
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:495
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:853
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:918
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:983
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:1052
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:90
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:176
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:240
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:311
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:466
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:89
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:156
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:222
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:293
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:88
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:214
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:276
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:102
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:167
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:256
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:334
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:402
+#: includes/Frontend/Form/FrontendFormManager.php:468
+#: v1/includes/Admin/AdminAjax.php:62
+#: v1/includes/Admin/AdminAjax.php:90
+#: v1/includes/Admin/AdminAjax.php:110
+#: v1/includes/Admin/AdminAjax.php:132
+#: v1/includes/Admin/AdminAjax.php:152
+#: v1/includes/Admin/AdminAjax.php:176
+#: v1/includes/Admin/AdminAjax.php:198
+#: v1/includes/Admin/AdminAjax.php:220
+#: v1/includes/Admin/AdminAjax.php:241
+#: v1/includes/Admin/AdminAjax.php:257
+#: v1/includes/Admin/AdminAjax.php:280
+#: v1/includes/Admin/AdminAjax.php:302
+#: v1/includes/Admin/AdminAjax.php:336
+#: v1/includes/Admin/AdminAjax.php:358
+#: v1/includes/Admin/AdminAjax.php:380
+#: v1/includes/Admin/AdminAjax.php:402
+#: v1/includes/Admin/AdminAjax.php:425
+#: v1/includes/Admin/AdminAjax.php:448
+#: v1/includes/Admin/AdminAjax.php:466
+#: v1/includes/Admin/AdminAjax.php:488
+#: v1/includes/Admin/AdminAjax.php:510
+#: v1/includes/Admin/AdminAjax.php:532
+#: v1/includes/Admin/AdminAjax.php:554
+#: v1/includes/Admin/AdminAjax.php:576
+#: v1/includes/Admin/AdminAjax.php:598
+#: v1/includes/Admin/AdminAjax.php:621
+#: v1/includes/Admin/AdminAjax.php:643
+#: v1/includes/Admin/AdminAjax.php:665
+#: v1/includes/Admin/AdminAjax.php:687
+#: v1/includes/Admin/AdminAjax.php:709
+#: v1/includes/Admin/AdminAjax.php:731
+#: v1/includes/Admin/AdminAjax.php:753
+#: v1/includes/Admin/AdminAjax.php:775
+#: v1/includes/Admin/AdminAjax.php:797
+#: v1/includes/Core/Integration/WebHooks/WebHooksHandler.php:78
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:89
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:166
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:283
+#: v1/includes/Frontend/Form/FrontendFormManager.php:306
+msgid "Token expired"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:374
+msgid "Some of the test fields are empty or an invalid email supplied"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:398
+msgid "Migration Complete"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:415
+msgid "Migration Back to V1"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:42
+msgid "Bit Form - Most advanced form builder and database management system"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:51
+#: v1/includes/Admin/Admin_Bar.php:34
+msgid "All Forms"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:57
+#: v1/includes/Admin/Form/AdminFormHandler.php:65
+msgid "Template not found, by this name: "
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:192
+#: includes/Admin/Form/AdminFormHandler.php:197
+#: includes/Admin/Form/FrontEndScriptGenerator.php:313
+#: v1/includes/Admin/Form/AdminFormHandler.php:178
+#: v1/includes/Admin/Form/AdminFormHandler.php:183
+msgid "Error Occurred, Please Reload"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:204
+#: includes/Admin/Form/AdminFormHandler.php:532
+#: v1/includes/Admin/Form/AdminFormHandler.php:190
+#: v1/includes/Admin/Form/AdminFormHandler.php:433
+msgid "You are allowed to add maximum 2 workflows "
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:244
+#: v1/includes/Admin/Form/AdminFormHandler.php:222
+msgid "Can not save empty form."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:250
+#: v1/includes/Admin/Form/AdminFormHandler.php:228
+msgid "Form Name Should Be Within 50 Characters"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:470
+msgid "Form Saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:723
+#: v1/includes/Admin/Form/AdminFormHandler.php:598
+msgid "User"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:724
+#: v1/includes/Admin/Form/AdminFormHandler.php:599
+msgid "IP address"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:808
+#: includes/Admin/Form/AdminFormHandler.php:2340
+#: v1/includes/Admin/Form/AdminFormHandler.php:651
+msgid "Form update failed."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:845
+#: v1/includes/Admin/Form/AdminFormHandler.php:681
+msgid "Error Occured in saving %s"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:882
+#: includes/Admin/Form/AdminFormHandler.php:919
+#: v1/includes/Admin/Form/AdminFormHandler.php:716
+#: v1/includes/Admin/Form/AdminFormHandler.php:752
+msgid "Form status change failed."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:901
+#: includes/Admin/Form/AdminFormHandler.php:938
+#: v1/includes/Admin/Form/AdminFormHandler.php:735
+#: v1/includes/Admin/Form/AdminFormHandler.php:771
+msgid "Form status changed successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:966
+#: includes/Admin/Form/AdminFormHandler.php:1223
+#: includes/Admin/Form/AdminFormHandler.php:1292
+#: includes/Admin/Form/AdminFormHandler.php:1374
+#: includes/Admin/Form/AdminFormHandler.php:1487
+#: includes/Admin/Form/AdminFormHandler.php:1523
+#: includes/Admin/Form/AdminFormHandler.php:1593
+#: includes/Admin/Form/AdminFormHandler.php:1642
+#: v1/includes/Admin/Form/AdminFormHandler.php:797
+#: v1/includes/Admin/Form/AdminFormHandler.php:1012
+#: v1/includes/Admin/Form/AdminFormHandler.php:1080
+#: v1/includes/Admin/Form/AdminFormHandler.php:1154
+#: v1/includes/Admin/Form/AdminFormHandler.php:1227
+#: v1/includes/Admin/Form/AdminFormHandler.php:1269
+#: v1/includes/Admin/Form/AdminFormHandler.php:1338
+#: v1/includes/Admin/Form/AdminFormHandler.php:1386
+msgid "Form id is empty."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:970
+#: v1/includes/Admin/Form/AdminFormHandler.php:801
+msgid "Form is not exists."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1281
+#: v1/includes/Admin/Form/AdminFormHandler.php:1070
+msgid "Form deleted successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1353
+#: v1/includes/Admin/Form/AdminFormHandler.php:1135
+msgid "Forms deleted successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1379
+#: includes/Admin/Form/AdminFormHandler.php:1491
+#: includes/Admin/Form/AdminFormHandler.php:1527
+#: v1/includes/Admin/Form/AdminFormHandler.php:1159
+#: v1/includes/Admin/Form/AdminFormHandler.php:1231
+#: v1/includes/Admin/Form/AdminFormHandler.php:1273
+msgid "Form does not exists."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1408
+#: v1/includes/Admin/Form/AdminFormHandler.php:1188
+msgid "Form duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1419
+#: v1/includes/Admin/Form/AdminFormHandler.php:1198
+msgid "Please import a valid json."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1439
+#: v1/includes/Admin/Form/AdminFormHandler.php:1218
+msgid "Form imported successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1597
+#: includes/Admin/Form/AdminFormHandler.php:1647
+#: v1/includes/Admin/Form/AdminFormHandler.php:1342
+#: v1/includes/Admin/Form/AdminFormHandler.php:1391
+msgid "Form does not exists"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1686
+#: includes/Admin/Form/AdminFormHandler.php:1923
+#: v1/includes/Admin/Form/AdminFormHandler.php:1429
+#: v1/includes/Admin/Form/AdminFormHandler.php:1663
+msgid "Invalid Form ID or Entries ID."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1690
+#: includes/Admin/Form/AdminFormHandler.php:1907
+#: includes/Admin/Form/AdminFormHandler.php:1928
+#: v1/includes/Admin/Form/AdminFormHandler.php:1433
+#: v1/includes/Admin/Form/AdminFormHandler.php:1648
+#: v1/includes/Admin/Form/AdminFormHandler.php:1668
+msgid "Form does not exist."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1700
+#: v1/includes/Admin/Form/AdminFormHandler.php:1443
+msgid "Entry Deletetion prevented by  workflow"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1702
+#: includes/Admin/Form/AdminFormHandler.php:1709
+#: v1/includes/Admin/Form/AdminFormHandler.php:1445
+#: v1/includes/Admin/Form/AdminFormHandler.php:1452
+msgid "Entry Deleted successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1706
+#: v1/includes/Admin/Form/AdminFormHandler.php:1449
+msgid "Entry Deleted successfully, Some prevented by workflow"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1736
+#: v1/includes/Admin/Form/AdminFormHandler.php:1479
+msgid "Form entry deletion failed."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1752
+#: includes/Admin/Form/AdminFormHandler.php:1819
+#: v1/includes/Admin/Form/AdminFormHandler.php:1494
+#: v1/includes/Admin/Form/AdminFormHandler.php:1560
+msgid "Form id or entries id is invalid"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1757
+#: includes/Admin/Form/AdminFormHandler.php:1824
+#: includes/Frontend/Form/FrontendFormManager.php:466
+#: v1/includes/Admin/Form/AdminFormHandler.php:1499
+#: v1/includes/Admin/Form/AdminFormHandler.php:1565
+#: v1/includes/Frontend/Form/FrontendFormManager.php:304
+msgid "Form does not exist"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1805
+#: v1/includes/Admin/Form/AdminFormHandler.php:1547
+msgid "Entry Duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1805
+#: v1/includes/Admin/Form/AdminFormHandler.php:1547
+msgid "Entries Duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1838
+#: v1/includes/Admin/Form/AdminFormHandler.php:1579
+msgid "Form entries does not exist."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1899
+#: v1/includes/Admin/Form/AdminFormHandler.php:1639
+msgid "Failed to update, Data is empty."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1903
+#: v1/includes/Admin/Form/AdminFormHandler.php:1643
+msgid "Invalid Form ID or entries ID."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1944
+#: v1/includes/Admin/Form/AdminFormHandler.php:1683
+msgid "Invalid Form id or entries id."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1979
+#: v1/includes/Admin/Form/AdminFormHandler.php:1716
+msgid "Integration deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2002
+#: v1/includes/Admin/Form/AdminFormHandler.php:1738
+msgid "Message deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2024
+#: v1/includes/Admin/Form/AdminFormHandler.php:1759
+msgid "workflow deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2046
+#: v1/includes/Admin/Form/AdminFormHandler.php:1780
+msgid "Email Template deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2068
+#: v1/includes/Admin/Form/AdminFormHandler.php:1801
+msgid "Email Template duplicated"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2146
+#: v1/includes/Admin/Form/AdminFormHandler.php:1878
+msgid "Report preferrences saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2156
+#: v1/includes/Admin/Form/AdminFormHandler.php:1887
+msgid "g-ReCAPTCHA details is empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2176
+#: v1/includes/Admin/Form/AdminFormHandler.php:1907
+msgid "g-reCAPTCHA saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2179
+#: v1/includes/Admin/Form/AdminFormHandler.php:1910
+msgid "g-reCAPTCHA updated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2194
+#: v1/includes/Admin/Form/AdminFormHandler.php:1926
+msgid "Setting details is empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2214
+msgid "Please re-check your Client ID & Secret"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2228
+#: v1/includes/Admin/Form/AdminFormHandler.php:1946
+msgid "Payment setting saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:2231
+#: v1/includes/Admin/Form/AdminFormHandler.php:1949
+msgid "Payment setting updated successfully"
+msgstr ""
+
+#: includes/Core/Database/FormEntryLogModel.php:48
+#: includes/Core/Database/FormEntryLogModel.php:58
+#: includes/Core/Database/FormEntryLogModel.php:70
+#: includes/Core/Database/Model.php:41
+#: v1/includes/Core/Database/FormEntryLogModel.php:50
+#: v1/includes/Core/Database/FormEntryLogModel.php:60
+#: v1/includes/Core/Database/FormEntryLogModel.php:72
+#: v1/includes/Core/Database/Model.php:39
+msgid "Form data is empty"
+msgstr ""
+
+#: includes/Core/Database/FormEntryModel.php:30
+#: includes/Core/Database/FormEntryModel.php:41
+#: includes/Core/Database/Model.php:293
+#: includes/Core/Database/Model.php:317
+#: includes/Core/Database/Model.php:338
+#: includes/Core/Database/Model.php:350
+#: includes/Core/Database/ReportsModel.php:72
+#: includes/Core/Database/ReportsModel.php:83
+#: v1/includes/Core/Database/FormEntryModel.php:31
+#: v1/includes/Core/Database/FormEntryModel.php:42
+#: v1/includes/Core/Database/Model.php:286
+#: v1/includes/Core/Database/Model.php:309
+#: v1/includes/Core/Database/Model.php:329
+#: v1/includes/Core/Database/Model.php:340
+msgid "At least 1 condition needed"
+msgstr ""
+
+#: includes/Core/Database/Model.php:140
+#: includes/Core/Database/Model.php:458
+#: v1/includes/Core/Database/Model.php:137
+#: v1/includes/Core/Database/Model.php:448
+msgid "Result is empty"
+msgstr ""
+
+#: includes/Core/Database/Model.php:165
+#: includes/Core/Database/Model.php:197
+#: v1/includes/Core/Database/Model.php:161
+#: v1/includes/Core/Database/Model.php:192
+msgid "Nothing to update"
+msgstr ""
+
+#: includes/Core/Database/Model.php:249
+#: v1/includes/Core/Database/Model.php:243
+msgid "Nothing to duplicate"
+msgstr ""
+
+#: includes/Core/Database/Model.php:436
+#: v1/includes/Core/Database/Model.php:426
+msgid "prepared query is empty"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:542
+#: v1/includes/Core/Form/FormManager.php:330
+msgid "Sorry, Error occurred in saving form entry"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:548
+#: v1/includes/Core/Form/FormManager.php:336
+msgid "Sorry, error occurred in logging form entry"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:600
+#: v1/includes/Core/Form/FormManager.php:368
+msgid "Sorry, Error occured in saving form entry data"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:651
+#: v1/includes/Core/Form/FormManager.php:414
+msgid "Internal error occured!!!"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:674
+#: includes/Frontend/Ajax/FrontendAjax.php:168
+#: v1/includes/Core/Form/FormManager.php:436
+#: v1/includes/Frontend/Ajax/FrontendAjax.php:125
+msgid "provided form entries does not exists"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:770
+#: includes/Core/WorkFlow/WorkFlow.php:206
+#: includes/Core/WorkFlow/WorkFlow.php:291
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:304
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:442
+#: v1/includes/Core/Form/FormManager.php:514
+#: v1/includes/Core/WorkFlow/WorkFlowRunHelper.php:307
+#: v1/includes/Core/WorkFlow/WorkFlowRunHelper.php:445
+msgid "Entry Updated Successfully"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:67
+#: includes/Core/Form/Validator/FormFieldValidator.php:84
+#: includes/Core/Form/Validator/FormFieldValidator.php:186
+#: includes/Core/Form/Validator/FormFieldValidator.php:203
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:52
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:64
+msgid " is required."
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:94
+#: includes/Core/Form/Validator/FormFieldValidator.php:213
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:74
+msgid " should be an email. please provide a valid email address."
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:103
+#: includes/Core/Form/Validator/FormFieldValidator.php:222
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:83
+msgid " should be Time Format"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:112
+#: includes/Core/Form/Validator/FormFieldValidator.php:231
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:92
+msgid " should be a phone number"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:121
+#: includes/Core/Form/Validator/FormFieldValidator.php:240
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:101
+msgid " should be a number"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:130
+#: includes/Core/Form/Validator/FormFieldValidator.php:249
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:110
+msgid " should be an URL"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:139
+#: includes/Core/Form/Validator/FormFieldValidator.php:258
+#: v1/includes/Core/Form/Validator/FormFieldValidator.php:119
+msgid " should be a date"
+msgstr ""
+
+#: includes/Core/Hooks/PostType.php:10
+#: v1/includes/Plugin.php:421
+msgid "Bitform Pages"
+msgstr ""
+
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:61
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:109
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:163
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:218
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:40
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:75
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:111
+#: includes/Core/Integration/Dropbox/DropboxHandler.php:51
+#: includes/Core/Integration/Dropbox/DropboxHandler.php:86
+#: includes/Core/Integration/ElasticEmail/ElasticEmailHandler.php:32
+#: includes/Core/Integration/ElasticEmail/ElasticEmailHandler.php:66
+#: includes/Core/Integration/Encharge/EnchargeHandler.php:53
+#: includes/Core/Integration/Encharge/EnchargeHandler.php:101
+#: includes/Core/Integration/Gclid/GclidHandler.php:59
+#: includes/Core/Integration/Getgist/GetgistHandler.php:28
+#: includes/Core/Integration/Getgist/GetgistHandler.php:60
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:60
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:115
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:183
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:246
+#: includes/Core/Integration/Groundhogg/GroundhoggHandler.php:45
+#: includes/Core/Integration/Groundhogg/GroundhoggHandler.php:86
+#: includes/Core/Integration/Hubspot/HubspotHandler.php:39
+#: includes/Core/Integration/Hubspot/HubspotHandler.php:72
+#: includes/Core/Integration/Hubspot/HubspotHandler.php:123
+#: includes/Core/Integration/Hubspot/HubspotHandler.php:168
+#: includes/Core/Integration/Hubspot/HubspotHandler.php:210
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:65
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:129
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:192
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:248
+#: includes/Core/Integration/OneDrive/OneDriveHandler.php:39
+#: includes/Core/Integration/OneDrive/OneDriveHandler.php:69
+#: includes/Core/Integration/OneDrive/OneDriveHandler.php:118
+#: includes/Core/Integration/Rapidmail/RapidmailHandler.php:48
+#: includes/Core/Integration/Rapidmail/RapidmailHandler.php:95
+#: includes/Core/Integration/Rapidmail/RapidmailHandler.php:130
+#: includes/Core/Integration/SendFox/SendFoxHandler.php:39
+#: includes/Core/Integration/SendFox/SendFoxHandler.php:74
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:55
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:103
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:157
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:212
+#: includes/Core/Integration/Telegram/TelegramHandler.php:55
+#: includes/Core/Integration/Telegram/TelegramHandler.php:112
+#: includes/Core/Integration/WooCommerce/WooCommerceHandler.php:129
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:66
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:122
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:182
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:247
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:316
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:67
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:122
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:189
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:264
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:356
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:421
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:63
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:118
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:189
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:62
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:112
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:188
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:264
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:67
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:119
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:197
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:62
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:112
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:183
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:255
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:349
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:419
+#: includes/Core/Integration/ZohoMail/ZohoMailHandler.php:62
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:59
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:114
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:185
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:67
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:117
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:183
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:252
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:320
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:391
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:464
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:804
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:876
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:941
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:1006
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:62
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:117
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:198
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:267
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:340
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:61
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:116
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:184
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:252
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:60
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:174
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:237
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:62
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:124
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:195
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:284
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:357
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:63
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:114
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:192
+msgid "Requested parameter is empty"
+msgstr ""
+
+#: includes/Core/Integration/ActiveCampaign/ActiveCampaignHandler.php:276
+#: includes/Core/Integration/SendinBlue/SendinBlueHandler.php:266
+msgid "module, fields are required for Sendinblue api"
+msgstr ""
+
+#: includes/Core/Integration/Acumbamail/AcumbamailHandler.php:166
+msgid "module, fields are required for Acumbamail api"
+msgstr ""
+
+#: includes/Core/Integration/Autonami/AutonamiHandler.php:46
+#: includes/Core/Integration/Autonami/AutonamiHandler.php:131
+msgid "Autonami Pro Plugins not found"
+msgstr ""
+
+#: includes/Core/Integration/Autonami/AutonamiHandler.php:150
+msgid "module, fields are required for Autonami api"
+msgstr ""
+
+#: includes/Core/Integration/Dropbox/DropboxHandler.php:208
+msgid "Required data not found."
+msgstr ""
+
+#: includes/Core/Integration/ElasticEmail/ElasticEmailHandler.php:110
+msgid "module, fields are required for Elastic Email api"
+msgstr ""
+
+#: includes/Core/Integration/Encharge/EnchargeHandler.php:150
+msgid "module, fields are required for Encharge api"
+msgstr ""
+
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:79
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:140
+msgid "Fluent CRM Plugins not found"
+msgstr ""
+
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:169
+msgid "Please! Insatall Fluent CRM"
+msgstr ""
+
+#: includes/Core/Integration/FluentCrm/FluentCrmHandler.php:200
+msgid "module, fields are required for Fluent CRM api"
+msgstr ""
+
+#: includes/Core/Integration/Getgist/GetgistHandler.php:108
+msgid "module, fields are required for Gist api"
+msgstr ""
+
+#: includes/Core/Integration/GoogleSheet/GoogleSheetHandler.php:390
+msgid "module, fields are required for Google sheet api"
+msgstr ""
+
+#: includes/Core/Integration/Groundhogg/GroundhoggHandler.php:130
+msgid "module, fields are required for Trello api"
+msgstr ""
+
+#: includes/Core/Integration/Groundhogg/RecordApiHelper.php:72
+#: includes/Core/Integration/Groundhogg/RecordApiHelper.php:93
+msgid "Request parameter is empty"
+msgstr ""
+
+#: includes/Core/Integration/Hubspot/HubspotHandler.php:261
+msgid "api key field is required for hubspot api"
+msgstr ""
+
+#: includes/Core/Integration/MailChimp/MailChimpHandler.php:307
+msgid "module, fields are required for Mail Chimp api"
+msgstr ""
+
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:49
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:92
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:131
+msgid "Please! Insatall MailPoet"
+msgstr ""
+
+#: includes/Core/Integration/MailPoet/MailPoetHandler.php:157
+msgid "module, fields are required for Mail Poet api"
+msgstr ""
+
+#: includes/Core/Integration/Rapidmail/RapidmailHandler.php:174
+msgid "username, password, fields are required for rapidmail api"
+msgstr ""
+
+#: includes/Core/Integration/Rapidmail/RapidmailHandler.php:178
+msgid "Recipient List are required for rapidmail api"
+msgstr ""
+
+#: includes/Core/Integration/SendFox/SendFoxHandler.php:112
+msgid "module, fields are required for SendFox api"
+msgstr ""
+
+#: includes/Core/Integration/Telegram/TelegramHandler.php:171
+msgid "module, fields are required for Telegram api"
+msgstr ""
+
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:73
+#: v1/includes/Core/Integration/WebHooks/WebHooksHandler.php:73
+msgid "webhook url is empty"
+msgstr ""
+
+#: includes/Core/Integration/WooCommerce/RecordApiHelper.php:45
+msgid "%s is required for woocommerce %s"
+msgstr ""
+
+#: includes/Core/Integration/WooCommerce/WooCommerceHandler.php:57
+msgid "WooCommerce must be activated!"
+msgstr ""
+
+#: includes/Core/Integration/WooCommerce/WooCommerceHandler.php:505
+msgid "module and field map are required for woocommerce"
+msgstr ""
+
+#: includes/Core/Integration/ZohoAnalytics/ZohoAnalyticsHandler.php:454
+msgid "workspace, table, fields are required for zoho analytics api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoBigin/RecordApiHelper.php:64
+msgid "%s is required for zoho bigin, %s module"
+msgstr ""
+
+#: includes/Core/Integration/ZohoBigin/ZohoBiginHandler.php:559
+msgid "module, fields are required for zoho bigin api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCampaigns/RecordApiHelper.php:58
+msgid "%s is required for zoho campaigns"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCampaigns/ZohoCampaignsHandler.php:329
+msgid "list are required for zoho campaigns api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCreator/RecordApiHelper.php:123
+msgid "%s is required for zoho creator"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCreator/ZohoCreatorHandler.php:443
+msgid "tokenDetails error"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/RecordApiHelper.php:68
+#: v1/includes/Core/Integration/ZohoCRM/RecordApiHelper.php:61
+msgid "%s is required for zoho crm, %s module"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/RecordApiHelper.php:79
+#: v1/includes/Core/Integration/ZohoCRM/RecordApiHelper.php:72
+msgid "zoho crm field %s's maximum length is %s, Given %s"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:724
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:729
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:384
+#: v1/includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:389
+msgid "module, layout, fields are required for zoho crm api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoDesk/RecordApiHelper.php:79
+msgid "%s is required for zoho bigin"
+msgstr ""
+
+#: includes/Core/Integration/ZohoDesk/ZohoDeskHandler.php:554
+msgid "list are required for zoho desk api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoMail/ZohoMailHandler.php:177
+msgid "module, fields are required for zoho mail api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoMarketingHub/RecordApiHelper.php:57
+msgid "%s is required for zoho marketing hub"
+msgstr ""
+
+#: includes/Core/Integration/ZohoMarketingHub/ZohoMarketingHubHandler.php:327
+msgid "list are required for zoho marketingHub api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoProjects/RecordApiHelper.php:188
+msgid "%s is required for %s"
+msgstr ""
+
+#: includes/Core/Integration/ZohoProjects/ZohoProjectsHandler.php:1135
+msgid "list are required for zoho projects api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoRecruit/RecordApiHelper.php:62
+msgid "%s is required for zoho recruit, %s module"
+msgstr ""
+
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:558
+#: includes/Core/Integration/ZohoRecruit/ZohoRecruitHandler.php:561
+msgid "module, fields are required for zoho recruit api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoSheet/ZohoSheetHandler.php:393
+msgid "module, fields are required for zoho sheet api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoSign/ZohoSignHandler.php:294
+msgid "module, fields are required for zoho sign api"
+msgstr ""
+
+#: includes/Core/Integration/ZohoWorkDrive/ZohoWorkDriveHandler.php:495
+msgid "parent folder are required for zoho workdrive api"
+msgstr ""
+
+#: includes/Core/Util/Activation.php:199
+msgid "Sorry, Error occured in updated form"
+msgstr ""
+
+#: includes/Core/Util/Activation.php:210
+#: v1/includes/Core/Util/Activation.php:72
+msgid "Bitforms Pages"
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:109
+msgid "Unknown upload error"
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:110
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:111
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:112
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:113
+msgid "No file was uploaded."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:114
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:115
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:116
+msgid "A PHP extension stopped the file upload."
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:271
+#: v1/includes/Core/Util/FileHandler.php:115
+msgid "Total File size is too large"
+msgstr ""
+
+#: includes/Core/Util/FileHandler.php:292
+#: v1/includes/Core/Util/FileHandler.php:135
+msgid "File size is too large"
+msgstr ""
+
+#: includes/Core/WorkFlow/WorkFlow.php:205
+#: includes/Core/WorkFlow/WorkFlow.php:290
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:303
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:441
+#: includes/Frontend/Form/FrontendFormManager.php:241
+#: v1/includes/Core/WorkFlow/WorkFlowRunHelper.php:306
+#: v1/includes/Core/WorkFlow/WorkFlowRunHelper.php:444
+#: v1/includes/Frontend/Form/FrontendFormManager.php:189
+msgid "Form Submitted Successfully"
+msgstr ""
+
+#: includes/Frontend/Ajax/FrontendAjax.php:154
+#: v1/includes/Frontend/Ajax/FrontendAjax.php:111
+msgid "provided form does not exists"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormHandler.php:306
+#: v1/includes/Frontend/Form/FrontendFormHandler.php:49
+msgid "Form ID cannot be empty"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormHandler.php:310
+#: v1/includes/Frontend/Form/FrontendFormHandler.php:54
+msgid "#%s no. Form doesn't exists"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormHandler.php:326
+msgid "#%s no. Form is not active"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:260
+msgid "Entries id is invalid"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:338
+msgid "Entry Update Successfully"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:376
+#: v1/includes/Frontend/Form/FrontendFormManager.php:227
+msgid "Token verification failed"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:383
+#: includes/Frontend/Form/FrontendFormManager.php:419
+#: v1/includes/Frontend/Form/FrontendFormManager.php:234
+#: v1/includes/Frontend/Form/FrontendFormManager.php:270
+msgid "Please verify reCAPTCHA"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:428
+#: v1/includes/Frontend/Form/FrontendFormManager.php:276
+msgid "You are already logged in"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:455
+#: v1/includes/Frontend/Form/FrontendFormManager.php:293
+msgid "Please submit form with valid fields"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:519
+#: v1/includes/Frontend/Form/FrontendFormManager.php:359
+msgid "Sorry!! Entry limit exceeded"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:533
+#: v1/includes/Frontend/Form/FrontendFormManager.php:373
+msgid "Sorry!! You have already submitted"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:592
+#: v1/includes/Frontend/Form/FrontendFormManager.php:431
+msgid "within %s to %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:605
+#: v1/includes/Frontend/Form/FrontendFormManager.php:444
+msgid "%s to %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:611
+#: includes/Frontend/Form/FrontendFormManager.php:614
+#: v1/includes/Frontend/Form/FrontendFormManager.php:450
+#: v1/includes/Frontend/Form/FrontendFormManager.php:453
+msgid "Form is available %s From %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:612
+#: includes/Frontend/Form/FrontendFormManager.php:615
+#: v1/includes/Frontend/Form/FrontendFormManager.php:451
+#: v1/includes/Frontend/Form/FrontendFormManager.php:454
+msgid "Form is available %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:617
+#: v1/includes/Frontend/Form/FrontendFormManager.php:456
+msgid "Form is available on %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:630
+#: includes/Frontend/Form/FrontendFormManager.php:642
+#: v1/includes/Frontend/Form/FrontendFormManager.php:469
+#: v1/includes/Frontend/Form/FrontendFormManager.php:481
+msgid "Sorry!! Your IP address is %s, Blocked from submitting the form"
+msgstr ""
+
+#: v1/includes/Admin/AdminAjax.php:57
+msgid "Migrated to v2"
+msgstr ""
+
+#: v1/includes/Admin/Admin_Bar.php:31
+msgid "Bit Form - wordpress form builder and database management system"
+msgstr ""
+
+#: v1/includes/Plugin.php:505
+msgid "Docs"
+msgstr ""

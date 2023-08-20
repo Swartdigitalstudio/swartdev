@@ -1,0 +1,5556 @@
+# Copyright (C) 2022 Bit Apps
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bit Form 1.4.21.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bitform\n"
+"Last-Translator: developer@bitcode.pro\n"
+"Language-Team: support@bitcode.pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-29T09:50:56+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: bitform\n"
+
+#. Plugin Name of the plugin
+#: languages/generatedString.php:6
+msgid "Bit Form"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.bitapps.pro/bit-form"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Bit Apps"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.bitapps.pro"
+msgstr ""
+
+#: bitforms.php:44
+msgid "bitforms requires PHP version 5.6."
+msgstr ""
+
+#: bitforms.php:45
+msgid "Error Activating"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:67
+msgid "No Integration Found"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:73
+#: includes/Admin/AdminAjax.php:94
+#: includes/Admin/AdminAjax.php:116
+#: includes/Admin/AdminAjax.php:136
+#: includes/Admin/AdminAjax.php:161
+#: includes/Admin/AdminAjax.php:183
+#: includes/Admin/AdminAjax.php:204
+#: includes/Admin/AdminAjax.php:221
+#: includes/Admin/AdminAjax.php:245
+#: includes/Admin/AdminAjax.php:267
+#: includes/Admin/AdminAjax.php:289
+#: includes/Admin/AdminAjax.php:311
+#: includes/Admin/AdminAjax.php:334
+#: includes/Admin/AdminAjax.php:357
+#: includes/Admin/AdminAjax.php:380
+#: includes/Admin/AdminAjax.php:398
+#: includes/Admin/AdminAjax.php:420
+#: includes/Admin/AdminAjax.php:442
+#: includes/Admin/AdminAjax.php:464
+#: includes/Admin/AdminAjax.php:486
+#: includes/Admin/AdminAjax.php:508
+#: includes/Admin/AdminAjax.php:531
+#: includes/Admin/AdminAjax.php:554
+#: includes/Admin/AdminAjax.php:576
+#: includes/Admin/AdminAjax.php:598
+#: includes/Admin/AdminAjax.php:620
+#: includes/Admin/AdminAjax.php:643
+#: includes/Admin/AdminAjax.php:665
+#: includes/Admin/AdminAjax.php:687
+#: includes/Admin/AdminAjax.php:709
+#: includes/Admin/AdminAjax.php:731
+#: includes/Admin/AdminAjax.php:758
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:76
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:89
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:166
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:283
+#: includes/Frontend/Form/FrontendFormManager.php:306
+msgid "Token expired"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:36
+msgid "Bit Form - wordpress form builder and database management system"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:39
+msgid "All Forms"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:52
+msgid "Template not found, by this name: "
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:153
+#: includes/Admin/Form/AdminFormHandler.php:158
+msgid "Error Occurred, Please Reload"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:165
+#: includes/Admin/Form/AdminFormHandler.php:401
+msgid "You are allowed to add maximum 2 workflows "
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:197
+msgid "Can not save empty form."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:203
+msgid "Form Name Should Be Within 50 Characters"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:359
+msgid "Form Saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:631
+msgid "Form update failed."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:657
+msgid "Error Occured in saving %s"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:660
+msgid "Form updated successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:678
+#: includes/Admin/Form/AdminFormHandler.php:714
+msgid "Form status change failed."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:697
+#: includes/Admin/Form/AdminFormHandler.php:733
+msgid "Form status changed successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:772
+#: includes/Admin/Form/AdminFormHandler.php:983
+#: includes/Admin/Form/AdminFormHandler.php:1051
+#: includes/Admin/Form/AdminFormHandler.php:1127
+#: includes/Admin/Form/AdminFormHandler.php:1204
+#: includes/Admin/Form/AdminFormHandler.php:1247
+#: includes/Admin/Form/AdminFormHandler.php:1314
+#: includes/Admin/Form/AdminFormHandler.php:1362
+msgid "Form id is empty."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:776
+msgid "Form is not exists."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1041
+msgid "Form deleted successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1106
+msgid "Forms deleted successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1132
+#: includes/Admin/Form/AdminFormHandler.php:1208
+#: includes/Admin/Form/AdminFormHandler.php:1251
+msgid "Form does not exists."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1162
+msgid "Form duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1174
+msgid "Please import a valid json."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1194
+msgid "Form imported successfully."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1318
+#: includes/Admin/Form/AdminFormHandler.php:1367
+msgid "Form does not exists"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1405
+#: includes/Admin/Form/AdminFormHandler.php:1641
+msgid "Invalid Form ID or Entries ID."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1409
+#: includes/Admin/Form/AdminFormHandler.php:1625
+#: includes/Admin/Form/AdminFormHandler.php:1646
+msgid "Form does not exist."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1419
+#: includes/API/Controller/EntryController.php:522
+msgid "Entry Deletetion prevented by  workflow"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1421
+#: includes/Admin/Form/AdminFormHandler.php:1428
+#: includes/API/Controller/EntryController.php:524
+#: includes/API/Controller/EntryController.php:531
+msgid "Entry Deleted successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1425
+#: includes/API/Controller/EntryController.php:528
+msgid "Entry Deleted successfully, Some prevented by workflow"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1455
+msgid "Form entry deletion failed."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1470
+#: includes/Admin/Form/AdminFormHandler.php:1536
+msgid "Form id or entries id is invalid"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1475
+#: includes/Admin/Form/AdminFormHandler.php:1541
+#: includes/Frontend/Form/FrontendFormManager.php:304
+msgid "Form does not exist"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1523
+msgid "Entry Duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1523
+msgid "Entries Duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1555
+msgid "Form entries does not exist."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1616
+msgid "Failed to update, Data is empty."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1620
+msgid "Invalid Form ID or entries ID."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1662
+msgid "Invalid Form id or entries id."
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1696
+msgid "Integration deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1719
+msgid "Message deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1741
+msgid "workflow deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1762
+msgid "Email Template deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1783
+msgid "Email Template duplicated"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1860
+msgid "Report preferrences saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1870
+msgid "g-ReCAPTCHA details is empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1890
+msgid "g-reCAPTCHA saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1893
+msgid "g-reCAPTCHA updated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1910
+msgid "Setting details is empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1930
+msgid "Payment setting saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1933
+msgid "Payment setting updated successfully"
+msgstr ""
+
+#: includes/API/Controller/EntryController.php:176
+#: includes/Core/Form/FormManager.php:415
+msgid "Internal error occured!!!"
+msgstr ""
+
+#: includes/API/Controller/EntryController.php:348
+msgid "Internal error occured !!!"
+msgstr ""
+
+#: includes/API/Controller/EntryController.php:424
+#: includes/Core/Form/FormManager.php:519
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:281
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:414
+msgid "Entry Updated Successfully"
+msgstr ""
+
+#: includes/API/Controller/EntryController.php:558
+msgid "Form entry deletion failed"
+msgstr ""
+
+#: includes/Core/Database/FormEntryLogModel.php:50
+#: includes/Core/Database/FormEntryLogModel.php:60
+#: includes/Core/Database/FormEntryLogModel.php:72
+#: includes/Core/Database/Model.php:39
+msgid "Form data is empty"
+msgstr ""
+
+#: includes/Core/Database/FormEntryModel.php:26
+#: includes/Core/Database/FormEntryModel.php:37
+#: includes/Core/Database/Model.php:287
+#: includes/Core/Database/Model.php:310
+#: includes/Core/Database/Model.php:330
+#: includes/Core/Database/Model.php:341
+msgid "At least 1 condition needed"
+msgstr ""
+
+#: includes/Core/Database/Model.php:138
+#: includes/Core/Database/Model.php:449
+msgid "Result is empty"
+msgstr ""
+
+#: includes/Core/Database/Model.php:162
+#: includes/Core/Database/Model.php:193
+msgid "Nothing to update"
+msgstr ""
+
+#: includes/Core/Database/Model.php:244
+msgid "Nothing to duplicate"
+msgstr ""
+
+#: includes/Core/Database/Model.php:427
+msgid "prepared query is empty"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:329
+msgid "Sorry, Error occurred in saving form entry"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:335
+msgid "Sorry, error occurred in logging form entry"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:367
+msgid "Sorry, Error occured in saving form entry data"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:437
+#: includes/Frontend/Ajax/FrontendAjax.php:107
+msgid "provided form entries does not exists"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:46
+#: includes/Core/Form/Validator/FormFieldValidator.php:57
+msgid " is required."
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:67
+msgid " should be an email. please provide a valid email address."
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:76
+msgid " should be Time Format"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:85
+msgid " should be a phone number"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:94
+msgid " should be a number"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:103
+msgid " should be an URL"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:112
+msgid " should be a date"
+msgstr ""
+
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:71
+msgid "webhook url is empty"
+msgstr ""
+
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:73
+msgid "webhook executed succcessfully"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/RecordApiHelper.php:61
+msgid "%s is required for zoho crm, %s module"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/RecordApiHelper.php:72
+msgid "zoho crm field %s's maximum length is %s, Given %s"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:384
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:389
+msgid "module, layout, fields are required for zoho crm api"
+msgstr ""
+
+#: includes/Core/Util/Activation.php:72
+msgid "Bitforms Pages"
+msgstr ""
+
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:280
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:413
+#: includes/Frontend/Form/FrontendFormManager.php:189
+msgid "Form Submitted Successfully"
+msgstr ""
+
+#: includes/Frontend/Ajax/FrontendAjax.php:93
+msgid "provided form does not exists"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormHandler.php:51
+msgid "Form ID cannot be empty"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormHandler.php:56
+msgid "#%s no. Form doesn't exists"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:227
+msgid "Token verification failed"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:234
+#: includes/Frontend/Form/FrontendFormManager.php:270
+msgid "Please verify reCAPTCHA"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:276
+msgid "You are already logged in"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:293
+msgid "Please submit form with valid fields"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:359
+msgid "Sorry!! Entry limit exceeded"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:373
+msgid "Sorry!! You have already submitted"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:431
+msgid "within %s to %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:444
+msgid "%s to %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:450
+#: includes/Frontend/Form/FrontendFormManager.php:453
+msgid "Form is available %s From %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:451
+#: includes/Frontend/Form/FrontendFormManager.php:454
+msgid "Form is available %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:456
+msgid "Form is available on %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:469
+#: includes/Frontend/Form/FrontendFormManager.php:481
+msgid "Sorry!! Your IP address is %s, Blocked from submitting the form"
+msgstr ""
+
+#: includes/Plugin.php:315
+msgid "Bitform Pages"
+msgstr ""
+
+#: includes/Plugin.php:403
+msgid "Docs"
+msgstr ""
+
+#: languages/generatedString.php:4
+msgid "404"
+msgstr ""
+
+#: languages/generatedString.php:8
+msgid "My Forms"
+msgstr ""
+
+#: languages/generatedString.php:10
+msgid "App Settings"
+msgstr ""
+
+#: languages/generatedString.php:12
+msgid "You can use either ReCaptcha-V2 or ReCaptcha-V3 in a form. to use ReCaptcha-V2 disable the ReCaptcha-V3 from the Form Settings."
+msgstr ""
+
+#: languages/generatedString.php:14
+msgid "Country Field available in Pro version of Bit Form."
+msgstr ""
+
+#: languages/generatedString.php:16
+msgid "Email Templates"
+msgstr ""
+
+#: languages/generatedString.php:18
+msgid "Add New Template"
+msgstr ""
+
+#: languages/generatedString.php:20
+msgid "Empty"
+msgstr ""
+
+#: languages/generatedString.php:22
+msgid "Are you sure to delete this template"
+msgstr ""
+
+#: languages/generatedString.php:24
+msgid "Are you sure to duplicate this template?"
+msgstr ""
+
+#: languages/generatedString.php:26
+msgid "Template Name"
+msgstr ""
+
+#: languages/generatedString.php:28
+msgid "Action"
+msgstr ""
+
+#: languages/generatedString.php:30
+msgid "Duplicate"
+msgstr ""
+
+#: languages/generatedString.php:32
+msgid "Edit"
+msgstr ""
+
+#: languages/generatedString.php:34
+msgid "Delete"
+msgstr ""
+
+#: languages/generatedString.php:36
+msgid "Integration Name "
+msgstr ""
+
+#: languages/generatedString.php:38
+msgid "Integration Name..."
+msgstr ""
+
+#: languages/generatedString.php:40
+msgid "Post Type"
+msgstr ""
+
+#: languages/generatedString.php:42
+msgid "Refresh Post Types"
+msgstr ""
+
+#: languages/generatedString.php:44
+msgid "Post Status"
+msgstr ""
+
+#: languages/generatedString.php:46
+msgid "Author"
+msgstr ""
+
+#: languages/generatedString.php:48
+msgid "Select Author"
+msgstr ""
+
+#: languages/generatedString.php:50
+msgid "Comment Status"
+msgstr ""
+
+#: languages/generatedString.php:52
+msgid "Select Status"
+msgstr ""
+
+#: languages/generatedString.php:54
+msgid "Field Mapping"
+msgstr ""
+
+#: languages/generatedString.php:56
+msgid "Post Fields"
+msgstr ""
+
+#: languages/generatedString.php:58
+msgid "ACF fields Mapping"
+msgstr ""
+
+#: languages/generatedString.php:60
+msgid "ACF File Upload Fields Map"
+msgstr ""
+
+#: languages/generatedString.php:62
+msgid "Refresh ACF fields"
+msgstr ""
+
+#: languages/generatedString.php:64
+msgid "Form Fields"
+msgstr ""
+
+#: languages/generatedString.php:66
+msgid "ACF Fields"
+msgstr ""
+
+#: languages/generatedString.php:68
+msgid "Save"
+msgstr ""
+
+#: languages/generatedString.php:70
+msgid "Post Type cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:72
+msgid "Post Status cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:74
+msgid "Please map mandatory fields"
+msgstr ""
+
+#: languages/generatedString.php:76
+msgid "Loading ACF Fields..."
+msgstr ""
+
+#: languages/generatedString.php:78
+msgid "Error Occured"
+msgstr ""
+
+#: languages/generatedString.php:80
+msgid "Loading Post Types..."
+msgstr ""
+
+#: languages/generatedString.php:82
+msgid "Custom..."
+msgstr ""
+
+#: languages/generatedString.php:84
+msgid "Custom Value"
+msgstr ""
+
+#: languages/generatedString.php:86
+msgid "Select Field"
+msgstr ""
+
+#: languages/generatedString.php:88
+msgid "Next"
+msgstr ""
+
+#: languages/generatedString.php:90
+msgid "Update ActiveCampaign"
+msgstr ""
+
+#: languages/generatedString.php:92
+msgid "Update Responses with ActiveCampaign existing email?"
+msgstr ""
+
+#: languages/generatedString.php:94
+msgid "Integration name cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:96
+msgid "Access API Key cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:98
+msgid "Access API URL cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:100
+msgid "Authorized Successfully"
+msgstr ""
+
+#: languages/generatedString.php:102
+msgid "Integration Name:"
+msgstr ""
+
+#: languages/generatedString.php:104
+msgid "Access API URL:"
+msgstr ""
+
+#: languages/generatedString.php:106
+msgid "Access API URL..."
+msgstr ""
+
+#: languages/generatedString.php:108
+msgid "Access API Key:"
+msgstr ""
+
+#: languages/generatedString.php:110
+msgid "Access API Key..."
+msgstr ""
+
+#: languages/generatedString.php:112
+msgid "Authorized ✔"
+msgstr ""
+
+#: languages/generatedString.php:114
+msgid "Authorize"
+msgstr ""
+
+#: languages/generatedString.php:116
+msgid "ActiveCampaign lists refreshed"
+msgstr ""
+
+#: languages/generatedString.php:118
+msgid "No ActiveCampaign lists found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:120
+msgid "ActiveCampaign lists refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:122
+msgid "ActiveCampaign tags refreshed"
+msgstr ""
+
+#: languages/generatedString.php:124
+msgid "No ActiveCampaign tags found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:126
+msgid "ActiveCampaign tags refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:128
+msgid "ActiveCampaign fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:130
+msgid "No ActiveCampaign fields found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:132
+msgid "ActiveCampaign fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:134
+msgid "Actions"
+msgstr ""
+
+#: languages/generatedString.php:136
+msgid "List:"
+msgstr ""
+
+#: languages/generatedString.php:138
+msgid "Select List"
+msgstr ""
+
+#: languages/generatedString.php:140
+msgid "Tags: "
+msgstr ""
+
+#: languages/generatedString.php:142
+msgid "Refresh Activecapmaign Tags"
+msgstr ""
+
+#: languages/generatedString.php:144
+msgid "Map Fields"
+msgstr ""
+
+#: languages/generatedString.php:146
+msgid "Refresh Activecapmaign Field"
+msgstr ""
+
+#: languages/generatedString.php:148
+msgid "ActiveCampaign Fields"
+msgstr ""
+
+#: languages/generatedString.php:150
+msgid "Skip exist Contact"
+msgstr ""
+
+#: languages/generatedString.php:152
+msgid "Skip if contact already exist in Autonami"
+msgstr ""
+
+#: languages/generatedString.php:154
+msgid "Connect Successfully"
+msgstr ""
+
+#: languages/generatedString.php:156
+msgid "Connected ✔"
+msgstr ""
+
+#: languages/generatedString.php:158
+msgid "Connect to Autonami"
+msgstr ""
+
+#: languages/generatedString.php:160
+msgid "Autonami lists and tags refreshed"
+msgstr ""
+
+#: languages/generatedString.php:162
+msgid "Autonami lists and tags refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:164
+msgid "please try again"
+msgstr ""
+
+#: languages/generatedString.php:166
+msgid "Autonami lists and tags refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:168
+msgid "Autonami fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:170
+msgid "No Autonami fields found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:172
+msgid "Autonami fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:174
+msgid "Autonami Lists:"
+msgstr ""
+
+#: languages/generatedString.php:176
+msgid "Refresh Autonami Lists And Tags"
+msgstr ""
+
+#: languages/generatedString.php:178
+msgid "Autonami Tags: "
+msgstr ""
+
+#: languages/generatedString.php:180
+msgid "Refresh Autonami Fields"
+msgstr ""
+
+#: languages/generatedString.php:182
+msgid "Autonami Fields"
+msgstr ""
+
+#: languages/generatedString.php:184
+msgid "Delete File From Wordpress"
+msgstr ""
+
+#: languages/generatedString.php:186
+msgid "Delete file from Wordpress after upload in Dropbox"
+msgstr ""
+
+#: languages/generatedString.php:188
+msgid "Please enter API key and API secret"
+msgstr ""
+
+#: languages/generatedString.php:190
+msgid "To Get Api Key & Secret, Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:192
+msgid "Dropbox API Console"
+msgstr ""
+
+#: languages/generatedString.php:194
+msgid "Dropbox Api Key:"
+msgstr ""
+
+#: languages/generatedString.php:196
+msgid "Api Key..."
+msgstr ""
+
+#: languages/generatedString.php:198
+msgid "Dropbox Api Secret:"
+msgstr ""
+
+#: languages/generatedString.php:200
+msgid "Api Secret..."
+msgstr ""
+
+#: languages/generatedString.php:202
+msgid "To Get Access Code, Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:204
+msgid "Dropbox Access Code"
+msgstr ""
+
+#: languages/generatedString.php:206
+msgid "Dropbox Access Code:"
+msgstr ""
+
+#: languages/generatedString.php:208
+msgid "Access Code..."
+msgstr ""
+
+#: languages/generatedString.php:210
+msgid "Error Occurred"
+msgstr ""
+
+#: languages/generatedString.php:212
+msgid "Loading Dropbox Folders List..."
+msgstr ""
+
+#: languages/generatedString.php:214
+msgid "Dropbox ApiKey, ApiSecret & Access Code can't be empty"
+msgstr ""
+
+#: languages/generatedString.php:216
+msgid "Authorization failed Cause: "
+msgstr ""
+
+#: languages/generatedString.php:218
+msgid "Authorization failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:220
+msgid "Select Folder"
+msgstr ""
+
+#: languages/generatedString.php:222
+msgid "Field Map"
+msgstr ""
+
+#: languages/generatedString.php:224
+msgid "Fetch All Dropbox Folders"
+msgstr ""
+
+#: languages/generatedString.php:226
+msgid "File Input"
+msgstr ""
+
+#: languages/generatedString.php:228
+msgid "Dropbox Folder"
+msgstr ""
+
+#: languages/generatedString.php:230
+msgid "Integration Settings"
+msgstr ""
+
+#: languages/generatedString.php:232
+msgid "API Key cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:234
+msgid "API Key:"
+msgstr ""
+
+#: languages/generatedString.php:236
+msgid "API key"
+msgstr ""
+
+#: languages/generatedString.php:238
+msgid "To get API , Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:240
+msgid "Encharge API Console"
+msgstr ""
+
+#: languages/generatedString.php:242
+msgid "Encharge fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:244
+msgid "No Encharge fields found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:246
+msgid "Encharge fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:248
+msgid "Tags:"
+msgstr ""
+
+#: languages/generatedString.php:250
+msgid "tag-1, tag-2"
+msgstr ""
+
+#: languages/generatedString.php:252
+msgid "Encharge Fields"
+msgstr ""
+
+#: languages/generatedString.php:254
+msgid "Skip if contact already exist in FluentCRM"
+msgstr ""
+
+#: languages/generatedString.php:256
+msgid "Double Opt-in"
+msgstr ""
+
+#: languages/generatedString.php:258
+msgid "Enable Double Option for new contacts"
+msgstr ""
+
+#: languages/generatedString.php:260
+msgid "Connect to Fluent CRM"
+msgstr ""
+
+#: languages/generatedString.php:262
+msgid "FluentCRM list refreshed"
+msgstr ""
+
+#: languages/generatedString.php:264
+msgid "FluentCRM list refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:266
+msgid "FluentCRM list refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:268
+msgid "Fluent CRM fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:270
+msgid "No Fluent CRM fields found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:272
+msgid "Fluent CRM fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:274
+msgid "Fluent CRM List:"
+msgstr ""
+
+#: languages/generatedString.php:276
+msgid "Select Fluent CRM list"
+msgstr ""
+
+#: languages/generatedString.php:278
+msgid "Refresh Fluent CRM List"
+msgstr ""
+
+#: languages/generatedString.php:280
+msgid "Fluent CRM Tags: "
+msgstr ""
+
+#: languages/generatedString.php:282
+msgid "Fluent CRM Fields"
+msgstr ""
+
+#: languages/generatedString.php:284
+msgid "Homepage URL:"
+msgstr ""
+
+#: languages/generatedString.php:286
+msgid "Authorized Redirect URIs:"
+msgstr ""
+
+#: languages/generatedString.php:288
+msgid "To get Client ID and SECRET , Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:290
+msgid "Google API Console"
+msgstr ""
+
+#: languages/generatedString.php:292
+msgid "Client id:"
+msgstr ""
+
+#: languages/generatedString.php:294
+msgid "Client id..."
+msgstr ""
+
+#: languages/generatedString.php:296
+msgid "Client secret:"
+msgstr ""
+
+#: languages/generatedString.php:298
+msgid "Client secret..."
+msgstr ""
+
+#: languages/generatedString.php:300
+msgid "Worksheets refreshed"
+msgstr ""
+
+#: languages/generatedString.php:302
+msgid "Worksheets refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:304
+msgid "Worksheet Headers refreshed"
+msgstr ""
+
+#: languages/generatedString.php:306
+msgid "No Worksheet headers found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:308
+msgid "Worksheet Headers refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:310
+msgid "Client ID cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:312
+msgid "Secret key cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:314
+msgid "Authorization failed"
+msgstr ""
+
+#: languages/generatedString.php:316
+msgid "Authorization failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:318
+msgid "Spreadsheet refreshed"
+msgstr ""
+
+#: languages/generatedString.php:320
+msgid "Spreadsheet refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:322
+msgid "Spreadsheet refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:324
+msgid "Spreadsheets:"
+msgstr ""
+
+#: languages/generatedString.php:326
+msgid "Select Spreadsheet"
+msgstr ""
+
+#: languages/generatedString.php:328
+msgid "Select Worksheet"
+msgstr ""
+
+#: languages/generatedString.php:330
+msgid "Header Row:"
+msgstr ""
+
+#: languages/generatedString.php:332
+msgid "By default, first row of the worksheet is considered as header row. This can be used if tabular data starts from any row other than the first row."
+msgstr ""
+
+#: languages/generatedString.php:334
+msgid "Google Fields"
+msgstr ""
+
+#: languages/generatedString.php:336
+msgid "Integration Info"
+msgstr ""
+
+#: languages/generatedString.php:338
+msgid "Data center cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:340
+msgid "Successfully Integrated"
+msgstr ""
+
+#: languages/generatedString.php:342
+msgid "Finish & Save "
+msgstr ""
+
+#: languages/generatedString.php:344
+msgid "Update"
+msgstr ""
+
+#: languages/generatedString.php:346
+msgid "Method:"
+msgstr ""
+
+#: languages/generatedString.php:348
+msgid "Test Webhook"
+msgstr ""
+
+#: languages/generatedString.php:350
+msgid "Add Url Parameter: (optional)"
+msgstr ""
+
+#: languages/generatedString.php:352
+msgid "Key"
+msgstr ""
+
+#: languages/generatedString.php:354
+msgid "Value"
+msgstr ""
+
+#: languages/generatedString.php:356
+msgid "Webhook tests failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:358
+msgid "Integration name"
+msgstr ""
+
+#: languages/generatedString.php:360
+msgid "Link:"
+msgstr ""
+
+#: languages/generatedString.php:362
+msgid "To got Webhook , Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:364
+msgid " Dashboard"
+msgstr ""
+
+#: languages/generatedString.php:366
+msgid "Add Address Field"
+msgstr ""
+
+#: languages/generatedString.php:368
+msgid "Add Double Opt-in"
+msgstr ""
+
+#: languages/generatedString.php:370
+msgid "Update Mail Chimp"
+msgstr ""
+
+#: languages/generatedString.php:372
+msgid "Update Responses with MailChimp exist Aduience?"
+msgstr ""
+
+#: languages/generatedString.php:374
+msgid "Mail Chimp API Console"
+msgstr ""
+
+#: languages/generatedString.php:376
+msgid "Fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:378
+msgid "Fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:380
+msgid "Audience list refreshed"
+msgstr ""
+
+#: languages/generatedString.php:382
+msgid "Audience list refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:384
+msgid "Audience list failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:386
+msgid "Audience tags refreshed"
+msgstr ""
+
+#: languages/generatedString.php:388
+msgid "Audience tags refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:390
+msgid "Audience tags failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:392
+msgid "Audience List:"
+msgstr ""
+
+#: languages/generatedString.php:394
+msgid "Select Audience List"
+msgstr ""
+
+#: languages/generatedString.php:396
+msgid "Refresh MailChimp Tags"
+msgstr ""
+
+#: languages/generatedString.php:398
+msgid "Mail Chimp Fields"
+msgstr ""
+
+#: languages/generatedString.php:400
+msgid "Address Field Map"
+msgstr ""
+
+#: languages/generatedString.php:402
+msgid "Form Address Fields"
+msgstr ""
+
+#: languages/generatedString.php:404
+msgid "Mail Chimp Address Fields"
+msgstr ""
+
+#: languages/generatedString.php:406
+msgid "Newsletter list refreshed"
+msgstr ""
+
+#: languages/generatedString.php:408
+msgid "Newsletter list refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:410
+msgid "Newsletter list refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:412
+msgid "Mailpoet fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:414
+msgid "No Mailpoet fields found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:416
+msgid "Mailpoet fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:418
+msgid "List: "
+msgstr ""
+
+#: languages/generatedString.php:420
+msgid "Refresh MailPoet List"
+msgstr ""
+
+#: languages/generatedString.php:422
+msgid "MailPoet Fields"
+msgstr ""
+
+#: languages/generatedString.php:424
+msgid "MetaBox Fields Mapping"
+msgstr ""
+
+#: languages/generatedString.php:426
+msgid "Metabox Fields"
+msgstr ""
+
+#: languages/generatedString.php:428
+msgid "Metabox File Upload Fields Map"
+msgstr ""
+
+#: languages/generatedString.php:430
+msgid "Refresh MetaBox List"
+msgstr ""
+
+#: languages/generatedString.php:432
+msgid "Metaxbox Fields"
+msgstr ""
+
+#: languages/generatedString.php:434
+msgid "Metabox Fields Mapping"
+msgstr ""
+
+#: languages/generatedString.php:436
+msgid "Loading MetaBox Fields..."
+msgstr ""
+
+#: languages/generatedString.php:438
+msgid "Delete file from Wordpress after upload in OneDrive"
+msgstr ""
+
+#: languages/generatedString.php:440
+msgid "Upload Files"
+msgstr ""
+
+#: languages/generatedString.php:442
+msgid "Add attachments from Bit-integration-pro to OneDrive folder."
+msgstr ""
+
+#: languages/generatedString.php:444
+msgid "This action is required."
+msgstr ""
+
+#: languages/generatedString.php:446
+msgid "Select Attachment"
+msgstr ""
+
+#: languages/generatedString.php:448
+msgid "Select file upload fields"
+msgstr ""
+
+#: languages/generatedString.php:450
+msgid "To Get Client Id & Secret, Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:452
+msgid "Azure Portal"
+msgstr ""
+
+#: languages/generatedString.php:454
+msgid "OneDrive Client Id:"
+msgstr ""
+
+#: languages/generatedString.php:456
+msgid "Client Id..."
+msgstr ""
+
+#: languages/generatedString.php:458
+msgid "OneDrive Client Secret:"
+msgstr ""
+
+#: languages/generatedString.php:460
+msgid "Client Secret..."
+msgstr ""
+
+#: languages/generatedString.php:462
+msgid "No Sub Folder Found"
+msgstr ""
+
+#: languages/generatedString.php:464
+msgid "Sub Folders refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:466
+msgid "Client Id can't be empty"
+msgstr ""
+
+#: languages/generatedString.php:468
+msgid "Client Secret can't be empty"
+msgstr ""
+
+#: languages/generatedString.php:470
+msgid "Loading OneDrive Folders List..."
+msgstr ""
+
+#: languages/generatedString.php:472
+msgid "Sub Folders refreshed"
+msgstr ""
+
+#: languages/generatedString.php:474
+msgid "Refresh All oneDrive Folders"
+msgstr ""
+
+#: languages/generatedString.php:476
+msgid "Refresh Sub Folders"
+msgstr ""
+
+#: languages/generatedString.php:478
+msgid "Pod Fields"
+msgstr ""
+
+#: languages/generatedString.php:480
+msgid "Pod cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:482
+msgid "Pod"
+msgstr ""
+
+#: languages/generatedString.php:484
+msgid "Template name cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:486
+msgid "Redirection url name cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:488
+msgid "Update SendinBlue"
+msgstr ""
+
+#: languages/generatedString.php:490
+msgid "Update Responses with SendinBlue existing email?"
+msgstr ""
+
+#: languages/generatedString.php:492
+msgid "SendinBlue API Console"
+msgstr ""
+
+#: languages/generatedString.php:494
+msgid "List refreshed"
+msgstr ""
+
+#: languages/generatedString.php:496
+msgid "List refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:498
+msgid "List failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:500
+msgid "Templates refreshed"
+msgstr ""
+
+#: languages/generatedString.php:502
+msgid "Templates refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:504
+msgid "Templates failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:506
+msgid "SendinBlue fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:508
+msgid "No SendinBlue fields found. Try changing the header row number or try again"
+msgstr ""
+
+#: languages/generatedString.php:510
+msgid "SendinBlue fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:512
+msgid "Refresh SendinBlue Templates"
+msgstr ""
+
+#: languages/generatedString.php:514
+msgid "RedirectionUrl:"
+msgstr ""
+
+#: languages/generatedString.php:516
+msgid "Refresh SendinBlue Lists"
+msgstr ""
+
+#: languages/generatedString.php:518
+msgid "SendinBlue Fields"
+msgstr ""
+
+#: languages/generatedString.php:520
+msgid "Template: "
+msgstr ""
+
+#: languages/generatedString.php:522
+msgid "Select Template"
+msgstr ""
+
+#: languages/generatedString.php:524
+msgid "Attachments"
+msgstr ""
+
+#: languages/generatedString.php:526
+msgid "Add attachments from BitForm to send Telegram."
+msgstr ""
+
+#: languages/generatedString.php:528
+msgid "Please select file upload fields"
+msgstr ""
+
+#: languages/generatedString.php:530
+msgid "Select file upload field"
+msgstr ""
+
+#: languages/generatedString.php:532
+msgid "Authorized Filled"
+msgstr ""
+
+#: languages/generatedString.php:534
+msgid "Bot API Key:"
+msgstr ""
+
+#: languages/generatedString.php:536
+msgid "Chat list refreshed"
+msgstr ""
+
+#: languages/generatedString.php:538
+msgid "Chat list refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:540
+msgid "Chat list refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:542
+msgid "Chat List: "
+msgstr ""
+
+#: languages/generatedString.php:544
+msgid "Select Chat List"
+msgstr ""
+
+#: languages/generatedString.php:546
+msgid "Refresh Telegram List"
+msgstr ""
+
+#: languages/generatedString.php:548
+msgid "Parse Mode: "
+msgstr ""
+
+#: languages/generatedString.php:550
+msgid "HTML"
+msgstr ""
+
+#: languages/generatedString.php:552
+msgid "Markdown v2"
+msgstr ""
+
+#: languages/generatedString.php:554
+msgid "Messages: "
+msgstr ""
+
+#: languages/generatedString.php:556
+msgid "Connected with WooCommerce Successfully"
+msgstr ""
+
+#: languages/generatedString.php:558
+msgid "Connect"
+msgstr ""
+
+#: languages/generatedString.php:560
+msgid "Module:"
+msgstr ""
+
+#: languages/generatedString.php:562
+msgid "Select Module"
+msgstr ""
+
+#: languages/generatedString.php:564
+msgid "Map File Upload Fields"
+msgstr ""
+
+#: languages/generatedString.php:566
+msgid "Refresh Fields"
+msgstr ""
+
+#: languages/generatedString.php:568
+msgid "WooCommerce Fields"
+msgstr ""
+
+#: languages/generatedString.php:570
+msgid "Control how the row gets updated."
+msgstr ""
+
+#: languages/generatedString.php:572
+msgid "Share Table"
+msgstr ""
+
+#: languages/generatedString.php:574
+msgid "Share Table with users pushed to Zoho Analytics."
+msgstr ""
+
+#: languages/generatedString.php:576
+msgid "Update Row"
+msgstr ""
+
+#: languages/generatedString.php:578
+msgid "Enter the criteria to update rows. Please use the below format."
+msgstr ""
+
+#: languages/generatedString.php:580
+msgid "Example"
+msgstr ""
+
+#: languages/generatedString.php:582
+msgid "Here Department, Salary and Country are Zoho Analytics table column name"
+msgstr ""
+
+#: languages/generatedString.php:584
+msgid "Supported Arithmetic Operators: ( +, -, *, / ) and Supported Relational Operators: ( =, !=, <, >, <=, >=, LIKE, NOT LIKE, IN, NOT IN, BETWEEN )"
+msgstr ""
+
+#: languages/generatedString.php:586
+msgid "Update Preferance"
+msgstr ""
+
+#: languages/generatedString.php:588
+msgid "Yes"
+msgstr ""
+
+#: languages/generatedString.php:590
+msgid "No"
+msgstr ""
+
+#: languages/generatedString.php:592
+msgid "Share Settings"
+msgstr ""
+
+#: languages/generatedString.php:594
+msgid "Enter Email Addresses"
+msgstr ""
+
+#: languages/generatedString.php:596
+msgid "you can select analytics users or select form fields value or even can input custom email address as well"
+msgstr ""
+
+#: languages/generatedString.php:598
+msgid "Permissions Settings"
+msgstr ""
+
+#: languages/generatedString.php:600
+msgid "Email is invalid"
+msgstr ""
+
+#: languages/generatedString.php:602
+msgid "Data Center:"
+msgstr ""
+
+#: languages/generatedString.php:604
+msgid "--Select a data center--"
+msgstr ""
+
+#: languages/generatedString.php:606
+msgid "Zoho API Console"
+msgstr ""
+
+#: languages/generatedString.php:608
+msgid "Zoho Analytics Owner Email:"
+msgstr ""
+
+#: languages/generatedString.php:610
+msgid "Owner Email"
+msgstr ""
+
+#: languages/generatedString.php:612
+msgid "Workspaces refreshed"
+msgstr ""
+
+#: languages/generatedString.php:614
+msgid "Workspaces refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:616
+msgid "Workspaces refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:618
+msgid "Users refreshed"
+msgstr ""
+
+#: languages/generatedString.php:620
+msgid "Users refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:622
+msgid "Users refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:624
+msgid "Tables refreshed"
+msgstr ""
+
+#: languages/generatedString.php:626
+msgid "Tables refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:628
+msgid "Table Headers refreshed"
+msgstr ""
+
+#: languages/generatedString.php:630
+msgid "Zoho didn't provide column names for this table"
+msgstr ""
+
+#: languages/generatedString.php:632
+msgid "Table Headers refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:634
+msgid "Workspace:"
+msgstr ""
+
+#: languages/generatedString.php:636
+msgid "Select Workspace"
+msgstr ""
+
+#: languages/generatedString.php:638
+msgid "Refresh Analytics Workspaces"
+msgstr ""
+
+#: languages/generatedString.php:640
+msgid "Table:"
+msgstr ""
+
+#: languages/generatedString.php:642
+msgid "Select Table"
+msgstr ""
+
+#: languages/generatedString.php:644
+msgid "** Zoho Analytics doesn't support data INSERT / UPDATE in other integration table"
+msgstr ""
+
+#: languages/generatedString.php:646
+msgid "Refresh Analytics Table Headers"
+msgstr ""
+
+#: languages/generatedString.php:648
+msgid "Zoho Fields"
+msgstr ""
+
+#: languages/generatedString.php:650
+msgid "Upload Photo"
+msgstr ""
+
+#: languages/generatedString.php:652
+msgid "Record Owner"
+msgstr ""
+
+#: languages/generatedString.php:654
+msgid "Tags"
+msgstr ""
+
+#: languages/generatedString.php:656
+msgid "Tag Name"
+msgstr ""
+
+#: languages/generatedString.php:658
+msgid "Notes"
+msgstr ""
+
+#: languages/generatedString.php:660
+msgid "Note Title"
+msgstr ""
+
+#: languages/generatedString.php:662
+msgid "Note Content"
+msgstr ""
+
+#: languages/generatedString.php:664
+msgid "Field"
+msgstr ""
+
+#: languages/generatedString.php:666
+msgid "Workflow"
+msgstr ""
+
+#: languages/generatedString.php:668
+msgid "Trigger workflows in Zoho Bigin."
+msgstr ""
+
+#: languages/generatedString.php:670
+msgid "Approval"
+msgstr ""
+
+#: languages/generatedString.php:672
+msgid "Send entries to approval list in Zoho Bigin."
+msgstr ""
+
+#: languages/generatedString.php:674
+msgid "Add a Note"
+msgstr ""
+
+#: languages/generatedString.php:676
+msgid "Add a note from bitform to pushed to Zoho Bigin."
+msgstr ""
+
+#: languages/generatedString.php:678
+msgid "Attachment"
+msgstr ""
+
+#: languages/generatedString.php:680
+msgid "Add attachments from BitForm to Zoho Bigin."
+msgstr ""
+
+#: languages/generatedString.php:682
+msgid "RelatedLists refreshed"
+msgstr ""
+
+#: languages/generatedString.php:684
+msgid "RelatedLists refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:686
+msgid "RelatedLists refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:688
+msgid "Tags Refreshed"
+msgstr ""
+
+#: languages/generatedString.php:690
+msgid "Tags refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:692
+msgid "Users Refreshed"
+msgstr ""
+
+#: languages/generatedString.php:694
+msgid "Modules refreshed"
+msgstr ""
+
+#: languages/generatedString.php:696
+msgid "Modules refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:698
+msgid "Modules refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:700
+msgid "Refresh Bigin Modules"
+msgstr ""
+
+#: languages/generatedString.php:702
+msgid "New Record"
+msgstr ""
+
+#: languages/generatedString.php:704
+msgid "Map Attachments"
+msgstr ""
+
+#: languages/generatedString.php:706
+msgid "Available On"
+msgstr ""
+
+#: languages/generatedString.php:708
+msgid "Premium"
+msgstr ""
+
+#: languages/generatedString.php:710
+msgid "Trigger CRM workflows"
+msgstr ""
+
+#: languages/generatedString.php:712
+msgid "Add attachments or signatures from BitForm to CRM."
+msgstr ""
+
+#: languages/generatedString.php:714
+msgid "Send entries to CRM approval list."
+msgstr ""
+
+#: languages/generatedString.php:716
+msgid "Blueprint"
+msgstr ""
+
+#: languages/generatedString.php:718
+msgid "Trigger CRM Blueprint"
+msgstr ""
+
+#: languages/generatedString.php:720
+msgid "Capture GCLID"
+msgstr ""
+
+#: languages/generatedString.php:722
+msgid "Sends the click details of AdWords Ads to Zoho CRM."
+msgstr ""
+
+#: languages/generatedString.php:724
+msgid "Upsert Records"
+msgstr ""
+
+#: languages/generatedString.php:726
+msgid "The record is updated if it already exists else it is inserted as a new record."
+msgstr ""
+
+#: languages/generatedString.php:728
+msgid "Trigger Assignment Rules in Zoho CRM."
+msgstr ""
+
+#: languages/generatedString.php:730
+msgid "Add a tag to records pushed to Zoho CRM."
+msgstr ""
+
+#: languages/generatedString.php:732
+msgid "Add a owner to records pushed to Zoho CRM."
+msgstr ""
+
+#: languages/generatedString.php:734
+msgid "Assignment Rules"
+msgstr ""
+
+#: languages/generatedString.php:736
+msgid "Select Assignment Rule"
+msgstr ""
+
+#: languages/generatedString.php:738
+msgid "Refresh CRM Assignment Rules"
+msgstr ""
+
+#: languages/generatedString.php:740
+msgid "Tag Records"
+msgstr ""
+
+#: languages/generatedString.php:742
+msgid "Add a tag to records pushed to Zoho CRM"
+msgstr ""
+
+#: languages/generatedString.php:744
+msgid "Refresh CRM Tags"
+msgstr ""
+
+#: languages/generatedString.php:746
+msgid "Ok"
+msgstr ""
+
+#: languages/generatedString.php:748
+msgid "Owner Name"
+msgstr ""
+
+#: languages/generatedString.php:750
+msgid "Select Owner"
+msgstr ""
+
+#: languages/generatedString.php:752
+msgid "Refresh CRM Owners"
+msgstr ""
+
+#: languages/generatedString.php:754
+msgid "Upsert Record"
+msgstr ""
+
+#: languages/generatedString.php:756
+msgid "Upsert Using"
+msgstr ""
+
+#: languages/generatedString.php:758
+msgid "Arrange fields in order of preferance for upsertion"
+msgstr ""
+
+#: languages/generatedString.php:760
+msgid "Upsert Preferance"
+msgstr ""
+
+#: languages/generatedString.php:762
+msgid "Overwrite existing field values in Zoho CRM with empty field values from Bit Form while upserting a record?"
+msgstr ""
+
+#: languages/generatedString.php:764
+msgid "Layouts refreshed"
+msgstr ""
+
+#: languages/generatedString.php:766
+msgid "Layouts refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:768
+msgid "Layouts refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:770
+msgid "Tags refreshed"
+msgstr ""
+
+#: languages/generatedString.php:772
+msgid "Tags refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:774
+msgid "Owners refreshed"
+msgstr ""
+
+#: languages/generatedString.php:776
+msgid "Owners refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:778
+msgid "Assignment Rules refreshed"
+msgstr ""
+
+#: languages/generatedString.php:780
+msgid "Assignment Rules refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:782
+msgid "Refresh CRM Modules"
+msgstr ""
+
+#: languages/generatedString.php:784
+msgid "Related List #"
+msgstr ""
+
+#: languages/generatedString.php:786
+msgid "Add More Related List"
+msgstr ""
+
+#: languages/generatedString.php:788
+msgid "Layout:"
+msgstr ""
+
+#: languages/generatedString.php:790
+msgid "Select Layout"
+msgstr ""
+
+#: languages/generatedString.php:792
+msgid "Refresh CRM Layouts"
+msgstr ""
+
+#: languages/generatedString.php:794
+msgid "File Upload Field Map"
+msgstr ""
+
+#: languages/generatedString.php:796
+msgid "Related List:"
+msgstr ""
+
+#: languages/generatedString.php:798
+msgid "Select Related Module"
+msgstr ""
+
+#: languages/generatedString.php:800
+msgid "Refresh CRM Related Lists"
+msgstr ""
+
+#: languages/generatedString.php:802
+msgid "Lists refreshed"
+msgstr ""
+
+#: languages/generatedString.php:804
+msgid "Lists refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:806
+msgid "Lists refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:808
+msgid "Contact Fields refreshed"
+msgstr ""
+
+#: languages/generatedString.php:810
+msgid "Zoho didn't provide fields names for this list"
+msgstr ""
+
+#: languages/generatedString.php:812
+msgid "Contact Fields refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:814
+msgid "Contact Email"
+msgstr ""
+
+#: languages/generatedString.php:816
+msgid "Refresh Campaigns Lists"
+msgstr ""
+
+#: languages/generatedString.php:818
+msgid "Refresh Campaigns Contact Fields"
+msgstr ""
+
+#: languages/generatedString.php:820
+msgid "Update Record"
+msgstr ""
+
+#: languages/generatedString.php:822
+msgid "Control how the record gets updated."
+msgstr ""
+
+#: languages/generatedString.php:824
+msgid "Enter the criteria to update records. Please use the below format."
+msgstr ""
+
+#: languages/generatedString.php:826
+msgid "Example:"
+msgstr ""
+
+#: languages/generatedString.php:828
+msgid "Here Email is Zoho Creator Field link name. info:"
+msgstr ""
+
+#: languages/generatedString.php:830
+msgid "Zoho Creator Criteria Guide"
+msgstr ""
+
+#: languages/generatedString.php:832
+msgid "insert new record if the above criteria doesn&apos;t met?"
+msgstr ""
+
+#: languages/generatedString.php:834
+msgid "Account Owner Name is mandatory!"
+msgstr ""
+
+#: languages/generatedString.php:836
+msgid "Owner Name (Your Zoho Creator screen name):"
+msgstr ""
+
+#: languages/generatedString.php:838
+msgid "Your Zoho Creator screen name..."
+msgstr ""
+
+#: languages/generatedString.php:840
+msgid "Applications refreshed"
+msgstr ""
+
+#: languages/generatedString.php:842
+msgid "Applications refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:844
+msgid "Applications refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:846
+msgid "Forms refreshed"
+msgstr ""
+
+#: languages/generatedString.php:848
+msgid "Forms refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:850
+msgid "Forms refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:852
+msgid "Fields refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:854
+msgid "Application:"
+msgstr ""
+
+#: languages/generatedString.php:856
+msgid "Select Application"
+msgstr ""
+
+#: languages/generatedString.php:858
+msgid "Form:"
+msgstr ""
+
+#: languages/generatedString.php:860
+msgid "Select Form"
+msgstr ""
+
+#: languages/generatedString.php:862
+msgid "Refresh Creator Fields"
+msgstr ""
+
+#: languages/generatedString.php:864
+msgid "Please select a ticket owner"
+msgstr ""
+
+#: languages/generatedString.php:866
+msgid "Product Name"
+msgstr ""
+
+#: languages/generatedString.php:868
+msgid "Select Product"
+msgstr ""
+
+#: languages/generatedString.php:870
+msgid "Add a owner to ticket pushed to Zoho Desk."
+msgstr ""
+
+#: languages/generatedString.php:872
+msgid "ticket owner is required"
+msgstr ""
+
+#: languages/generatedString.php:874
+msgid "Add a product to ticket pushed to Zoho Desk."
+msgstr ""
+
+#: languages/generatedString.php:876
+msgid "Add attachments from BitForm to ticket pushed to Zoho Desk."
+msgstr ""
+
+#: languages/generatedString.php:878
+msgid "Ticket Owner"
+msgstr ""
+
+#: languages/generatedString.php:880
+msgid "Departments refreshed"
+msgstr ""
+
+#: languages/generatedString.php:882
+msgid "Departments refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:884
+msgid "Departments refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:886
+msgid "Owners refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:888
+msgid "Products refreshed"
+msgstr ""
+
+#: languages/generatedString.php:890
+msgid "Products refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:892
+msgid "Products refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:894
+msgid "Portals refreshed"
+msgstr ""
+
+#: languages/generatedString.php:896
+msgid "Portals refresh failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:898
+msgid "Portals refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:900
+msgid "Portal:"
+msgstr ""
+
+#: languages/generatedString.php:902
+msgid "Select Portal"
+msgstr ""
+
+#: languages/generatedString.php:904
+msgid "Refresh Desk Portals"
+msgstr ""
+
+#: languages/generatedString.php:906
+msgid "Department:"
+msgstr ""
+
+#: languages/generatedString.php:908
+msgid "Select Department"
+msgstr ""
+
+#: languages/generatedString.php:910
+msgid "Refresh Desk Departments"
+msgstr ""
+
+#: languages/generatedString.php:912
+msgid "Refresh Desk Fields"
+msgstr ""
+
+#: languages/generatedString.php:914
+msgid "Add attachments from BitForm to mail pushed to Zoho Mail."
+msgstr ""
+
+#: languages/generatedString.php:916
+msgid "Email Subject Here"
+msgstr ""
+
+#: languages/generatedString.php:918
+msgid "Add form field"
+msgstr ""
+
+#: languages/generatedString.php:920
+msgid "Body:"
+msgstr ""
+
+#: languages/generatedString.php:922
+msgid "Type:"
+msgstr ""
+
+#: languages/generatedString.php:924
+msgid "Select type"
+msgstr ""
+
+#: languages/generatedString.php:926
+msgid "Send Email"
+msgstr ""
+
+#: languages/generatedString.php:928
+msgid "Save as Draft"
+msgstr ""
+
+#: languages/generatedString.php:930
+msgid "Add Email Receiver"
+msgstr ""
+
+#: languages/generatedString.php:932
+msgid "CC:"
+msgstr ""
+
+#: languages/generatedString.php:934
+msgid "Add Email CC"
+msgstr ""
+
+#: languages/generatedString.php:936
+msgid "BCC:"
+msgstr ""
+
+#: languages/generatedString.php:938
+msgid "Add Email BCC"
+msgstr ""
+
+#: languages/generatedString.php:940
+msgid "Subject:"
+msgstr ""
+
+#: languages/generatedString.php:942
+msgid "Refresh MarketingHub Lists"
+msgstr ""
+
+#: languages/generatedString.php:944
+msgid "Refresh MarketingHub Contact Fields"
+msgstr ""
+
+#: languages/generatedString.php:946
+msgid "Create"
+msgstr ""
+
+#: languages/generatedString.php:948
+msgid "Add an owner to %s  pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:950
+msgid "Add a layout to project pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:952
+msgid "task layout is required"
+msgstr ""
+
+#: languages/generatedString.php:954
+msgid "Public Project"
+msgstr ""
+
+#: languages/generatedString.php:956
+msgid "by default, it is set as private project."
+msgstr ""
+
+#: languages/generatedString.php:958
+msgid "Project user"
+msgstr ""
+
+#: languages/generatedString.php:960
+msgid "Assign users to project pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:962
+msgid "Group Name"
+msgstr ""
+
+#: languages/generatedString.php:964
+msgid "Add a group to project pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:966
+msgid "Add a flag to"
+msgstr ""
+
+#: languages/generatedString.php:968
+msgid "pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:970
+msgid "flag is required"
+msgstr ""
+
+#: languages/generatedString.php:972
+msgid "Add followers to issue pushed to Zoho Projects"
+msgstr ""
+
+#: languages/generatedString.php:974
+msgid "Add %s to issue pushed to Zoho Projects"
+msgstr ""
+
+#: languages/generatedString.php:976
+msgid "%s Attachments"
+msgstr ""
+
+#: languages/generatedString.php:978
+msgid "Add time log to %s pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:980
+msgid "Add recurrence to %s pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:982
+msgid "Add reminder to %s pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:984
+msgid "Add tags to %s pushed to Zoho Projects."
+msgstr ""
+
+#: languages/generatedString.php:986
+msgid "%s Owner"
+msgstr ""
+
+#: languages/generatedString.php:988
+msgid "Task Layout"
+msgstr ""
+
+#: languages/generatedString.php:990
+msgid "Refresh Task Layouts"
+msgstr ""
+
+#: languages/generatedString.php:992
+msgid "Assign Project Users"
+msgstr ""
+
+#: languages/generatedString.php:994
+msgid "Project Group"
+msgstr ""
+
+#: languages/generatedString.php:996
+msgid "Select Group"
+msgstr ""
+
+#: languages/generatedString.php:998
+msgid "Refresh Project Groups"
+msgstr ""
+
+#: languages/generatedString.php:1000
+msgid "%s Flag"
+msgstr ""
+
+#: languages/generatedString.php:1002
+msgid "Select Flag"
+msgstr ""
+
+#: languages/generatedString.php:1004
+msgid "Internal"
+msgstr ""
+
+#: languages/generatedString.php:1006
+msgid "External"
+msgstr ""
+
+#: languages/generatedString.php:1008
+msgid "%s Time Log"
+msgstr ""
+
+#: languages/generatedString.php:1010
+msgid "Billing Status"
+msgstr ""
+
+#: languages/generatedString.php:1012
+msgid "Billable"
+msgstr ""
+
+#: languages/generatedString.php:1014
+msgid "Non Billable"
+msgstr ""
+
+#: languages/generatedString.php:1016
+msgid "Enter Hours"
+msgstr ""
+
+#: languages/generatedString.php:1018
+msgid "set start & end time"
+msgstr ""
+
+#: languages/generatedString.php:1020
+msgid "Start Time"
+msgstr ""
+
+#: languages/generatedString.php:1022
+msgid "End Time"
+msgstr ""
+
+#: languages/generatedString.php:1024
+msgid "set hours"
+msgstr ""
+
+#: languages/generatedString.php:1026
+msgid "User"
+msgstr ""
+
+#: languages/generatedString.php:1028
+msgid "%s Reminder"
+msgstr ""
+
+#: languages/generatedString.php:1030
+msgid "Select Reminder Type"
+msgstr ""
+
+#: languages/generatedString.php:1032
+msgid "Select Type"
+msgstr ""
+
+#: languages/generatedString.php:1034
+msgid "On Same Day"
+msgstr ""
+
+#: languages/generatedString.php:1036
+msgid "Before Due Date"
+msgstr ""
+
+#: languages/generatedString.php:1038
+msgid "Custom Date"
+msgstr ""
+
+#: languages/generatedString.php:1040
+msgid "Day Before"
+msgstr ""
+
+#: languages/generatedString.php:1042
+msgid "Select Date"
+msgstr ""
+
+#: languages/generatedString.php:1044
+msgid "Select Time"
+msgstr ""
+
+#: languages/generatedString.php:1046
+msgid "Notify Users"
+msgstr ""
+
+#: languages/generatedString.php:1048
+msgid "%s Recurrence"
+msgstr ""
+
+#: languages/generatedString.php:1050
+msgid "Select Recurring Frequency"
+msgstr ""
+
+#: languages/generatedString.php:1052
+msgid "Select Frequency"
+msgstr ""
+
+#: languages/generatedString.php:1054
+msgid "Daily"
+msgstr ""
+
+#: languages/generatedString.php:1056
+msgid "Weekley"
+msgstr ""
+
+#: languages/generatedString.php:1058
+msgid "Monthly"
+msgstr ""
+
+#: languages/generatedString.php:1060
+msgid "Yearly"
+msgstr ""
+
+#: languages/generatedString.php:1062
+msgid "Once Every "
+msgstr ""
+
+#: languages/generatedString.php:1064
+msgid "End After "
+msgstr ""
+
+#: languages/generatedString.php:1066
+msgid "Set to previous business day"
+msgstr ""
+
+#: languages/generatedString.php:1068
+msgid "Retain comments for subsequent recurrences"
+msgstr ""
+
+#: languages/generatedString.php:1070
+msgid "Create next recurrence after the close of current task."
+msgstr ""
+
+#: languages/generatedString.php:1072
+msgid "Issue Followers"
+msgstr ""
+
+#: languages/generatedString.php:1074
+msgid "Refresh Portal Users"
+msgstr ""
+
+#: languages/generatedString.php:1076
+msgid "Issue %s"
+msgstr ""
+
+#: languages/generatedString.php:1078
+msgid "%s Tags"
+msgstr ""
+
+#: languages/generatedString.php:1080
+msgid "Custom Tags"
+msgstr ""
+
+#: languages/generatedString.php:1082
+msgid "Add Custom Tag"
+msgstr ""
+
+#: languages/generatedString.php:1084
+msgid "No Portal Found"
+msgstr ""
+
+#: languages/generatedString.php:1086
+msgid "Portals refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1088
+msgid "Projects refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1090
+msgid "No Project Found"
+msgstr ""
+
+#: languages/generatedString.php:1092
+msgid "Projects refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1094
+msgid "Projects refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1096
+msgid "Milestones refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1098
+msgid "No Milestone Found"
+msgstr ""
+
+#: languages/generatedString.php:1100
+msgid "Milestones refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1102
+msgid "Milestones refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1104
+msgid "Tasklists refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1106
+msgid "No Tasklist Found"
+msgstr ""
+
+#: languages/generatedString.php:1108
+msgid "Tasklists refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1110
+msgid "Tasklists refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1112
+msgid "Tasks refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1114
+msgid "No Task Found"
+msgstr ""
+
+#: languages/generatedString.php:1116
+msgid "Tasks refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1118
+msgid "Tasks refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1120
+msgid "Fields refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1122
+msgid "No Owner Found"
+msgstr ""
+
+#: languages/generatedString.php:1124
+msgid "Owners refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1126
+msgid "Task Layouts refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1128
+msgid "No Task Layout Found"
+msgstr ""
+
+#: languages/generatedString.php:1130
+msgid "Task Layouts refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1132
+msgid "Task Layouts refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1134
+msgid "Project Groups refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1136
+msgid "No Project Group Found"
+msgstr ""
+
+#: languages/generatedString.php:1138
+msgid "Project Groups refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1140
+msgid "Project Groups refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1142
+msgid "No Tag Found"
+msgstr ""
+
+#: languages/generatedString.php:1144
+msgid "Tags refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1146
+msgid "please map mandatory fields"
+msgstr ""
+
+#: languages/generatedString.php:1148
+msgid "please fill up the required actions"
+msgstr ""
+
+#: languages/generatedString.php:1150
+msgid "to create a subtask you must select a task or create a new task"
+msgstr ""
+
+#: languages/generatedString.php:1152
+msgid "to create a %s under milestone you must select a tasklist or create a new tasklist"
+msgstr ""
+
+#: languages/generatedString.php:1154
+msgid "create a new milestone"
+msgstr ""
+
+#: languages/generatedString.php:1156
+msgid "Tasklist Flag:"
+msgstr ""
+
+#: languages/generatedString.php:1158
+msgid "Select Tasklist Flag"
+msgstr ""
+
+#: languages/generatedString.php:1160
+msgid "Tasklist:"
+msgstr ""
+
+#: languages/generatedString.php:1162
+msgid "Select Tasklist"
+msgstr ""
+
+#: languages/generatedString.php:1164
+msgid "Refresh Milestones"
+msgstr ""
+
+#: languages/generatedString.php:1166
+msgid "create a new tasklist"
+msgstr ""
+
+#: languages/generatedString.php:1168
+msgid "Task:"
+msgstr ""
+
+#: languages/generatedString.php:1170
+msgid "Select Task"
+msgstr ""
+
+#: languages/generatedString.php:1172
+msgid "create a new task"
+msgstr ""
+
+#: languages/generatedString.php:1174
+msgid "Refresh Projects Portals"
+msgstr ""
+
+#: languages/generatedString.php:1176
+msgid "Event:"
+msgstr ""
+
+#: languages/generatedString.php:1178
+msgid "Select Event"
+msgstr ""
+
+#: languages/generatedString.php:1180
+msgid "Create Project"
+msgstr ""
+
+#: languages/generatedString.php:1182
+msgid "Create Milestone"
+msgstr ""
+
+#: languages/generatedString.php:1184
+msgid "Create Tasklist"
+msgstr ""
+
+#: languages/generatedString.php:1186
+msgid "Create Task"
+msgstr ""
+
+#: languages/generatedString.php:1188
+msgid "Create Sub Task"
+msgstr ""
+
+#: languages/generatedString.php:1190
+msgid "Create Issue"
+msgstr ""
+
+#: languages/generatedString.php:1192
+msgid "Select Project"
+msgstr ""
+
+#: languages/generatedString.php:1194
+msgid "Refresh Projects"
+msgstr ""
+
+#: languages/generatedString.php:1196
+msgid "create a new project"
+msgstr ""
+
+#: languages/generatedString.php:1198
+msgid "Milestone:"
+msgstr ""
+
+#: languages/generatedString.php:1200
+msgid "Select Milestone"
+msgstr ""
+
+#: languages/generatedString.php:1202
+msgid "Send entries to approval list in Zoho Recruit"
+msgstr ""
+
+#: languages/generatedString.php:1204
+msgid "A record gets updated if the email already exists, else a new record will be created."
+msgstr ""
+
+#: languages/generatedString.php:1206
+msgid "Add a note from bitform to pushed to Zoho Recruit."
+msgstr ""
+
+#: languages/generatedString.php:1208
+msgid "Set owner of current record"
+msgstr ""
+
+#: languages/generatedString.php:1210
+msgid "Owner ID"
+msgstr ""
+
+#: languages/generatedString.php:1212
+msgid "Enter Owner ID"
+msgstr ""
+
+#: languages/generatedString.php:1214
+msgid "Select Note Type"
+msgstr ""
+
+#: languages/generatedString.php:1216
+msgid "Trigger workflows in Zoho Recruit."
+msgstr ""
+
+#: languages/generatedString.php:1218
+msgid "Note Types refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1220
+msgid "Note Types refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1222
+msgid "Note Types refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1224
+msgid "RelatedLists refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1226
+msgid "update row for first match only?"
+msgstr ""
+
+#: languages/generatedString.php:1228
+msgid "insert new row if the above criteria doesn't met?"
+msgstr ""
+
+#: languages/generatedString.php:1230
+msgid "Share Workbook"
+msgstr ""
+
+#: languages/generatedString.php:1232
+msgid "Share workbook with users pushed to Zoho Sheet."
+msgstr ""
+
+#: languages/generatedString.php:1234
+msgid "Workbooks refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1236
+msgid "Workbooks refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1238
+msgid "Workbooks refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1240
+msgid "Workbook:"
+msgstr ""
+
+#: languages/generatedString.php:1242
+msgid "Select Workbook"
+msgstr ""
+
+#: languages/generatedString.php:1244
+msgid "Templates refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1246
+msgid "Template Details refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1248
+msgid "Template Details refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1250
+msgid "Template Details refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1252
+msgid "In Person Email (Optional)"
+msgstr ""
+
+#: languages/generatedString.php:1254
+msgid "In Person Email"
+msgstr ""
+
+#: languages/generatedString.php:1256
+msgid "In Person Name"
+msgstr ""
+
+#: languages/generatedString.php:1258
+msgid "Recipient Name"
+msgstr ""
+
+#: languages/generatedString.php:1260
+msgid "Recipient Email"
+msgstr ""
+
+#: languages/generatedString.php:1262
+msgid "Language"
+msgstr ""
+
+#: languages/generatedString.php:1264
+msgid "Role"
+msgstr ""
+
+#: languages/generatedString.php:1266
+msgid "Leave a Note:"
+msgstr ""
+
+#: languages/generatedString.php:1268
+msgid "Private Note"
+msgstr ""
+
+#: languages/generatedString.php:1270
+msgid "Templates:"
+msgstr ""
+
+#: languages/generatedString.php:1272
+msgid "Refresh Sign Templates"
+msgstr ""
+
+#: languages/generatedString.php:1274
+msgid "Recipients:"
+msgstr ""
+
+#: languages/generatedString.php:1276
+msgid "Refresh Template Details"
+msgstr ""
+
+#: languages/generatedString.php:1278
+msgid "Create a new folder in the selected folder"
+msgstr ""
+
+#: languages/generatedString.php:1280
+msgid "Add attachments from BitForm to Zoho Workdrive folder."
+msgstr ""
+
+#: languages/generatedString.php:1282
+msgid "Create New Folder"
+msgstr ""
+
+#: languages/generatedString.php:1284
+msgid "Add field value to use as folder name"
+msgstr ""
+
+#: languages/generatedString.php:1286
+msgid "Add Random Number"
+msgstr ""
+
+#: languages/generatedString.php:1288
+msgid "Share with users: (optional)"
+msgstr ""
+
+#: languages/generatedString.php:1290
+msgid "Send Notification Mail"
+msgstr ""
+
+#: languages/generatedString.php:1292
+msgid "Folders refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1294
+msgid "Folders refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1296
+msgid "Folders refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1298
+msgid "Users refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1300
+msgid "Teams refreshed"
+msgstr ""
+
+#: languages/generatedString.php:1302
+msgid "Teams refresh failed Cause: %s. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1304
+msgid "Teams refresh failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1306
+msgid "Team:"
+msgstr ""
+
+#: languages/generatedString.php:1308
+msgid "Select Team"
+msgstr ""
+
+#: languages/generatedString.php:1310
+msgid "Refresh WorkDrive Teams"
+msgstr ""
+
+#: languages/generatedString.php:1312
+msgid "Refresh WorkDrive Team Folders"
+msgstr ""
+
+#: languages/generatedString.php:1314
+msgid "Generate new API key"
+msgstr ""
+
+#: languages/generatedString.php:1316
+msgid "API key saved successfully"
+msgstr ""
+
+#: languages/generatedString.php:1318
+msgid "Saving API key..."
+msgstr ""
+
+#: languages/generatedString.php:1320
+msgid "Loading API key..."
+msgstr ""
+
+#: languages/generatedString.php:1322
+msgid "API Integration"
+msgstr ""
+
+#: languages/generatedString.php:1324
+msgid "Domain URL"
+msgstr ""
+
+#: languages/generatedString.php:1326
+msgid "API Key"
+msgstr ""
+
+#: languages/generatedString.php:1328
+msgid "Saved successfully."
+msgstr ""
+
+#: languages/generatedString.php:1330
+msgid "Saving..."
+msgstr ""
+
+#: languages/generatedString.php:1332
+msgid "Something went wrong, Try again."
+msgstr ""
+
+#: languages/generatedString.php:1334
+msgid "WP Authentication"
+msgstr ""
+
+#: languages/generatedString.php:1336
+msgid "Enable"
+msgstr ""
+
+#: languages/generatedString.php:1338
+msgid "Save "
+msgstr ""
+
+#: languages/generatedString.php:1340
+msgid "Captcha Settings Updated"
+msgstr ""
+
+#: languages/generatedString.php:1342
+msgid "reCaptcha "
+msgstr ""
+
+#: languages/generatedString.php:1344
+msgid "Google reCAPTCHA "
+msgstr ""
+
+#: languages/generatedString.php:1346
+msgid "reCAPTCHA is a free service that protects your website from spam and abuse."
+msgstr ""
+
+#: languages/generatedString.php:1348
+msgid "Learn More"
+msgstr ""
+
+#: languages/generatedString.php:1350
+msgid "Domain URL:"
+msgstr ""
+
+#: languages/generatedString.php:1352
+msgid "Site Key"
+msgstr ""
+
+#: languages/generatedString.php:1354
+msgid "Secret Key"
+msgstr ""
+
+#: languages/generatedString.php:1356
+msgid "To get Site Key and SECRET , Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:1358
+msgid "Google reCAPTCHA Admin"
+msgstr ""
+
+#: languages/generatedString.php:1360
+msgid "All Field List"
+msgstr ""
+
+#: languages/generatedString.php:1362
+msgid "Left"
+msgstr ""
+
+#: languages/generatedString.php:1364
+msgid "Center"
+msgstr ""
+
+#: languages/generatedString.php:1366
+msgid "Right"
+msgstr ""
+
+#: languages/generatedString.php:1368
+msgid "Already have a submit button"
+msgstr ""
+
+#: languages/generatedString.php:1370
+msgid "Field Type : "
+msgstr ""
+
+#: languages/generatedString.php:1372
+msgid "Button"
+msgstr ""
+
+#: languages/generatedString.php:1374
+msgid "Submit Button Text:"
+msgstr ""
+
+#: languages/generatedString.php:1376
+msgid "Button Align:"
+msgstr ""
+
+#: languages/generatedString.php:1378
+msgid "Button Type:"
+msgstr ""
+
+#: languages/generatedString.php:1380
+msgid "Full Width Button:"
+msgstr ""
+
+#: languages/generatedString.php:1382
+msgid "Small Button:"
+msgstr ""
+
+#: languages/generatedString.php:1384
+msgid "Form style"
+msgstr ""
+
+#: languages/generatedString.php:1386
+msgid "Field Block"
+msgstr ""
+
+#: languages/generatedString.php:1388
+msgid "Back"
+msgstr ""
+
+#: languages/generatedString.php:1390
+msgid "Field Customize"
+msgstr ""
+
+#: languages/generatedString.php:1392
+msgid "Paypal Style"
+msgstr ""
+
+#: languages/generatedString.php:1394
+msgid "Label Style"
+msgstr ""
+
+#: languages/generatedString.php:1396
+msgid "Field Style"
+msgstr ""
+
+#: languages/generatedString.php:1398
+msgid "Button Style"
+msgstr ""
+
+#: languages/generatedString.php:1400
+msgid "Key:"
+msgstr ""
+
+#: languages/generatedString.php:1402
+msgid "Settings"
+msgstr ""
+
+#: languages/generatedString.php:1404
+msgid "Style"
+msgstr ""
+
+#: languages/generatedString.php:1406
+msgid "Customize"
+msgstr ""
+
+#: languages/generatedString.php:1408
+msgid "Background Customize"
+msgstr ""
+
+#: languages/generatedString.php:1410
+msgid "Form Customize"
+msgstr ""
+
+#: languages/generatedString.php:1412
+msgid "Field Block Customize"
+msgstr ""
+
+#: languages/generatedString.php:1414
+msgid "Form Background"
+msgstr ""
+
+#: languages/generatedString.php:1416
+msgid "Edit Custom Error Message"
+msgstr ""
+
+#: languages/generatedString.php:1418
+msgid "Edit Decision Box Label"
+msgstr ""
+
+#: languages/generatedString.php:1420
+msgid "Custom Error Message"
+msgstr ""
+
+#: languages/generatedString.php:1422
+msgid "Field Label:"
+msgstr ""
+
+#: languages/generatedString.php:1424
+msgid "By disabling this option, the field label will be hidden"
+msgstr ""
+
+#: languages/generatedString.php:1426
+msgid "Required:"
+msgstr ""
+
+#: languages/generatedString.php:1428
+msgid "Checked Value:"
+msgstr ""
+
+#: languages/generatedString.php:1430
+msgid "Unchecked Value:"
+msgstr ""
+
+#: languages/generatedString.php:1432
+msgid "Checked by Default:"
+msgstr ""
+
+#: languages/generatedString.php:1434
+msgid "Field Key : "
+msgstr ""
+
+#: languages/generatedString.php:1436
+msgid "Edit your decision box label by clicking on edit icon"
+msgstr ""
+
+#: languages/generatedString.php:1438
+msgid "Admin Label:"
+msgstr ""
+
+#: languages/generatedString.php:1440
+msgid "Upload Button Text:"
+msgstr ""
+
+#: languages/generatedString.php:1442
+msgid "Allow Multiple:"
+msgstr ""
+
+#: languages/generatedString.php:1444
+msgid "Max Upload Size:"
+msgstr ""
+
+#: languages/generatedString.php:1446
+msgid "Allowed File Type:"
+msgstr ""
+
+#: languages/generatedString.php:1448
+msgid "Select File Type"
+msgstr ""
+
+#: languages/generatedString.php:1450
+msgid "Edit the HTML field content by clicking on edit icon"
+msgstr ""
+
+#: languages/generatedString.php:1452
+msgid "Replace Previous Options"
+msgstr ""
+
+#: languages/generatedString.php:1454
+msgid "Merge with Previous Options"
+msgstr ""
+
+#: languages/generatedString.php:1456
+msgid "Import"
+msgstr ""
+
+#: languages/generatedString.php:1458
+msgid "Loading ACF fields..."
+msgstr ""
+
+#: languages/generatedString.php:1460
+msgid "Loading Posts..."
+msgstr ""
+
+#: languages/generatedString.php:1462
+msgid "Use Post Taxonomy Fields"
+msgstr ""
+
+#: languages/generatedString.php:1464
+msgid "Loading Terms..."
+msgstr ""
+
+#: languages/generatedString.php:1466
+msgid "Loading Users..."
+msgstr ""
+
+#: languages/generatedString.php:1468
+msgid "Paypal"
+msgstr ""
+
+#: languages/generatedString.php:1470
+msgid "Select Config"
+msgstr ""
+
+#: languages/generatedString.php:1472
+msgid "Subscription:"
+msgstr ""
+
+#: languages/generatedString.php:1474
+msgid "Plan Id"
+msgstr ""
+
+#: languages/generatedString.php:1476
+msgid "Disable Card"
+msgstr ""
+
+#: languages/generatedString.php:1478
+msgid "Amount Type"
+msgstr ""
+
+#: languages/generatedString.php:1480
+msgid "Amount"
+msgstr ""
+
+#: languages/generatedString.php:1482
+msgid "Shipping Amount"
+msgstr ""
+
+#: languages/generatedString.php:1484
+msgid "Shipping Cost"
+msgstr ""
+
+#: languages/generatedString.php:1486
+msgid "Select Shipping Amount Field"
+msgstr ""
+
+#: languages/generatedString.php:1488
+msgid "Tax Amount Type"
+msgstr ""
+
+#: languages/generatedString.php:1490
+msgid "Fixed"
+msgstr ""
+
+#: languages/generatedString.php:1492
+msgid "Tax (%)"
+msgstr ""
+
+#: languages/generatedString.php:1494
+msgid "Select Amount Field"
+msgstr ""
+
+#: languages/generatedString.php:1496
+msgid "Currency"
+msgstr ""
+
+#: languages/generatedString.php:1498
+msgid "Description"
+msgstr ""
+
+#: languages/generatedString.php:1500
+msgid "Static"
+msgstr ""
+
+#: languages/generatedString.php:1502
+msgid "Dynamic"
+msgstr ""
+
+#: languages/generatedString.php:1504
+msgid "Select Description Field"
+msgstr ""
+
+#: languages/generatedString.php:1506
+msgid "Rounded:"
+msgstr ""
+
+#: languages/generatedString.php:1508
+msgid "Minimum:"
+msgstr ""
+
+#: languages/generatedString.php:1510
+msgid "Set minimum number to be selected for checkbox option"
+msgstr ""
+
+#: languages/generatedString.php:1512
+msgid "Maximum:"
+msgstr ""
+
+#: languages/generatedString.php:1514
+msgid "Set maximum number to be selected for checkbox option"
+msgstr ""
+
+#: languages/generatedString.php:1516
+msgid "Pro"
+msgstr ""
+
+#: languages/generatedString.php:1518
+msgid "Disable if maximum selected:"
+msgstr ""
+
+#: languages/generatedString.php:1520
+msgid "Options:"
+msgstr ""
+
+#: languages/generatedString.php:1522
+msgid "Required"
+msgstr ""
+
+#: languages/generatedString.php:1524
+msgid "Check by Default"
+msgstr ""
+
+#: languages/generatedString.php:1526
+msgid "Add More +"
+msgstr ""
+
+#: languages/generatedString.php:1528
+msgid "Import Options"
+msgstr ""
+
+#: languages/generatedString.php:1530
+msgid "Razor Pay"
+msgstr ""
+
+#: languages/generatedString.php:1532
+msgid "Account Name"
+msgstr ""
+
+#: languages/generatedString.php:1534
+msgid "Button Text"
+msgstr ""
+
+#: languages/generatedString.php:1536
+msgid "Theme Color:"
+msgstr ""
+
+#: languages/generatedString.php:1538
+msgid "Background Color:"
+msgstr ""
+
+#: languages/generatedString.php:1540
+msgid "Confirm on Close:"
+msgstr ""
+
+#: languages/generatedString.php:1542
+msgid "Name :"
+msgstr ""
+
+#: languages/generatedString.php:1544
+msgid "Email :"
+msgstr ""
+
+#: languages/generatedString.php:1546
+msgid "Contact :"
+msgstr ""
+
+#: languages/generatedString.php:1548
+msgid "Key :"
+msgstr ""
+
+#: languages/generatedString.php:1550
+msgid "Value :"
+msgstr ""
+
+#: languages/generatedString.php:1552
+msgid "Field Type :"
+msgstr ""
+
+#: languages/generatedString.php:1554
+msgid "reCAPTCHA"
+msgstr ""
+
+#: languages/generatedString.php:1556
+msgid "Theme"
+msgstr ""
+
+#: languages/generatedString.php:1558
+msgid "Dark"
+msgstr ""
+
+#: languages/generatedString.php:1560
+msgid "Light"
+msgstr ""
+
+#: languages/generatedString.php:1562
+msgid "Placeholder:"
+msgstr ""
+
+#: languages/generatedString.php:1564
+msgid "Multiple Select:"
+msgstr ""
+
+#: languages/generatedString.php:1566
+msgid "Allow Other Option:"
+msgstr ""
+
+#: languages/generatedString.php:1568
+msgid "Set minimum number to be selected for dropdown option"
+msgstr ""
+
+#: languages/generatedString.php:1570
+msgid "Set maximum number to be selected for dropdown option"
+msgstr ""
+
+#: languages/generatedString.php:1572
+msgid "Color Picker"
+msgstr ""
+
+#: languages/generatedString.php:1574
+msgid "Solid"
+msgstr ""
+
+#: languages/generatedString.php:1576
+msgid "Gradient"
+msgstr ""
+
+#: languages/generatedString.php:1578
+msgid "Phone View"
+msgstr ""
+
+#: languages/generatedString.php:1580
+msgid "Tablet View"
+msgstr ""
+
+#: languages/generatedString.php:1582
+msgid "Laptop View"
+msgstr ""
+
+#: languages/generatedString.php:1584
+msgid "There is no paypal field in your form."
+msgstr ""
+
+#: languages/generatedString.php:1586
+msgid "There is more than one paypal field in your form. please select the style icon"
+msgstr ""
+
+#: languages/generatedString.php:1588
+msgid "in paypal field to customize the style."
+msgstr ""
+
+#: languages/generatedString.php:1590
+msgid "Layout"
+msgstr ""
+
+#: languages/generatedString.php:1592
+msgid "Vertical"
+msgstr ""
+
+#: languages/generatedString.php:1594
+msgid "Horizontal"
+msgstr ""
+
+#: languages/generatedString.php:1596
+msgid "Standalone"
+msgstr ""
+
+#: languages/generatedString.php:1598
+msgid "Pay Button"
+msgstr ""
+
+#: languages/generatedString.php:1600
+msgid "PAYPAL"
+msgstr ""
+
+#: languages/generatedString.php:1602
+msgid "PAYLATER"
+msgstr ""
+
+#: languages/generatedString.php:1604
+msgid "CARD"
+msgstr ""
+
+#: languages/generatedString.php:1606
+msgid "Color"
+msgstr ""
+
+#: languages/generatedString.php:1608
+msgid "Gold"
+msgstr ""
+
+#: languages/generatedString.php:1610
+msgid "Blue"
+msgstr ""
+
+#: languages/generatedString.php:1612
+msgid "Silver"
+msgstr ""
+
+#: languages/generatedString.php:1614
+msgid "White"
+msgstr ""
+
+#: languages/generatedString.php:1616
+msgid "Black"
+msgstr ""
+
+#: languages/generatedString.php:1618
+msgid "Shape"
+msgstr ""
+
+#: languages/generatedString.php:1620
+msgid "Rectangle"
+msgstr ""
+
+#: languages/generatedString.php:1622
+msgid "Pill"
+msgstr ""
+
+#: languages/generatedString.php:1624
+msgid "Paypal Button Text"
+msgstr ""
+
+#: languages/generatedString.php:1626
+msgid "Paypal Checkout"
+msgstr ""
+
+#: languages/generatedString.php:1628
+msgid "Paypal Buy Now"
+msgstr ""
+
+#: languages/generatedString.php:1630
+msgid "Pay with Paypal"
+msgstr ""
+
+#: languages/generatedString.php:1632
+msgid "Height"
+msgstr ""
+
+#: languages/generatedString.php:1634
+msgid "Background"
+msgstr ""
+
+#: languages/generatedString.php:1636
+msgid "Background Color"
+msgstr ""
+
+#: languages/generatedString.php:1638
+msgid "Color Fill"
+msgstr ""
+
+#: languages/generatedString.php:1640
+msgid "Picture"
+msgstr ""
+
+#: languages/generatedString.php:1642
+msgid "Picture Upload"
+msgstr ""
+
+#: languages/generatedString.php:1644
+msgid "Browse..."
+msgstr ""
+
+#: languages/generatedString.php:1646
+msgid "Image Link...."
+msgstr ""
+
+#: languages/generatedString.php:1648
+msgid "Background Blend Mode"
+msgstr ""
+
+#: languages/generatedString.php:1650
+msgid "Multiply"
+msgstr ""
+
+#: languages/generatedString.php:1652
+msgid "Screen"
+msgstr ""
+
+#: languages/generatedString.php:1654
+msgid "Overlay"
+msgstr ""
+
+#: languages/generatedString.php:1656
+msgid "Darken"
+msgstr ""
+
+#: languages/generatedString.php:1658
+msgid "Lighten"
+msgstr ""
+
+#: languages/generatedString.php:1660
+msgid "Color-dodge"
+msgstr ""
+
+#: languages/generatedString.php:1662
+msgid "Saturation"
+msgstr ""
+
+#: languages/generatedString.php:1664
+msgid "Luminosity"
+msgstr ""
+
+#: languages/generatedString.php:1666
+msgid "Background Img Repeat"
+msgstr ""
+
+#: languages/generatedString.php:1668
+msgid "None"
+msgstr ""
+
+#: languages/generatedString.php:1670
+msgid "Repeat"
+msgstr ""
+
+#: languages/generatedString.php:1672
+msgid "Repeat-X"
+msgstr ""
+
+#: languages/generatedString.php:1674
+msgid "Repeat-Y"
+msgstr ""
+
+#: languages/generatedString.php:1676
+msgid "Np Repeat"
+msgstr ""
+
+#: languages/generatedString.php:1678
+msgid "Space"
+msgstr ""
+
+#: languages/generatedString.php:1680
+msgid "Round"
+msgstr ""
+
+#: languages/generatedString.php:1682
+msgid "Background Img Position"
+msgstr ""
+
+#: languages/generatedString.php:1684
+msgid "Background Img Size"
+msgstr ""
+
+#: languages/generatedString.php:1686
+msgid "BG Width"
+msgstr ""
+
+#: languages/generatedString.php:1688
+msgid "BG Height"
+msgstr ""
+
+#: languages/generatedString.php:1690
+msgid "BG Height/Width"
+msgstr ""
+
+#: languages/generatedString.php:1692
+msgid "Background Filter"
+msgstr ""
+
+#: languages/generatedString.php:1694
+msgid "Blur"
+msgstr ""
+
+#: languages/generatedString.php:1696
+msgid "Brightness"
+msgstr ""
+
+#: languages/generatedString.php:1698
+msgid "Contrast"
+msgstr ""
+
+#: languages/generatedString.php:1700
+msgid "Grayscale"
+msgstr ""
+
+#: languages/generatedString.php:1702
+msgid "Invert"
+msgstr ""
+
+#: languages/generatedString.php:1704
+msgid "Opacity"
+msgstr ""
+
+#: languages/generatedString.php:1706
+msgid "Sepia"
+msgstr ""
+
+#: languages/generatedString.php:1708
+msgid "Saturate"
+msgstr ""
+
+#: languages/generatedString.php:1710
+msgid "Border Width"
+msgstr ""
+
+#: languages/generatedString.php:1712
+msgid "Border Radius"
+msgstr ""
+
+#: languages/generatedString.php:1714
+msgid "Border"
+msgstr ""
+
+#: languages/generatedString.php:1716
+msgid "Type"
+msgstr ""
+
+#: languages/generatedString.php:1718
+msgid "Border Color"
+msgstr ""
+
+#: languages/generatedString.php:1720
+msgid "Placeholder Color"
+msgstr ""
+
+#: languages/generatedString.php:1722
+msgid "Default"
+msgstr ""
+
+#: languages/generatedString.php:1724
+msgid "On Mouse Over"
+msgstr ""
+
+#: languages/generatedString.php:1726
+msgid "On Focus"
+msgstr ""
+
+#: languages/generatedString.php:1728
+msgid "Text Color"
+msgstr ""
+
+#: languages/generatedString.php:1730
+msgid "Direction"
+msgstr ""
+
+#: languages/generatedString.php:1732
+msgid "Content Direction"
+msgstr ""
+
+#: languages/generatedString.php:1734
+msgid "Left to Right"
+msgstr ""
+
+#: languages/generatedString.php:1736
+msgid "Right to Left"
+msgstr ""
+
+#: languages/generatedString.php:1738
+msgid "Font"
+msgstr ""
+
+#: languages/generatedString.php:1740
+msgid "Font Size"
+msgstr ""
+
+#: languages/generatedString.php:1742
+msgid "Block Gap"
+msgstr ""
+
+#: languages/generatedString.php:1744
+msgid "Row Gap"
+msgstr ""
+
+#: languages/generatedString.php:1746
+msgid "Column Gap"
+msgstr ""
+
+#: languages/generatedString.php:1748
+msgid "Both Side Gap"
+msgstr ""
+
+#: languages/generatedString.php:1750
+msgid "Margin"
+msgstr ""
+
+#: languages/generatedString.php:1752
+msgid "Margin Top"
+msgstr ""
+
+#: languages/generatedString.php:1754
+msgid "Margin Right"
+msgstr ""
+
+#: languages/generatedString.php:1756
+msgid "Margin Bottom"
+msgstr ""
+
+#: languages/generatedString.php:1758
+msgid "Margin Left"
+msgstr ""
+
+#: languages/generatedString.php:1760
+msgid "All Side"
+msgstr ""
+
+#: languages/generatedString.php:1762
+msgid "Padding"
+msgstr ""
+
+#: languages/generatedString.php:1764
+msgid "Padding Top"
+msgstr ""
+
+#: languages/generatedString.php:1766
+msgid "Padding Right"
+msgstr ""
+
+#: languages/generatedString.php:1768
+msgid "Padding Bottom"
+msgstr ""
+
+#: languages/generatedString.php:1770
+msgid "Padding Left"
+msgstr ""
+
+#: languages/generatedString.php:1772
+msgid "Shadow"
+msgstr ""
+
+#: languages/generatedString.php:1774
+msgid "Inside"
+msgstr ""
+
+#: languages/generatedString.php:1776
+msgid "Outside"
+msgstr ""
+
+#: languages/generatedString.php:1778
+msgid "Shadow Color"
+msgstr ""
+
+#: languages/generatedString.php:1780
+msgid "Shadow Style"
+msgstr ""
+
+#: languages/generatedString.php:1782
+msgid "Auto Fill:"
+msgstr ""
+
+#: languages/generatedString.php:1784
+msgid "Min Value:"
+msgstr ""
+
+#: languages/generatedString.php:1786
+msgid "Max Value:"
+msgstr ""
+
+#: languages/generatedString.php:1788
+msgid "Validations:"
+msgstr ""
+
+#: languages/generatedString.php:1790
+msgid "At least one digit (0-9)"
+msgstr ""
+
+#: languages/generatedString.php:1792
+msgid "At least one lowercase character (a-z)"
+msgstr ""
+
+#: languages/generatedString.php:1794
+msgid "At least one uppercase character (A-Z)"
+msgstr ""
+
+#: languages/generatedString.php:1796
+msgid "At least one special character (~!@#$%^&*(){}[]<>+-_=/\\|;:,.)"
+msgstr ""
+
+#: languages/generatedString.php:1798
+msgid "Limit Password Length"
+msgstr ""
+
+#: languages/generatedString.php:1800
+msgid "Min:"
+msgstr ""
+
+#: languages/generatedString.php:1802
+msgid "Max:"
+msgstr ""
+
+#: languages/generatedString.php:1804
+msgid "Pattern:"
+msgstr ""
+
+#: languages/generatedString.php:1806
+msgid "Flags:"
+msgstr ""
+
+#: languages/generatedString.php:1808
+msgid "Add More Alternative Success Message"
+msgstr ""
+
+#: languages/generatedString.php:1810
+msgid "Successfully Submitted."
+msgstr ""
+
+#: languages/generatedString.php:1812
+msgid "Are you sure to delete this message ?"
+msgstr ""
+
+#: languages/generatedString.php:1814
+msgid "Confirmations"
+msgstr ""
+
+#: languages/generatedString.php:1816
+msgid "Success/Error Messages"
+msgstr ""
+
+#: languages/generatedString.php:1818
+msgid "Redirect Page"
+msgstr ""
+
+#: languages/generatedString.php:1820
+msgid "Web Hooks"
+msgstr ""
+
+#: languages/generatedString.php:1822
+msgid "Add New Post Type"
+msgstr ""
+
+#: languages/generatedString.php:1824
+msgid "Edit Post Types"
+msgstr ""
+
+#: languages/generatedString.php:1826
+msgid "Public"
+msgstr ""
+
+#: languages/generatedString.php:1828
+msgid "This type should be shown in the admin UI and is publicly queryable"
+msgstr ""
+
+#: languages/generatedString.php:1830
+msgid "Publicly Queryable"
+msgstr ""
+
+#: languages/generatedString.php:1832
+msgid "Queries can be performed on the front end as part of parse_request()"
+msgstr ""
+
+#: languages/generatedString.php:1834
+msgid "Show in REST API"
+msgstr ""
+
+#: languages/generatedString.php:1836
+msgid "To show this post type data in the WP REST API"
+msgstr ""
+
+#: languages/generatedString.php:1838
+msgid "Show in Menu"
+msgstr ""
+
+#: languages/generatedString.php:1840
+msgid "This show the post type in the admin menu and where to show that menu."
+msgstr ""
+
+#: languages/generatedString.php:1842
+msgid "Show UI"
+msgstr ""
+
+#: languages/generatedString.php:1844
+msgid "Whether or not to generate a default UI for managing this post type"
+msgstr ""
+
+#: languages/generatedString.php:1846
+msgid "Add Post Type"
+msgstr ""
+
+#: languages/generatedString.php:1848
+msgid "cpt added successfully, refresh your window"
+msgstr ""
+
+#: languages/generatedString.php:1850
+msgid "Post Type Slug *"
+msgstr ""
+
+#: languages/generatedString.php:1852
+msgid "Singular Label *"
+msgstr ""
+
+#: languages/generatedString.php:1854
+msgid "Menu Name *"
+msgstr ""
+
+#: languages/generatedString.php:1856
+msgid "Menu Icon "
+msgstr ""
+
+#: languages/generatedString.php:1858
+msgid "Delete successfully, refresh your window"
+msgstr ""
+
+#: languages/generatedString.php:1860
+msgid "Delete Post Type"
+msgstr ""
+
+#: languages/generatedString.php:1862
+msgid "Confirmation"
+msgstr ""
+
+#: languages/generatedString.php:1864
+msgid "Are you sure to delete post type?"
+msgstr ""
+
+#: languages/generatedString.php:1866
+msgid "public"
+msgstr ""
+
+#: languages/generatedString.php:1868
+msgid "Posts of this type should be shown in the admin UI and is publicly queryable"
+msgstr ""
+
+#: languages/generatedString.php:1870
+msgid "This show the post type in the admin menu and where to show that menu"
+msgstr ""
+
+#: languages/generatedString.php:1872
+msgid "Generate a default UI for managing this post type"
+msgstr ""
+
+#: languages/generatedString.php:1874
+msgid "Update Post Type"
+msgstr ""
+
+#: languages/generatedString.php:1876
+msgid "cpt type update successfully, refresh your window"
+msgstr ""
+
+#: languages/generatedString.php:1878
+msgid "Select Type *"
+msgstr ""
+
+#: languages/generatedString.php:1880
+msgid "Menu Icon *"
+msgstr ""
+
+#: languages/generatedString.php:1882
+msgid "Update Template"
+msgstr ""
+
+#: languages/generatedString.php:1884
+msgid "Template Name:"
+msgstr ""
+
+#: languages/generatedString.php:1886
+msgid "Add field"
+msgstr ""
+
+#: languages/generatedString.php:1888
+msgid "Browse Template"
+msgstr ""
+
+#: languages/generatedString.php:1890
+msgid "Email Templates Coming soon"
+msgstr ""
+
+#: languages/generatedString.php:1892
+msgid "Save Template"
+msgstr ""
+
+#: languages/generatedString.php:1894
+msgid "Related Info"
+msgstr ""
+
+#: languages/generatedString.php:1896
+msgid "Payment"
+msgstr ""
+
+#: languages/generatedString.php:1898
+msgid "Timeline"
+msgstr ""
+
+#: languages/generatedString.php:1900
+msgid "Google Ads Information"
+msgstr ""
+
+#: languages/generatedString.php:1902
+msgid "updated on:"
+msgstr ""
+
+#: languages/generatedString.php:1904
+msgid "created at:"
+msgstr ""
+
+#: languages/generatedString.php:1906
+msgid "create new note"
+msgstr ""
+
+#: languages/generatedString.php:1908
+msgid "Are you sure to delete this note"
+msgstr ""
+
+#: languages/generatedString.php:1910
+msgid "Note Deleted Successfully"
+msgstr ""
+
+#: languages/generatedString.php:1912
+msgid "No Payment Info Found!"
+msgstr ""
+
+#: languages/generatedString.php:1914
+msgid "Note"
+msgstr ""
+
+#: languages/generatedString.php:1916
+msgid "Added"
+msgstr ""
+
+#: languages/generatedString.php:1918
+msgid "Updated"
+msgstr ""
+
+#: languages/generatedString.php:1920
+msgid "Deleted"
+msgstr ""
+
+#: languages/generatedString.php:1922
+msgid "Read More"
+msgstr ""
+
+#: languages/generatedString.php:1924
+msgid "Show Less"
+msgstr ""
+
+#: languages/generatedString.php:1926
+msgid "Note no change"
+msgstr ""
+
+#: languages/generatedString.php:1928
+msgid "No field data change"
+msgstr ""
+
+#: languages/generatedString.php:1930
+msgid "Form Submitted"
+msgstr ""
+
+#: languages/generatedString.php:1932
+msgid "Show Integration Logs"
+msgstr ""
+
+#: languages/generatedString.php:1934
+msgid "Hide Integration Logs"
+msgstr ""
+
+#: languages/generatedString.php:1936
+msgid "Note Updated Successfully"
+msgstr ""
+
+#: languages/generatedString.php:1938
+msgid "Note Added Successfully"
+msgstr ""
+
+#: languages/generatedString.php:1940
+msgid "Edit Note "
+msgstr ""
+
+#: languages/generatedString.php:1942
+msgid "Create New Note "
+msgstr ""
+
+#: languages/generatedString.php:1944
+msgid "Cancel"
+msgstr ""
+
+#: languages/generatedString.php:1946
+msgid "Add"
+msgstr ""
+
+#: languages/generatedString.php:1948
+msgid "PayPal"
+msgstr ""
+
+#: languages/generatedString.php:1950
+msgid "Subscription"
+msgstr ""
+
+#: languages/generatedString.php:1952
+msgid "Order"
+msgstr ""
+
+#: languages/generatedString.php:1954
+msgid "Transaction ID"
+msgstr ""
+
+#: languages/generatedString.php:1956
+msgid "Plan ID"
+msgstr ""
+
+#: languages/generatedString.php:1958
+msgid "Next Billing Time"
+msgstr ""
+
+#: languages/generatedString.php:1960
+msgid "Total Paid"
+msgstr ""
+
+#: languages/generatedString.php:1962
+msgid "no data found"
+msgstr ""
+
+#: languages/generatedString.php:1964
+msgid "Razorpay"
+msgstr ""
+
+#: languages/generatedString.php:1966
+msgid "Status"
+msgstr ""
+
+#: languages/generatedString.php:1968
+msgid "Email"
+msgstr ""
+
+#: languages/generatedString.php:1970
+msgid "Contact"
+msgstr ""
+
+#: languages/generatedString.php:1972
+msgid "Sort Order"
+msgstr ""
+
+#: languages/generatedString.php:1974
+msgid "Sort by"
+msgstr ""
+
+#: languages/generatedString.php:1976
+msgid "Export File Format"
+msgstr ""
+
+#: languages/generatedString.php:1978
+msgid "Export"
+msgstr ""
+
+#: languages/generatedString.php:1980
+msgid "no response found"
+msgstr ""
+
+#: languages/generatedString.php:1982
+msgid "How many rows to export"
+msgstr ""
+
+#: languages/generatedString.php:1984
+msgid "Enter row number"
+msgstr ""
+
+#: languages/generatedString.php:1986
+msgid "Move"
+msgstr ""
+
+#: languages/generatedString.php:1988
+msgid "Remove"
+msgstr ""
+
+#: languages/generatedString.php:1990
+msgid "Import Form"
+msgstr ""
+
+#: languages/generatedString.php:1992
+msgid "save Successfully"
+msgstr ""
+
+#: languages/generatedString.php:1994
+msgid "save failed Cause:"
+msgstr ""
+
+#: languages/generatedString.php:1996
+msgid "save failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:1998
+msgid "Google Ads"
+msgstr ""
+
+#: languages/generatedString.php:2000
+msgid "Client ID"
+msgstr ""
+
+#: languages/generatedString.php:2002
+msgid "Client Secret"
+msgstr ""
+
+#: languages/generatedString.php:2004
+msgid "To get Client ID and SECRET , Please Visit Google API Console"
+msgstr ""
+
+#: languages/generatedString.php:2006
+msgid "Customer Id (non manager account)"
+msgstr ""
+
+#: languages/generatedString.php:2008
+msgid "To get Customer ID , Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:2010
+msgid "Google Ads Manager Account"
+msgstr ""
+
+#: languages/generatedString.php:2012
+msgid "Customer ID key cann't be empty"
+msgstr ""
+
+#: languages/generatedString.php:2014
+msgid "Submit button cannot be removed"
+msgstr ""
+
+#: languages/generatedString.php:2016
+msgid "Integration deletion failed Cause"
+msgstr ""
+
+#: languages/generatedString.php:2018
+msgid "Integration deletion failed. please try again"
+msgstr ""
+
+#: languages/generatedString.php:2020
+msgid "Are you sure to delete this integration?"
+msgstr ""
+
+#: languages/generatedString.php:2022
+msgid "Are you sure to clone this integration?"
+msgstr ""
+
+#: languages/generatedString.php:2024
+msgid "Integration clone failed Cause"
+msgstr ""
+
+#: languages/generatedString.php:2026
+msgid "Integration clone failed."
+msgstr ""
+
+#: languages/generatedString.php:2028
+msgid "Integrations"
+msgstr ""
+
+#: languages/generatedString.php:2030
+msgid "Available Integrations"
+msgstr ""
+
+#: languages/generatedString.php:2032
+msgid "Clone"
+msgstr ""
+
+#: languages/generatedString.php:2034
+msgid "Info"
+msgstr ""
+
+#: languages/generatedString.php:2036
+msgid "Available Payments"
+msgstr ""
+
+#: languages/generatedString.php:2038
+msgid "Payment Settings"
+msgstr ""
+
+#: languages/generatedString.php:2040
+msgid "Client ID:"
+msgstr ""
+
+#: languages/generatedString.php:2042
+msgid "To get Client ID, Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:2044
+msgid "PayPal Dashboard"
+msgstr ""
+
+#: languages/generatedString.php:2046
+msgid "Paypal Settings"
+msgstr ""
+
+#: languages/generatedString.php:2048
+msgid "API Secret:"
+msgstr ""
+
+#: languages/generatedString.php:2050
+msgid "To get API Key & Secret, Please Visit"
+msgstr ""
+
+#: languages/generatedString.php:2052
+msgid "Razorpay Dashboard"
+msgstr ""
+
+#: languages/generatedString.php:2054
+msgid "Razorpay Settings"
+msgstr ""
+
+#: languages/generatedString.php:2056
+msgid "Are you sure to delete this URL ?"
+msgstr ""
+
+#: languages/generatedString.php:2058
+msgid "Select A Page:"
+msgstr ""
+
+#: languages/generatedString.php:2060
+msgid "Custom Link"
+msgstr ""
+
+#: languages/generatedString.php:2062
+msgid "set Form Field"
+msgstr ""
+
+#: languages/generatedString.php:2064
+msgid "Select Form Field"
+msgstr ""
+
+#: languages/generatedString.php:2066
+msgid "Add More Alternative URl"
+msgstr ""
+
+#: languages/generatedString.php:2068
+msgid "ReCaptcha validation failed."
+msgstr ""
+
+#: languages/generatedString.php:2070
+msgid "Allow single entry for each IP address"
+msgstr ""
+
+#: languages/generatedString.php:2072
+msgid "Require user to be logged in for submit form"
+msgstr ""
+
+#: languages/generatedString.php:2074
+msgid "Disallow empty form submission"
+msgstr ""
+
+#: languages/generatedString.php:2076
+msgid "Validate form input on focus lost"
+msgstr ""
+
+#: languages/generatedString.php:2078
+msgid "Disable entry storing in WordPress database"
+msgstr ""
+
+#: languages/generatedString.php:2080
+msgid "Enable ReCaptcha V3"
+msgstr ""
+
+#: languages/generatedString.php:2082
+msgid "Hide ReCaptcha Badge"
+msgstr ""
+
+#: languages/generatedString.php:2084
+msgid " Advanced Settings"
+msgstr ""
+
+#: languages/generatedString.php:2086
+msgid "Honeypot trap for bot"
+msgstr ""
+
+#: languages/generatedString.php:2088
+msgid "Disable this form after limited entry"
+msgstr ""
+
+#: languages/generatedString.php:2090
+msgid "Limit Form Submission Period"
+msgstr ""
+
+#: languages/generatedString.php:2092
+msgid "Every Day"
+msgstr ""
+
+#: languages/generatedString.php:2094
+msgid "Friday"
+msgstr ""
+
+#: languages/generatedString.php:2096
+msgid "Saturday"
+msgstr ""
+
+#: languages/generatedString.php:2098
+msgid "Sunday"
+msgstr ""
+
+#: languages/generatedString.php:2100
+msgid "Monday"
+msgstr ""
+
+#: languages/generatedString.php:2102
+msgid "Tuesday"
+msgstr ""
+
+#: languages/generatedString.php:2104
+msgid "Wednesday"
+msgstr ""
+
+#: languages/generatedString.php:2106
+msgid "Thursday"
+msgstr ""
+
+#: languages/generatedString.php:2108
+msgid "Time:"
+msgstr ""
+
+#: languages/generatedString.php:2110
+msgid "From"
+msgstr ""
+
+#: languages/generatedString.php:2112
+msgid "To"
+msgstr ""
+
+#: languages/generatedString.php:2114
+msgid "Blocked IP list"
+msgstr ""
+
+#: languages/generatedString.php:2116
+msgid "Allowed IP"
+msgstr ""
+
+#: languages/generatedString.php:2118
+msgid "By enabling this option only listed IP can submit this form."
+msgstr ""
+
+#: languages/generatedString.php:2120
+msgid "Enable / Disable"
+msgstr ""
+
+#: languages/generatedString.php:2122
+msgid "Capture Google Ads (Click ID)"
+msgstr ""
+
+#: languages/generatedString.php:2124
+msgid "Premium Feature"
+msgstr ""
+
+#: languages/generatedString.php:2126
+msgid "Buy Premium"
+msgstr ""
+
+#: languages/generatedString.php:2128
+msgid "Email sent successfully."
+msgstr ""
+
+#: languages/generatedString.php:2130
+msgid "Sending..."
+msgstr ""
+
+#: languages/generatedString.php:2132
+msgid "Email Test"
+msgstr ""
+
+#: languages/generatedString.php:2134
+msgid "To:"
+msgstr ""
+
+#: languages/generatedString.php:2136
+msgid "Message:"
+msgstr ""
+
+#: languages/generatedString.php:2138
+msgid "Send Test Mail"
+msgstr ""
+
+#: languages/generatedString.php:2140
+msgid "Configuration"
+msgstr ""
+
+#: languages/generatedString.php:2142
+msgid "Mail Test"
+msgstr ""
+
+#: languages/generatedString.php:2144
+msgid "From Name"
+msgstr ""
+
+#: languages/generatedString.php:2146
+msgid "Reply-To Email Address"
+msgstr ""
+
+#: languages/generatedString.php:2148
+msgid "SMTP Host"
+msgstr ""
+
+#: languages/generatedString.php:2150
+msgid "Type of Encryption"
+msgstr ""
+
+#: languages/generatedString.php:2152
+msgid "SMTP Port"
+msgstr ""
+
+#: languages/generatedString.php:2154
+msgid "SMTP Authentication"
+msgstr ""
+
+#: languages/generatedString.php:2156
+msgid "SMTP Username"
+msgstr ""
+
+#: languages/generatedString.php:2158
+msgid "SMTP Password"
+msgstr ""
+
+#: languages/generatedString.php:2160
+msgid "Save Changes"
+msgstr ""
+
+#: languages/generatedString.php:2162
+msgid "SMTP config saved successfully."
+msgstr ""
+
+#: languages/generatedString.php:2164
+msgid "Learn more about SMTP configuration"
+msgstr ""
+
+#: languages/generatedString.php:2166
+msgid "Enable SMTP"
+msgstr ""
+
+#: languages/generatedString.php:2168
+msgid "From Email Address"
+msgstr ""
+
+#: languages/generatedString.php:2170
+msgid "Radio"
+msgstr ""
+
+#: languages/generatedString.php:2172
+msgid "Option 1"
+msgstr ""
+
+#: languages/generatedString.php:2174
+msgid "Option 2"
+msgstr ""
+
+#: languages/generatedString.php:2176
+msgid "Option 3"
+msgstr ""
+
+#: languages/generatedString.php:2178
+msgid "Number"
+msgstr ""
+
+#: languages/generatedString.php:2180
+msgid "Number Field"
+msgstr ""
+
+#: languages/generatedString.php:2182
+msgid "Number Input"
+msgstr ""
+
+#: languages/generatedString.php:2184
+msgid "Dropdown"
+msgstr ""
+
+#: languages/generatedString.php:2186
+msgid "Drop-Down"
+msgstr ""
+
+#: languages/generatedString.php:2188
+msgid "Country"
+msgstr ""
+
+#: languages/generatedString.php:2190
+msgid "Select Country"
+msgstr ""
+
+#: languages/generatedString.php:2192
+msgid "Password"
+msgstr ""
+
+#: languages/generatedString.php:2194
+msgid "Password Field"
+msgstr ""
+
+#: languages/generatedString.php:2196
+msgid "Placeholder..."
+msgstr ""
+
+#: languages/generatedString.php:2198
+msgid "Email Field"
+msgstr ""
+
+#: languages/generatedString.php:2200
+msgid "example@mail.com"
+msgstr ""
+
+#: languages/generatedString.php:2202
+msgid "URL"
+msgstr ""
+
+#: languages/generatedString.php:2204
+msgid "URL Field"
+msgstr ""
+
+#: languages/generatedString.php:2206
+msgid "https://www.example.com"
+msgstr ""
+
+#: languages/generatedString.php:2208
+msgid "File Upload"
+msgstr ""
+
+#: languages/generatedString.php:2210
+msgid "Date"
+msgstr ""
+
+#: languages/generatedString.php:2212
+msgid "Date Input"
+msgstr ""
+
+#: languages/generatedString.php:2214
+msgid "Time"
+msgstr ""
+
+#: languages/generatedString.php:2216
+msgid "Time Input"
+msgstr ""
+
+#: languages/generatedString.php:2218
+msgid "Date-Time"
+msgstr ""
+
+#: languages/generatedString.php:2220
+msgid "Date-Time Input"
+msgstr ""
+
+#: languages/generatedString.php:2222
+msgid "Month"
+msgstr ""
+
+#: languages/generatedString.php:2224
+msgid "Month Input"
+msgstr ""
+
+#: languages/generatedString.php:2226
+msgid "Week"
+msgstr ""
+
+#: languages/generatedString.php:2228
+msgid "Week Input"
+msgstr ""
+
+#: languages/generatedString.php:2230
+msgid "reCaptcha v2"
+msgstr ""
+
+#: languages/generatedString.php:2232
+msgid "ReCaptcha"
+msgstr ""
+
+#: languages/generatedString.php:2234
+msgid "Decision Box"
+msgstr ""
+
+#: languages/generatedString.php:2236
+msgid "Text"
+msgstr ""
+
+#: languages/generatedString.php:2238
+msgid "Text Field"
+msgstr ""
+
+#: languages/generatedString.php:2240
+msgid "User Name"
+msgstr ""
+
+#: languages/generatedString.php:2242
+msgid "Multiline Text"
+msgstr ""
+
+#: languages/generatedString.php:2244
+msgid "Multi-Line Text"
+msgstr ""
+
+#: languages/generatedString.php:2246
+msgid "Placeholder Text..."
+msgstr ""
+
+#: languages/generatedString.php:2248
+msgid "Check Box"
+msgstr ""
+
+#: languages/generatedString.php:2250
+msgid "Check Boxs"
+msgstr ""
+
+#: languages/generatedString.php:2252
+msgid "Radio Button"
+msgstr ""
+
+#: languages/generatedString.php:2254
+msgid "Please add a submit button"
+msgstr ""
+
+#: languages/generatedString.php:2256
+msgid "Sorry"
+msgstr ""
+
+#: languages/generatedString.php:2258
+msgid "Close"
+msgstr ""
+
+#: languages/generatedString.php:2260
+msgid "You can not save a blank form"
+msgstr ""
+
+#: languages/generatedString.php:2262
+msgid "Updating..."
+msgstr ""
+
+#: languages/generatedString.php:2264
+msgid "Error occurred, Please try again."
+msgstr ""
+
+#: languages/generatedString.php:2266
+msgid "ctrl + s"
+msgstr ""
+
+#: languages/generatedString.php:2268
+msgid "Select One"
+msgstr ""
+
+#: languages/generatedString.php:2270
+msgid "Disable"
+msgstr ""
+
+#: languages/generatedString.php:2272
+msgid "Readonly"
+msgstr ""
+
+#: languages/generatedString.php:2274
+msgid "Hide"
+msgstr ""
+
+#: languages/generatedString.php:2276
+msgid "Show"
+msgstr ""
+
+#: languages/generatedString.php:2278
+msgid "Not Required"
+msgstr ""
+
+#: languages/generatedString.php:2280
+msgid "Copied on clipboard."
+msgstr ""
+
+#: languages/generatedString.php:2282
+msgid "Failed to Copy, Try Again."
+msgstr ""
+
+#: languages/generatedString.php:2284
+msgid "Equal"
+msgstr ""
+
+#: languages/generatedString.php:2286
+msgid "Not Equal"
+msgstr ""
+
+#: languages/generatedString.php:2288
+msgid "Is Null"
+msgstr ""
+
+#: languages/generatedString.php:2290
+msgid "Is Not Null"
+msgstr ""
+
+#: languages/generatedString.php:2292
+msgid "Contain"
+msgstr ""
+
+#: languages/generatedString.php:2294
+msgid "Contain All"
+msgstr ""
+
+#: languages/generatedString.php:2296
+msgid "Not Contain"
+msgstr ""
+
+#: languages/generatedString.php:2298
+msgid "Greater Than"
+msgstr ""
+
+#: languages/generatedString.php:2300
+msgid "Less Than"
+msgstr ""
+
+#: languages/generatedString.php:2302
+msgid "Greater Than or Equal"
+msgstr ""
+
+#: languages/generatedString.php:2304
+msgid "Less Than or Equal"
+msgstr ""
+
+#: languages/generatedString.php:2306
+msgid "Start With"
+msgstr ""
+
+#: languages/generatedString.php:2308
+msgid "End With"
+msgstr ""
+
+#: languages/generatedString.php:2310
+msgid "OR"
+msgstr ""
+
+#: languages/generatedString.php:2312
+msgid "AND"
+msgstr ""
+
+#: languages/generatedString.php:2314
+msgid "Do You want Deplicate these"
+msgstr ""
+
+#: languages/generatedString.php:2316
+msgid "item"
+msgstr ""
+
+#: languages/generatedString.php:2318
+msgid "Do you want to change these"
+msgstr ""
+
+#: languages/generatedString.php:2320
+msgid "status"
+msgstr ""
+
+#: languages/generatedString.php:2322
+msgid "Are you sure to delete these"
+msgstr ""
+
+#: languages/generatedString.php:2324
+msgid "items"
+msgstr ""
+
+#: languages/generatedString.php:2326
+msgid "Row Selected"
+msgstr ""
+
+#: languages/generatedString.php:2328
+msgid "Total Response:"
+msgstr ""
+
+#: languages/generatedString.php:2330
+msgid "Page"
+msgstr ""
+
+#: languages/generatedString.php:2332
+msgid "of"
+msgstr ""
+
+#: languages/generatedString.php:2334
+msgid "Search"
+msgstr ""
+
+#: languages/generatedString.php:2336
+msgid "Toggle preview"
+msgstr ""
+
+#: languages/generatedString.php:2338
+msgid "Password reset email template"
+msgstr ""
+
+#: languages/generatedString.php:2340
+msgid "Success Message:"
+msgstr ""
+
+#: languages/generatedString.php:2342
+msgid "Success Message"
+msgstr ""
+
+#: languages/generatedString.php:2344
+msgid "Forgot Password Fields"
+msgstr ""
+
+#: languages/generatedString.php:2346
+msgid "Redirect Page:"
+msgstr ""
+
+#: languages/generatedString.php:2348
+msgid "Login Fields"
+msgstr ""
+
+#: languages/generatedString.php:2350
+msgid "Admin Email Notification"
+msgstr ""
+
+#: languages/generatedString.php:2352
+msgid "WP User Role"
+msgstr ""
+
+#: languages/generatedString.php:2354
+msgid "Success Messages"
+msgstr ""
+
+#: languages/generatedString.php:2356
+msgid "User Approval  Method:"
+msgstr ""
+
+#: languages/generatedString.php:2358
+msgid "select approval method"
+msgstr ""
+
+#: languages/generatedString.php:2360
+msgid "Auto Login After Registration"
+msgstr ""
+
+#: languages/generatedString.php:2362
+msgid "Customize  Activation Email template"
+msgstr ""
+
+#: languages/generatedString.php:2364
+msgid "Customize  Activation Success Message"
+msgstr ""
+
+#: languages/generatedString.php:2366
+msgid "Field Mappping"
+msgstr ""
+
+#: languages/generatedString.php:2368
+msgid "User Fields"
+msgstr ""
+
+#: languages/generatedString.php:2370
+msgid "User Email Notification"
+msgstr ""
+
+#: languages/generatedString.php:2372
+msgid "User Meta Field Mappping"
+msgstr ""
+
+#: languages/generatedString.php:2374
+msgid "Meta Value"
+msgstr ""
+
+#: languages/generatedString.php:2376
+msgid "Meta Key"
+msgstr ""
+
+#: languages/generatedString.php:2378
+msgid "Reset Password Fields"
+msgstr ""
+
+#: languages/generatedString.php:2380
+msgid "Are you sure to delete this web hook?"
+msgstr ""
+
+#: languages/generatedString.php:2382
+msgid "Add More Hook"
+msgstr ""
+
+#: languages/generatedString.php:2384
+msgid "Add Conditional Logic"
+msgstr ""
+
+#: languages/generatedString.php:2386
+msgid "Record Create/Edit"
+msgstr ""
+
+#: languages/generatedString.php:2388
+msgid "Record Create"
+msgstr ""
+
+#: languages/generatedString.php:2390
+msgid "Record Edit"
+msgstr ""
+
+#: languages/generatedString.php:2392
+msgid "Record Delete"
+msgstr ""
+
+#: languages/generatedString.php:2394
+msgid "On Form Load"
+msgstr ""
+
+#: languages/generatedString.php:2396
+msgid "On Field Input"
+msgstr ""
+
+#: languages/generatedString.php:2398
+msgid "On Form Validate"
+msgstr ""
+
+#: languages/generatedString.php:2400
+msgid "On Form Submit"
+msgstr ""
+
+#: languages/generatedString.php:2402
+msgid "Always"
+msgstr ""
+
+#: languages/generatedString.php:2404
+msgid "Condition"
+msgstr ""
+
+#: languages/generatedString.php:2406
+msgid "Redirect URL"
+msgstr ""
+
+#: languages/generatedString.php:2408
+msgid "Web Hook"
+msgstr ""
+
+#: languages/generatedString.php:2410
+msgid "Email Notification"
+msgstr ""
+
+#: languages/generatedString.php:2412
+msgid "Integration"
+msgstr ""
+
+#: languages/generatedString.php:2414
+msgid "Select Hooks to Call"
+msgstr ""
+
+#: languages/generatedString.php:2416
+msgid "Select Integation"
+msgstr ""
+
+#: languages/generatedString.php:2418
+msgid "Redirect URL:"
+msgstr ""
+
+#: languages/generatedString.php:2420
+msgid "Select Page To Redirect"
+msgstr ""
+
+#: languages/generatedString.php:2422
+msgid "Email Notification:"
+msgstr ""
+
+#: languages/generatedString.php:2424
+msgid "Select Email Template"
+msgstr ""
+
+#: languages/generatedString.php:2426
+msgid "Add mail from address"
+msgstr ""
+
+#: languages/generatedString.php:2428
+msgid "CC"
+msgstr ""
+
+#: languages/generatedString.php:2430
+msgid "BCC"
+msgstr ""
+
+#: languages/generatedString.php:2432
+msgid "Reply To"
+msgstr ""
+
+#: languages/generatedString.php:2434
+msgid "Set another field value"
+msgstr ""
+
+#: languages/generatedString.php:2436
+msgid "Select Message"
+msgstr ""
+
+#: languages/generatedString.php:2438
+msgid "For"
+msgstr ""
+
+#: languages/generatedString.php:2440
+msgid "UNLIMITED"
+msgstr ""
+
+#: languages/generatedString.php:2442
+msgid "Conditional Logics"
+msgstr ""
+
+#: languages/generatedString.php:2444
+msgid "Contact Form"
+msgstr ""
+
+#: languages/generatedString.php:2446
+msgid "Select a Form"
+msgstr ""
+
+#: languages/generatedString.php:2448
+msgid "Bitform block settings"
+msgstr ""
+
+#: languages/generatedString.php:2450
+msgid "Form settings"
+msgstr ""
+
+#: languages/generatedString.php:2452
+msgid "Form Deleted Successfully"
+msgstr ""
+
+#: languages/generatedString.php:2454
+msgid "Form Duplicated Successfully."
+msgstr ""
+
+#: languages/generatedString.php:2456
+msgid "Are you sure to delete this form?"
+msgstr ""
+
+#: languages/generatedString.php:2458
+msgid "Are you sure to duplicate this form ?"
+msgstr ""
+
+#: languages/generatedString.php:2460
+msgid "Are you sure to export this form ?"
+msgstr ""
+
+#: languages/generatedString.php:2462
+msgid "Create Form"
+msgstr ""
+
+#: languages/generatedString.php:2464
+msgid "Forms"
+msgstr ""
+
+#: languages/generatedString.php:2466
+msgid "Create From"
+msgstr ""
+
+#: languages/generatedString.php:2468
+msgid "Failed to change Form Status"
+msgstr ""
+
+#: languages/generatedString.php:2470
+msgid "Form Name"
+msgstr ""
+
+#: languages/generatedString.php:2472
+msgid "Short Code"
+msgstr ""
+
+#: languages/generatedString.php:2474
+msgid "Views"
+msgstr ""
+
+#: languages/generatedString.php:2476
+msgid "Completion Rate"
+msgstr ""
+
+#: languages/generatedString.php:2478
+msgid "Responses"
+msgstr ""
+
+#: languages/generatedString.php:2480
+msgid "Created"
+msgstr ""
+
+#: languages/generatedString.php:2482
+msgid "SMTP"
+msgstr ""
+
+#: languages/generatedString.php:2484
+msgid "CPT"
+msgstr ""
+
+#: languages/generatedString.php:2486
+msgid "API"
+msgstr ""
+
+#: languages/generatedString.php:2488
+msgid "Payments"
+msgstr ""
+
+#: languages/generatedString.php:2490
+msgid "Lost In Space"
+msgstr ""
+
+#: languages/generatedString.php:2492
+msgid "Redirecting Home in"
+msgstr ""
+
+#: languages/generatedString.php:2494
+msgid "Go Home"
+msgstr ""
+
+#: languages/generatedString.php:2496
+msgid "Please try again. Token was expired"
+msgstr ""
+
+#: languages/generatedString.php:2498
+msgid "Home"
+msgstr ""
+
+#: languages/generatedString.php:2500
+msgid "Builder"
+msgstr ""
+
+#: languages/generatedString.php:2502
+msgid "Show Success Message"
+msgstr ""
+
+#: languages/generatedString.php:2504
+msgid "Are you sure to duplicate this entry?"
+msgstr ""
+
+#: languages/generatedString.php:2506
+msgid "Form Responses"
+msgstr ""
+
+#: languages/generatedString.php:2508
+msgid "Refresh"
+msgstr ""
+
+#: languages/generatedString.php:2510
+msgid "Response Details"
+msgstr ""
+
+#: languages/generatedString.php:2512
+msgid "Title"
+msgstr ""
+
+#: languages/generatedString.php:2514
+msgid "No Response Found."
+msgstr ""
+
+#: languages/generatedString.php:2516
+msgid "Form Settings"
+msgstr ""
+
+#: languages/generatedString.php:2518
+msgid "WP Auth"
+msgstr ""
+
+#: languages/generatedString.php:2520
+msgid "Thank you for installing Bit Form."
+msgstr ""
+
+#: languages/generatedString.php:2522
+msgid "Modern Form builder and database management  system"
+msgstr ""
+
+#: languages/generatedString.php:2524
+msgid "for Wordpress"
+msgstr ""
+
+#: languages/generatedString.php:2526
+msgid "Create First Form"
+msgstr ""
+
+#: languages/generatedString.php:2528
+msgid "Welcome to Bit Form"
+msgstr ""

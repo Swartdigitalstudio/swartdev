@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: developer@bitcode.pro\n"
+"Language-Team: support@bitcode.pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-05T07:50:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: bitform\n"
+
+#: includes/Admin/Form/AdminFormHandler.php:393
+msgid "Form Saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:687
+msgid "Form updated successfully."
+msgstr ""
+
+#: includes/Core/Database/ReportsModel.php:71
+#: includes/Core/Database/ReportsModel.php:82
+msgid "At least 1 condition needed"
+msgstr ""
